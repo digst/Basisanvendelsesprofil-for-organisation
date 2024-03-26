@@ -1,22 +1,44 @@
-Den formelle organisations egenskaber
+# Den formelle organisations egenskaber
+
+(billede) 
+
+## Organisationens identifikation og beskrivelse
  
-Organisationens identifikation og beskrivelse
- 
 
-foretrukken term
-Vokabular-definition og beskrivelser
-URI	http://www.w3.org/2004/02/skos/core#prefLabel
+**foretrukken term**
+_**Vokabular-definition og beskrivelser**_
+<table>
+<tr>
+    <td>URI</td>
+    <td>http://www.w3.org/2004/02/skos/core#prefLabel</td>
+</tr>
+<tr>
+    <td>Term</td>
+    <td>foretrukken term</td>
+</tr>
+<tr>
+    <td>Definition</td>
+    <td>Den foretrukne leksikalske betegnelse for en ressource på et givet sprog.</td>
+</tr>
+<tr>
+    <td>Kommentar</td>
+    <td>En ressource har ikke mere end én værdi af skos:prefLabel pr. sprogtag. <br> Range for skos:prefLabel er klassen af RDF ’plain literals’. <br> skos:prefLabel, skos:altLabel og skos:hiddenLabel er parvis disjunkte egenskaber.</td>
+</tr>
+<tr>
+    <td>Domæne</td>
+    <td>rdfs:Resource</td>
+</tr>
+<tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string eller rdf:langString (tidligere angivet som rdf:PlainLiteral)</td>
+</tr>
+<tr>
+    <td>Underegenskab af</td>
+    <td>rdfs:label</td>
+</tr>
+</table>
 
-Term	foretrukken term
-Definition	Den foretrukne leksikalske betegnelse for en ressource på et givet sprog.
-Kommentar	En ressource har ikke mere end én værdi af skos:prefLabel pr. sprogtag.
-Range for skos:prefLabel er klassen af RDF ’plain literals’.
-skos:prefLabel, skos:altLabel og skos:hiddenLabel er parvis disjunkte egenskaber.
-Domæne	rdfs:Resource
-Udfaldsrum	xsd:string eller rdf:langString (tidligere angivet som rdf:PlainLiteral)
-
-Underegenskab af	rdfs:label
-Profilens kontekstrestriktioner og annotationer 
+_**Profilens kontekstrestriktioner og annotationer**_ 
 Definition	[fra informationsmodel]
 alment anvendt navn for en organisation
 Kommentar	[fra informationsmodel]
