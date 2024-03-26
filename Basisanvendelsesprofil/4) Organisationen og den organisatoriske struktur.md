@@ -1,6 +1,6 @@
 # Organisationen og den organisatoriske struktur
 
-![Illustration](Illustrationer/figur4.1)
+(indsæt billede)
  
 Organisationer vil i de fleste tilfælde have en organisatorisk struktur, oftest en hierarkisk form. 
 
