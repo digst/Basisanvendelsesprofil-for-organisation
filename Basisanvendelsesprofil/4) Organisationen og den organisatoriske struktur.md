@@ -3,16 +3,27 @@
 (billede)
  
 Organisationer vil i de fleste tilfælde have en organisatorisk struktur, oftest en hierarkisk form. 
+
 En organisation kan bestå af flere underorganisationer der hver for sig har en specifik identitet, fx kan et ministerium bestå af flere underordnede styrelser.
+
 En organisation kan være inddelt i mindre organisationsenheder hvis eksistens er afhængig af organisationen, fx en afdeling i en større organisation. Organisationer består typisk af mange afdelinger, kontorer, enheder, teams, grupper osv. En organisationsenhed kan også have underordnede enheder.
+
 Organisationer kan indbyrdes have andre former for relationer end de der udtrykkes i form af under- og overorganisatoriske forhold, fx finansiering eller kæderelationer.
+
 En organisation kan klassificeres som værende af en bestemt organisationstype. I forhold til offentlige organisationer kunne det fx være kommune, region, ministerier, styrelser og mange af de andre former for offentlige organisationer, der er en væsentlig del af hverdagen i det offentlige organisationslandskab.
-Organisationen og dens dele
+
+## Organisationen og dens dele
 I den organisatoriske struktur indgår to helt centrale klasser:
-Den klasse der repræsenterer organisationen som den helhed der normalt tænkes på når der refereres til organisationen. Klassen for den formelle organisation.
-Den klasse der repræsentere afgrænsede dele af organisationen. Klassen for organisatoriske enheder.
-Formel organisation (klasse)
-Vokabular-definition og beskrivelser
+
+Den klasse der repræsenterer organisationen som den helhed der normalt tænkes på når der refereres til organisationen. Klassen for <ins>den formelle organisation</ins>.
+
+Den klasse der repræsentere afgrænsede dele af organisationen. Klassen for <ins>organisatoriske enheder</ins>.
+
+### Formel organisation (klasse)
+_**Vokabular-definition og beskrivelser**_
+
+
+
 URI	http://www.w3.org/ns/org#FormalOrganization
 
 Term	Formel organisation
