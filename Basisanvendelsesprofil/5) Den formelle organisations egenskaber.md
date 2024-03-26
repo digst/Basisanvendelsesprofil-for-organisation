@@ -39,19 +39,33 @@ _**Vokabular-definition og beskrivelser**_
 </table>
 
 _**Profilens kontekstrestriktioner og annotationer**_ 
-Definition	[fra informationsmodel]
-alment anvendt navn for en organisation
-Kommentar	[fra informationsmodel]
-Ofte vil organisationens navn være det samme som man finder i CVR-registret eller Myndighedsregistret, når der er tale om virksomheders og myndigheders navne.
-Anvendelsesnote	Bruges til at angive organisationens primære - ofte juridisk anerkendte - navn. Det antages at organisationer kun har et enkelt navn eller en enkelt betegnelse som det foretrukne, eventuelt med oversatte versioner på andre sprog. Med andre ord kan primære navne angives på flere sprog og dermed give flere forekomster af egenskaben skos:prefLabel for den enkelte organisation.
-Eksempel	[fra informationsmodel]
-o	"Digitaliseringsstyrelsen"
-o	" Næstved Sygehus"
-o	"Holbæk kommune"
-o	"FDF-spejderne i Vejle"
-...
-Udfaldsrum	rdf:langString
-Multiplicitet	1 - *
+<table>
+<tr>
+    <td>Definition</td>
+    <td><span style="color:blue">[fra informationsmodel]</span> alment anvendt navn for en organisation</td>
+</tr>
+<tr>
+    <td>Kommentar</td>
+    <td><span style="color:blue">[fra informationsmodel]</span> Ofte vil organisationens navn være det samme som man finder i CVR-registret eller Myndighedsregistret, når der er tale om virksomheders og myndigheders navne.</td>
+</tr>
+<tr>
+    <td>Anvendelsesnote</td>
+    <td><span style="color:blue">Bruges til at angive organisationens primære - ofte juridisk anerkendte - navn. Det antages at organisationer kun har et enkelt navn eller en enkelt betegnelse som det foretrukne, eventuelt med oversatte versioner på andre sprog. Med andre ord kan primære navne angives på flere sprog og dermed give flere forekomster af egenskaben skos:prefLabel for den enkelte organisation.</span></td>
+</tr>
+<tr>
+    <td>Eksempel</td>
+    <td> [fra informationsmodel] <br> o "Digitaliseringsstyrelsen" <br> o "Næstved Sygehus" <br> o "Holbæk kommune" <br> o "FDF-spejderne i Vejle"
+    </td>
+</tr>
+<tr>
+    <td>Udfaldsrum</td>
+    <td>rdf:langString</td>
+</tr>
+<tr>
+    <td>Multiplicitet</td>
+    <td>1 - *</td>
+</tr>
+</table>
 
 alternativ term
 Vokabular-definition og beskrivelser
