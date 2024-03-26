@@ -67,113 +67,312 @@ _**Profilens kontekstrestriktioner og annotationer**_
 </tr>
 </table>
 
-alternativ term
-Vokabular-definition og beskrivelser
-URI	http://www.w3.org/2004/02/skos/core#altLabel 
+**alternativ term**
+_**Vokabular-definition og beskrivelser**_
+<table>
+<tr>
+    <td>URI</td>
+    <td>http://www.w3.org/2004/02/skos/core#altLabel</td>
+</tr>
+<tr>
+    <td>Foretrukken term</td>
+    <td>alternativ term</td>
+</tr>
+<tr>
+    <td>Definition</td>
+    <td>En alternativ leksikalsk term for en ressource.</td>
+</tr>
+<tr>
+    <td>Kommentar</td>
+    <td>Range for skos:altLabel er klassen af RDF ’plain literals’. <br> skos:prefLabel, skos:altLabel og skos:hiddenLabel er parvis disjunkte egenskaber.</td>
+</tr>
+<tr>
+    <td>Eksempel</td>
+    <td>Akronymer, forkortelser, stavevarianter og uregelmæssige flertals-/entalsformer kan inkluderes blandt de alternative betegnelser for et begreb. Fejlstavede termer er normalt inkluderet som skjulte etiketter (se skos:hiddenLabel).</td>
+</tr>
+<tr>
+    <td>Domæne</td>
+    <td>rdfs:Resource</td>
+</tr>
+<tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string eller rdf:langString (tidligere angivet som rdf:PlainLiteral)</td>
+</tr>
+<tr>
+    <td>Underegenskab af</td>
+    <td>rdfs:label</td>
+</tr>
+</table>
 
-Foretrukken term	alternativ term
-Definition	En alternativ leksikalsk term for en ressource.
-Kommentar	Range for skos:altLabel er klassen af RDF ’plain literals’.
-skos:prefLabel, skos:altLabel og skos:hiddenLabel er parvis disjunkte egenskaber.
-Eksempel	Akronymer, forkortelser, stavevarianter og uregelmæssige flertals-/entalsformer kan inkluderes blandt de alternative betegnelser for et begreb. Fejlstavede termer er normalt inkluderet som skjulte etiketter (se skos:hiddenLabel).
-Domæne	rdfs:Resource
-Udfaldsrum	xsd:string eller rdf:langString (tidligere angivet som rdf:PlainLiteral)
+_**Profilens kontekstrestriktioner og annotationer**_ 
+<table>
+<tr>
+    <td>Definition</td>
+    <td><span style="color🚙">[fra informationsmodel] <br> et andet navn for organisationen end det alment foretrukne</span></td>
+</tr>
+<tr>
+    <td>Kommentar</td>
+    <td><span style="color🚙">[fra informationsmodel] <br> Ofte opstår der alment kendte forkortelser eller alternative navne for organisationer - især hvis det officielle navn er meget langt eller ikke så mundret</span></td>
+</tr>
+<tr>
+    <td>Anvendelsesnote</td>
+    <td>Bruges til at angive et accepteret - men ikke foretrukkent - navn for organisationen.></td>
+</tr>
+<tr>
+    <td>Eksempel</td>
+    <td>
+        <span style="color🚙">[fra informationsmodel] <br> navn: "Digitaliseringsstyrelsen" alternativt navn: "Digst"<br>
+        <span style="color🚙">[fra informationsmodel] <br> navn: "Styrelsen for dataforsyning og effektivisering"  <br> alternativtNavn: "SDFE"</span></td>
+</tr>
+<tr>
+    <td>Udfaldsrum</td>
+    <td>rdf:langString</td>
+</tr>
+<tr>
+    <td>Multiplicitet</td>
+    <td>0 - *</td>
+</tr>
+</table>
 
-Underegenskab af	rdfs:label
-Profilens kontekstrestriktioner og annotationer 
-Definition	[fra informationsmodel]
-et andet navn for organisationen end det alment foretrukne
-Kommentar	[fra informationsmodel]
-Ofte opstår der alment kendte forkortelser eller alternative navne for organisationer - især hvis det officielle navn er meget langt eller ikke så mundret
-Anvendelsesnote	Bruges til at angive et accepteret - men ikke foretrukkent - navn for organisationen.
-Eksempel	[fra informationsmodel]
-navn: "Digitaliseringsstyrelsen"
-alternativt navn: "Digst"
-navn: "Styrelsen for dataforsyning og effektivisering"
-alternativtNavn: "SDFE"
-Udfaldsrum	rdf:langString
-Multiplicitet	0 - *
+**beskrivelse**
+_**Vokabular-definition og beskrivelser**_
+<table>
+<tr>
+    <td>URI</td>
+    <td>http://purl.org/dc/terms/description</td>
+</tr>
+<tr>
+    <td>Term</td>
+    <td>beskrivelse</td>
+</tr>
+<tr>
+    <td>Beskrivelse</td>
+    <td>Beskrivelsen kan omfatte, men er ikke begrænset til: et abstrakt, en indholdsfortegnelse, en grafisk repræsentation eller en fritekstberetning af ressourcen.</td>
+</tr>
+<tr>
+    <td>Kommentar</td>
+    <td>En redegørelse for ressourcen.</td>
+</tr>
+<tr>
+    <td>Domæne</td>
+    <td>rdfs:Resource</td>
+</tr>
+<tr>
+    <td>Udfaldsrum</td>
+    <td>rdfs:Resource</td>
+</tr>
+</table>
 
-beskrivelse
-Vokabular-definition og beskrivelser
-URI	http://purl.org/dc/terms/description
-Term	beskrivelse
-Beskrivelse	Beskrivelsen kan omfatte, men er ikke begrænset til: et abstrakt, en indholdsfortegnelse, en grafisk repræsentation eller en fritekstberetning af ressourcen.
-Kommentar	En redegørelse for ressourcen.
-Domæne	rdfs:Resource
-Udfaldsrum	rdfs:Resource
-Profilens kontekstrestriktioner og annotationer 
-Beskrivelse	[fra informationsmodel]
-letforståelig forklaring på organisationens virke.
-Kommentar	[fra informationsmodel]
-Beskrivelsen skal gerne formuleres således at den er forståelig af andre end dem, der arbejder i organisationen, da formålet netop er at udenforstående skal kunne få en vis indsigt i organisationens virke og formål.
-Anvendelsesnote	Bruges til at angive en tekstbaseret beskrivelse af organisationens formål og arbejde
-Udfaldsrum	rdf:langString
-Multiplicitet	0 - *
+_**Profilens kontekstrestriktioner og annotationer**_
+<table>
+<tr>
+    <td>Beskrivelse</td>
+    <td><span style="color🚙">[fra informationsmodel] <br> letforståelig forklaring på organisationens virke.</span></td>
+</tr>
+<tr>
+    <td>Kommentar</td>
+    <td><span style="color🚙">[fra informationsmodel] <br> Beskrivelsen skal gerne formuleres således at den er forståelig af andre end dem, der arbejder i organisationen, da formålet netop er at udenforstående skal kunne få en vis indsigt i organisationens virke og formål.</span></td>
+</tr>
+<tr>
+    <td>Anvendelsesnote</td>
+    <td>Bruges til at angive en tekstbaseret beskrivelse af organisationens formål og arbejde</td>
+</tr>
+<tr>
+    <td>Udfaldsrum</td>
+    <td>rdf:langString</td>
+</tr>
+<tr>
+    <td>Multiplicitet</td>
+    <td>0 - *</td>
+</tr>
+</table>
 
-cvr-nummer
-Vokabular-definition og beskrivelser
-URI	https://data.gov.dk/model/core/registered-business/registeredBusinessCode
-Term	cvr-nummer
-Definition	Unikt nummer der identificerer en juridisk enhed registreret i CVR-registeret.
-Domæne	org:FormalOrganization
-Udfaldsrum	xsd:string
-Underegenskab af	dct:identifier
-Profilens kontekstrestriktioner og annotationer 
-Definition	[fra informationsmodel (klassen Virksomhed)]
-En virksomheds forretningsnøgle
-Multiplicitet	0 - 1
 
-p-nummer-reference
-Vokabular-definition og beskrivelser
-URI	https://data.gov.dk/model/core/registered-business/productionUnitCodeReference
-Term	p-nummer-reference
-Definition	En repræsentation af et produktionsenhedsnummer, anvendt som reference til produktionsenheden.
-Anvendelsesnote	Et ’p-nummer’ identificerer et sted, en lokation hvor en virksomhed har aktivitet. Ofte ses et p-nummer dog tilknyttet direkte til en instans af ’Formel organisation’ eller ’Organisatorisk enhed’, hvilket formelt set ikke er korrekt. For at håndtere denne brug er egenskaben ’p-nummer-reference’ dannet.
-Domæne	rdfs:Resource
-Udfaldsrum	xsd:string 
-Profilens kontekstrestriktioner og annotationer 
-Multiplicitet	0 - *
+**cvr-nummer**
+_**Vokabular-definition og beskrivelser**_
+<table>
+<tr>
+    <td>URI</td>
+    <td>https://data.gov.dk/model/core/registered-business/registeredBusinessCode</td>
+</tr>
+<tr>
+    <td>Term</td>
+    <td>cvr-nummer</td>
+</tr>
+<tr>
+    <td>Definition</td>
+    <td>Unikt nummer der identificerer en juridisk enhed registreret i CVR-registeret.</td>
+</tr>
+<tr>
+    <td>Domæne</td>
+    <td>org:FormalOrganization</td>
+</tr>
+<tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string</td>
+</tr>
+<tr>
+    <td>Underegenskab af</td>
+    <td>dct:identifier</td>
+</tr>
+</table>
 
-myndighedskode
-Vokabular-definition og beskrivelser
-URI	https://data.gov.dk/model/core/organisation/extension/authorityCode
-Term	myndighedskode
-Definition	Entydig kode for en myndighed
-Definition	[fra informationsmodel (klassen Myndighed)]
-Entydig kode for en myndighed
-Kommentar	[fra informationsmodel (klassen Myndighed)]
-Myndighedskode er et tre- eller fire-cifret tal, der beskriver en myndighed. Enhver myndighedskode tilhører en bestemt myndighed og refererer til myndigheders data i CPR
-Anvendelsesnote	Myndighedskoder kendes også som kommunekoder og regionskoder. Kommunekoder og regionskoder udgør begge delmængder af myndighedskoder.
-Domæne	org:FormalOrganization
-Udfaldsrum	xsd:string
-Underegenskab af	dct:identifier
-Profilens kontekstrestriktioner og annotationer 
-Multiplicitet	0 - 1
+_**Profilens kontekstrestriktioner og annotationer**_
+<table>
+<tr>
+    <td>Definition</td>
+    <td><span style="color🚙">[fra informationsmodel (klassen Virksomhed)] <br> En virksomheds forretningsnøgle</span></td>
+</tr>
+<tr>
+    <td>Multiplicitet</td>
+    <td>0 - 1</td>
+</tr>
+</table>
 
-EAN
-EAN er ikke en del af informationsmodellen, men er lovpligtig at anvende for offentlige organisationer. EAN foreslås derfor som egenskab på ’Formel organisation’. FLYT TIL KONTAKTINFORMATION
-Vokabular-definition og beskrivelser
-URI	https://schema.org/globalLocationNumber
 
-Term	globalLocationNumber
-Kommentar	Global Location Number (GLN, nogle gange også omtalt som International Location Number eller ILN) for den respektive organisation, person eller sted. GLN er et 13-cifret nummer, der bruges til at identificere parter og fysiske lokationer.
-Domæne	schema:Organization eller schema:Person eller schema:Place
+**p-nummer-reference**
+_**Vokabular-definition og beskrivelser**_
+<table>
+<tr>
+    <td>URI</td>
+    <td>https://data.gov.dk/model/core/registered-business/productionUnitCodeReference</td>
+</tr>
+<tr>
+    <td>Term</td>
+    <td>p-nummer-reference</td>
+</tr>
+<tr>
+    <td>Definition</td>
+    <td>En repræsentation af et produktionsenhedsnummer, anvendt som reference til produktionsenheden.</td>
+</tr>
+<tr>
+    <td>Anvendelsesnote</td>
+    <td>Et ’p-nummer’ identificerer et sted, en lokation hvor en virksomhed har aktivitet. Ofte ses et p-nummer dog tilknyttet direkte til en instans af ’Formel organisation’ eller ’Organisatorisk enhed’, hvilket formelt set ikke er korrekt. For at håndtere denne brug er egenskaben ’p-nummer-reference’ dannet.</td>
+</tr>
+<tr>
+    <td>Domæne</td>
+    <td>rdfs:Resource</td>
+</tr>
+<tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string</td>
+</tr>
+</table>
 
-Udfaldsrum	xsd:string
-Underegenskab af	schema:identifier
-Profilens kontekstrestriktioner og annotationer 
-Foretrukken term	EAN
-Anvendelsesnote	EAN-lokationsnummeret er et nummer, der entydigt identificerer den pågældende "indehaver" af nummeret. "EAN" står for "European Article Numbering". Et EAN-nummer er lig med et GLN-nummer (Global Location Number),
-Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i fakturahåndteringssystemer, er denne betegnelse også benyttet i anvendelsesprofilen.
-Multiplicitet	0 - 1
 
-Organisationens historik
+_**Profilens kontekstrestriktioner og annotationer**_	
+<table>
+<tr>
+    <td>Multiplicitet</td>
+    <td>0 - *</td>
+</tr>	
+</table>
+
+**myndighedskode**
+_**Vokabular-definition og beskrivelser**_
+<table width="100%">
+<tr>
+    <td>URI</td>
+    <td>https://data.gov.dk/model/core/organisation/extension/authorityCode</td>
+</tr>
+<tr>
+    <td>Term</td>
+    <td>myndighedskode</td>
+</tr>
+<tr>
+    <td>Definition</td>
+    <td>Entydig kode for en myndighed</span></td>
+</tr>
+<tr>
+	<td>Definition</td>
+        <td><span style="color🚙">[fra informationsmodel (klassen Myndighed)] Entydig kode for en myndighed </span></td>
+</tr>
+<tr>
+    <td>Kommentar</td>
+    <td><span style="color🚙">[fra informationsmodel (klassen Myndighed)]</span><br> Myndighedskode er et tre- eller fire-cifret tal, der beskriver en myndighed. Enhver myndighedskode tilhører en bestemt myndighed og refererer til myndigheders data i CPR</td>
+</tr>
+<tr>
+    <td>Anvendelsesnote</td>
+    <td>Myndighedskoder kendes også som kommunekoder og regionskoder. Kommunekoder og regionskoder udgør begge delmængder af myndighedskoder.</td>
+</tr>
+<tr>
+    <td>Domæne</td>
+    <td>org:FormalOrganization</td>
+</tr>
+<tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string</td>
+</tr>
+<tr>
+    <td>Underegenskab af</td>
+    <td>dct:identifier</td>
+</tr>
+<tr>
+    <td>Profilens kontekstrestriktioner og annotationer</td>
+    <td>Multiplicitet 0 - 1</td>
+</tr>
+</table>
+
+
+**EAN**
+EAN er ikke en del af informationsmodellen, men er lovpligtig at anvende for offentlige organisationer. EAN foreslås derfor som egenskab på ’Formel organisation’. (rettelse) FLYT TIL KONTAKTINFORMATION
+
+_**Vokabular-definition og beskrivelser**_
+<table>
+<tr>
+    <td>URI</td>
+    <td>https://schema.org/globalLocationNumber</td>
+</tr>
+<tr>
+    <td>Term</td>
+    <td>globalLocationNumber</td>
+</tr>
+<tr>
+    <td>Kommentar</td>
+    <td>
+        Global Location Number (GLN, nogle gange også omtalt som International Location Number eller ILN) for den respektive organisation, person eller sted. GLN er et 13-cifret nummer, der bruges til at identificere parter og fysiske lokationer.
+    </td>
+</tr>
+<tr>
+    <td>Domæne</td>
+    <td>schema:Organization eller schema:Person eller schema:Place</td>
+</tr>
+<tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string</td>
+</tr>
+<tr>
+    <td>Underegenskab af</td>
+    <td>schema:identifier</td>
+</tr>
+</table>
+
+_**Profilens kontekstrestriktioner og annotationer**_
+<table>
+<tr>
+    <td>Foretrukken term</td>
+    <td>EAN</td>
+</tr>
+<tr>
+    <td>Anvendelsesnote</td>
+    <td>EAN-lokationsnummeret er et nummer, der entydigt identificerer den pågældende "indehaver" af nummeret. "EAN" står for "European Article Numbering". Et EAN-nummer er lig med et GLN-nummer (Global Location Number). <br>
+Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i fakturahåndteringssystemer, er denne betegnelse også benyttet i anvendelsesprofilen.</td>
+</tr>
+<tr>
+    <td>Multiplicitet</td>
+    <td>0 - 1</td>
+</tr>
+</table>
+
+
+## Organisationens historik
  
-oprettelsesdato
-Vokabular-definition og beskrivelser
-URI	http://schema.org/foundingDate
+**oprettelsesdato**
+(indsæt billede)
+_**Vokabular-definition og beskrivelser**_
 
+
+URI	http://schema.org/foundingDate
 Term	grundlæggelsesdato
 Kommentar	Den dato, hvor denne organisation blev grundlagt.
 Domæne (inkluderer)	schema:Organization
