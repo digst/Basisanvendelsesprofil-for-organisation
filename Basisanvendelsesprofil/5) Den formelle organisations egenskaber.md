@@ -5,8 +5,8 @@
 ## Organisationens identifikation og beskrivelse
  
 
-**foretrukken term**
-_**Vokabular-definition og beskrivelser**_
+#### **foretrukken term**
+##### _**Vokabular-definition og beskrivelser**_
 <table>
 <tr>
     <td>URI</td>
@@ -38,7 +38,7 @@ _**Vokabular-definition og beskrivelser**_
 </tr>
 </table>
 
-_**Profilens kontekstrestriktioner og annotationer**_ 
+##### _**Profilens kontekstrestriktioner og annotationer**_ 
 <table>
 <tr>
     <td>Definition</td>
@@ -67,8 +67,8 @@ _**Profilens kontekstrestriktioner og annotationer**_
 </tr>
 </table>
 
-**alternativ term**
-_**Vokabular-definition og beskrivelser**_
+#### **alternativ term**
+##### _**Vokabular-definition og beskrivelser**_
 <table>
 <tr>
     <td>URI</td>
@@ -104,7 +104,7 @@ _**Vokabular-definition og beskrivelser**_
 </tr>
 </table>
 
-_**Profilens kontekstrestriktioner og annotationer**_ 
+##### _**Profilens kontekstrestriktioner og annotationer**_ 
 <table>
 <tr>
     <td>Definition</td>
@@ -134,8 +134,8 @@ _**Profilens kontekstrestriktioner og annotationer**_
 </tr>
 </table>
 
-**beskrivelse**
-_**Vokabular-definition og beskrivelser**_
+#### **beskrivelse**
+##### _**Vokabular-definition og beskrivelser**_
 <table>
 <tr>
     <td>URI</td>
@@ -163,7 +163,7 @@ _**Vokabular-definition og beskrivelser**_
 </tr>
 </table>
 
-_**Profilens kontekstrestriktioner og annotationer**_
+##### _**Profilens kontekstrestriktioner og annotationer**_
 <table>
 <tr>
     <td>Beskrivelse</td>
@@ -187,9 +187,8 @@ _**Profilens kontekstrestriktioner og annotationer**_
 </tr>
 </table>
 
-
-**cvr-nummer**
-_**Vokabular-definition og beskrivelser**_
+#### **cvr-nummer**
+##### _**Vokabular-definition og beskrivelser**_
 <table>
 <tr>
     <td>URI</td>
@@ -217,7 +216,7 @@ _**Vokabular-definition og beskrivelser**_
 </tr>
 </table>
 
-_**Profilens kontekstrestriktioner og annotationer**_
+##### _**Profilens kontekstrestriktioner og annotationer**_
 <table>
 <tr>
     <td>Definition</td>
@@ -230,8 +229,8 @@ _**Profilens kontekstrestriktioner og annotationer**_
 </table>
 
 
-**p-nummer-reference**
-_**Vokabular-definition og beskrivelser**_
+#### **p-nummer-reference**
+##### _**Vokabular-definition og beskrivelser**_
 <table>
 <tr>
     <td>URI</td>
@@ -260,7 +259,7 @@ _**Vokabular-definition og beskrivelser**_
 </table>
 
 
-_**Profilens kontekstrestriktioner og annotationer**_	
+##### _**Profilens kontekstrestriktioner og annotationer**_	
 <table>
 <tr>
     <td>Multiplicitet</td>
@@ -268,8 +267,8 @@ _**Profilens kontekstrestriktioner og annotationer**_
 </tr>	
 </table>
 
-**myndighedskode**
-_**Vokabular-definition og beskrivelser**_
+#### **myndighedskode**
+##### _**Vokabular-definition og beskrivelser**_
 <table width="100%">
 <tr>
     <td>URI</td>
@@ -314,10 +313,10 @@ _**Vokabular-definition og beskrivelser**_
 </table>
 
 
-**EAN**
+#### **EAN**
 EAN er ikke en del af informationsmodellen, men er lovpligtig at anvende for offentlige organisationer. EAN foreslås derfor som egenskab på ’Formel organisation’. (rettelse) FLYT TIL KONTAKTINFORMATION
 
-_**Vokabular-definition og beskrivelser**_
+##### _**Vokabular-definition og beskrivelser**_
 <table>
 <tr>
     <td>URI</td>
@@ -347,7 +346,7 @@ _**Vokabular-definition og beskrivelser**_
 </tr>
 </table>
 
-_**Profilens kontekstrestriktioner og annotationer**_
+##### _**Profilens kontekstrestriktioner og annotationer**_
 <table>
 <tr>
     <td>Foretrukken term</td>
@@ -367,11 +366,11 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 
 ## Organisationens historik
  
-**oprettelsesdato**
+#### **oprettelsesdato**
 
 (indsæt billede)
 
-_**Vokabular-definition og beskrivelser**_
+##### _**Vokabular-definition og beskrivelser**_
 
 <table>
 <tr>
@@ -400,7 +399,7 @@ _**Vokabular-definition og beskrivelser**_
 </tr>
 </table>
 	
-**Profilens kontekstrestriktioner og annotationer**
+##### _**Profilens kontekstrestriktioner og annotationer**_
 <table>
     <tr>
         <td>URI</td>
@@ -452,8 +451,8 @@ _**Vokabular-definition og beskrivelser**_
     </tr>
 </table>
 
-**nedlæggelsesdato**
-_**Vokabular-definition og beskrivelser**_
+#### **nedlæggelsesdato**
+##### _**Vokabular-definition og beskrivelser**_
 <table>
     <tr>
         <td>URI</td>
@@ -544,7 +543,7 @@ _**Vokabular-definition og beskrivelser**_
 </table>
 
 
-_**Profilens kontekstrestriktioner og annotationer**_ 
+##### _**Profilens kontekstrestriktioner og annotationer**_ 
 Definition	[fra informationsmodel (klassen Myndighed)]
 Type af myndighed  
 Kommentar	[fra informationsmodel]
@@ -583,110 +582,296 @@ Udfaldsrum	ovx:FormalOrganizationType
 Multiplicitet	0 - *
 
 ### Type af formel organisation (klasse)
-[Vi bør nok også anvende en underklasse af ConceptScheme til at indholde det samlede udvalg af organisationstyper. Vi bør måske kunne inddrage decentrale organisationsklassifikationer]
-Vokabular-definition og beskrivelser
-URI	https://data.gov.dk/model/core/organisation/extension/FormalOrganizationType 
+[Vi bør nok også anvende en underklasse af ConceptScheme til at indholde det samlede udvalg af organisationstyper. Vi bør måske kunne inddrage decentrale organisationsklassifikationer] (farve, gul farve her)
 
-Term	Type af formel organisation
-Definition	Klassifikation af organisationstyper
-Beskrivelse	[Fyld ind her]
-Eksempel	Typer af organisationer:
-Offentlig myndighed
-	Kommune
-	Region
-	Statslig myndighed
-		Folketinget
-		Ministerie
-		Styrelse
-Offentligretligt organ
-Virksomhed
-Interesseorganisation
-Politisk parti
-Underklasse af	skos:Concept
-Profilens kontekstrestriktioner og annotationer 
-Anvendelsesnote	[Fyld ind her]
+##### _**Vokabular-definition og beskrivelser**_
+<table>
+    <tr>
+        <td>URI</td>
+        <td>https://data.gov.dk/model/core/organisation/extension/FormalOrganizationType</td>
+    </tr>
+    <tr>
+        <td>Term</td>
+        <td>Type af formel organisation</td>
+    </tr>
+    <tr>
+        <td>Definition</td>
+        <td>Klassifikation af organisationstyper</td>
+    </tr>
+    <tr>
+        <td>Beskrivelse</td>
+        <td>[Fyld ind her]</td>
+    </tr>
+    <tr>
+        <td>Eksempel</td>
+        <td>
+            Typer af organisationer:<br>
+            - Offentlig myndighed<br>
+            &nbsp;&nbsp;- Kommune<br>
+            &nbsp;&nbsp;- Region<br>
+            &nbsp;&nbsp;- Statslig myndighed<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;- Folketinget<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;- Ministerie<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;- Styrelse<br>
+            - Offentligretligt organ<br>
+            - Virksomhed<br>
+            - Interesseorganisation<br>
+            - Politisk parti
+        </td>
+    </tr>
+    <tr>
+        <td>Underklasse af</td>
+        <td>skos:Concept</td>
+    </tr>
+</table>
 
-foretrukken betegnelse
-Vokabular-definition og beskrivelser
-URI	http://www.w3.org/2004/02/skos/core#prefLabel
+##### _**Profilens kontekstrestriktioner og annotationer**_
+<table>
+	<tr>
+		<td>Anvendelsesnote</td>
+		<td>[Fyld ind her]</td>
+	</tr>
+</table>
 
-Term	foretrukken term
-Definition	Den foretrukne leksikalske betegnelse for en ressource på et givet sprog.
-Kommentar	En ressource har ikke mere end én værdi af skos:prefLabel pr. sprogtag.
-Range for skos:prefLabel er klassen af RDF ’plain literals’.
-skos:prefLabel, skos:altLabel og skos:hiddenLabel er parvis disjunkte egenskaber.
-Domæne	rdfs:Resource
-Udfaldsrum	xsd:string eller rdf:langString (tidligere angivet som rdf:PlainLiteral)
+#### **foretrukken betegnelse**
+##### _**Vokabular-definition og beskrivelser**_
+<table>
+    <tr>
+        <td>URI</td>
+        <td>http://www.w3.org/2004/02/skos/core#prefLabel</td>
+    </tr>
+    <tr>
+        <td>Term</td>
+        <td>foretrukken term</td>
+    </tr>
+    <tr>
+        <td>Definition</td>
+        <td>Den foretrukne leksikalske betegnelse for en ressource på et givet sprog.</td>
+    </tr>
+    <tr>
+        <td>Kommentar</td>
+        <td>En ressource har ikke mere end én værdi af skos:prefLabel pr. sprogtag. Range for skos:prefLabel er klassen af RDF ’plain literals’. skos:prefLabel, skos:altLabel, og skos:hiddenLabel er parvis disjunkte egenskaber.</td>
+    </tr>
+    <tr>
+        <td>Domæne</td>
+        <td>rdfs:Resource</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>xsd:string eller rdf:langString (tidligere angivet som rdf:PlainLiteral)</td>
+    </tr>
+    <tr>
+        <td>Underegenskab af</td>
+        <td>rdfs:label</td>
+    </tr>
+</table>
 
-Underegenskab af	rdfs:label
-Profilens kontekstrestriktioner og annotationer 
+##### _**Profilens kontekstrestriktioner og annotationer**_
 Domæne	ovx:FormalOrganizationType
 Udfaldsrum	rdf:langString
 
 Multiplicitet	1 - *
 
-alternativ betegnelse
-Vokabular-definition og beskrivelser
-URI	http://www.w3.org/2004/02/skos/core#altLabel 
+#### **alternativ betegnelse**
+##### _**Vokabular-definition og beskrivelser**_
+<table>
+    <tr>
+        <td>URI</td>
+        <td>http://www.w3.org/2004/02/skos/core#altLabel</td>
+    </tr>
+    <tr>
+        <td>Foretrukken term</td>
+        <td>alternativ term</td>
+    </tr>
+    <tr>
+        <td>Definition</td>
+        <td>En alternativ leksikalsk term for en ressource.</td>
+    </tr>
+    <tr>
+        <td>Kommentar</td>
+        <td>Range for skos:altLabel er klassen af RDF ’plain literals’. skos:prefLabel, skos:altLabel, og skos:hiddenLabel er parvis disjunkte egenskaber. Akronymer, forkortelser, stavevarianter og uregelmæssige flertals-/entalsformer kan inkluderes blandt de alternative betegnelser for et begreb. Fejlstavede termer er normalt inkluderet som skjulte etiketter (se skos:hiddenLabel).</td>
+    </tr>
+    <tr>
+        <td>Eksempel</td>
+        <td>Akronymer, forkortelser, stavevarianter og uregelmæssige flertals-/entalsformer kan inkluderes blandt de alternative betegnelser for et begreb. Fejlstavede termer er normalt inkluderet som skjulte etiketter (se skos:hiddenLabel).</td>
+    </tr>
+    <tr>
+        <td>Domæne</td>
+        <td>rdfs:Resource</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>xsd:string eller rdf:langString (tidligere angivet som rdf:PlainLiteral)</td>
+    </tr>
+    <tr>
+        <td>Underegenskab af</td>
+        <td>rdfs:label</td>
+    </tr>
+</table>
 
-Foretrukken term	alternativ term
-Definition	En alternativ leksikalsk term for en ressource.
-Kommentar	Range for skos:altLabel er klassen af RDF ’plain literals’.
-skos:prefLabel, skos:altLabel og skos:hiddenLabel er parvis disjunkte egenskaber.
-Eksempel	Akronymer, forkortelser, stavevarianter og uregelmæssige flertals-/entalsformer kan inkluderes blandt de alternative betegnelser for et begreb. Fejlstavede termer er normalt inkluderet som skjulte etiketter (se skos:hiddenLabel).
-Domæne	rdfs:Resource
-Udfaldsrum	xsd:string eller rdf:langString (tidligere angivet som rdf:PlainLiteral)
+##### _**Profilens kontekstrestriktioner og annotationer**_
+<table>
+    <tr>
+        <td>Domæne</td>
+        <td>ovx:FormalOrganizationType</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>rdf:langString</td>
+    </tr>
+    <tr>
+        <td>Multiplicitet</td>
+        <td>0 - *</td>
+    </tr>
+</table>
 
-Underegenskab af	rdfs:label
-Profilens kontekstrestriktioner og annotationer 
-Domæne	ovx:FormalOrganizationType
-Udfaldsrum	rdf:langString
-Multiplicitet	0 - *
+#### **definition**
+##### _**Vokabular-definition og beskrivelser**_
+<table>
+    <tr>
+        <td>URI</td>
+        <td>http://www.w3.org/2004/02/skos/core#definition</td>
+    </tr>
+    <tr>
+        <td>Term</td>
+        <td>definition</td>
+    </tr>
+    <tr>
+        <td>Definition</td>
+        <td>En erklæring eller formel forklaring af betydningen af et begreb.</td>
+    </tr>
+    <tr>
+        <td>Domæne</td>
+        <td>rdfs:Resource</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>rdfs:Resource</td>
+    </tr>
+    <tr>
+        <td>Underegenskab af</td>
+        <td>skos:note</td>
+    </tr>
+    <tr>
+        <td>Profilens kontekstrestriktioner og annotationer</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Domæne</td>
+        <td>ovx:FormalOrganizationType</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>rdf:langString</td>
+    </tr>
+    <tr>
+        <td>Multiplicitet</td>
+        <td>0 - *</td>
+    </tr>
+</table>
 
-definition
-Vokabular-definition og beskrivelser
-URI	http://www.w3.org/2004/02/skos/core#definition
+#### **har bredere**
+##### _**Vokabular-definition og beskrivelser**_
+<table>
+    <tr>
+        <td>URI</td>
+        <td>http://www.w3.org/2004/02/skos/core#broader</td>
+    </tr>
+    <tr>
+        <td>Term</td>
+        <td>har bredere</td>
+    </tr>
+    <tr>
+        <td>Definition</td>
+        <td>Relaterer et begreb til et begreb, der har en mere generel betydning</td>
+    </tr>
+    <tr>
+        <td>Kommentar</td>
+        <td>Efter konvention bruges skos:broader kun til at erklære en umiddelbar (dvs. direkte) hierarkisk forbindelse mellem to konceptuelle ressourcer.</td>
+    </tr>
+    <tr>
+        <td>Domæne</td>
+        <td>rdfs:Resource</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>rdfs:Resource</td>
+    </tr>
+    <tr>
+        <td>Underegenskab af</td>
+        <td>skos:broaderTransitive</td>
+    </tr>
+    <tr>
+        <td>Modsatrettet egenskab</td>
+        <td>skos:narrower</td>
+    </tr>
+    <tr>
+        <td>Profilens kontekstrestriktioner og annotationer</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Domæne</td>
+        <td>ovx:FormalOrganizationType</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>ovx:FormalOrganizationType</td>
+    </tr>
+    <tr>
+        <td>Multiplicitet</td>
+        <td>0 - 1</td>
+    </tr>
+</table>
 
-Term	definition
-Definition	En erklæring eller formel forklaring af betydningen af et begreb.
-Domæne	rdfs:Resource
-Udfaldsrum	rdfs:Resource
-Underegenskab af	skos:note
-Profilens kontekstrestriktioner og annotationer 
-Domæne	ovx:FormalOrganizationType
-Udfaldsrum	rdf:langString
-Multiplicitet	0 - *
+#### **har smallere**
+##### _**Vokabular-definition og beskrivelser**_
+<table>
+    <tr>
+        <td>URI</td>
+        <td>http://www.w3.org/2004/02/skos/core#narrower</td>
+    </tr>
+    <tr>
+        <td>Term</td>
+        <td>har smallere</td>
+    </tr>
+    <tr>
+        <td>Definition</td>
+        <td>Relaterer et begreb til et begreb, der er mere specifikt i betydning</td>
+    </tr>
+    <tr>
+        <td>Domæne</td>
+        <td>rdfs:Resource</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>rdfs:Resource</td>
+    </tr>
+    <tr>
+        <td>Underegenskab af</td>
+        <td>skos:narrowerTransitive</td>
+    </tr>
+    <tr>
+        <td>Modsatrettet egenskab</td>
+        <td>skos:broader</td>
+    </tr>
+    <tr>
+        <td>Profilens kontekstrestriktioner og annotationer</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Domæne</td>
+        <td>ovx:FormalOrganizationType</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>ovx:FormalOrganizationType</td>
+    </tr>
+    <tr>
+        <td>Multiplicitet</td>
+        <td>0 - *</td>
+    </tr>
+</table>
 
-har bredere
-Vokabular-definition og beskrivelser
-URI	http://www.w3.org/2004/02/skos/core#broader
-
-Term	har bredere
-Definition	Relaterer et begreb til et begreb, der har en mere generel betydning
-Kommentar	Efter konvention bruges skos:broader kun til at erklære en umiddelbar (dvs. direkte) hierarkisk forbindelse mellem to konceptuelle ressourcer.
-Domæne	rdfs:Resource
-Udfaldsrum	rdfs:Resource
-Underegenskab af	skos:broaderTransitive
-Modsatrettet egenskab	skos:narrower
-Profilens kontekstrestriktioner og annotationer 
-Domæne	ovx:FormalOrganizationType
-Udfaldsrum	ovx:FormalOrganizationType
-Multiplicitet	0 - 1
-
-har smallere
-Vokabular-definition og beskrivelser
-URI	http://www.w3.org/2004/02/skos/core#narrower
-
-Term	har smallere
-Definition	Relaterer et begreb til et begreb, der er mere specifikt i betydning
-Domæne	rdfs:Resource
-Udfaldsrum	rdfs:Resource
-Underegenskab af	skos:narrowerTransitive
-Modsatrettet egenskab	skos:broader
-Profilens kontekstrestriktioner og annotationer 
-Domæne	ovx:FormalOrganizationType
-Udfaldsrum	ovx:FormalOrganizationType
-Multiplicitet	0 - *
 
  
 
