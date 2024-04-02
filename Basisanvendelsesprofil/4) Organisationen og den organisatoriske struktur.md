@@ -20,7 +20,7 @@ Den klasse der repræsenterer organisationen som den helhed der normalt tænkes 
 Den klasse der repræsentere afgrænsede dele af organisationen. Klassen for <ins>organisatoriske enheder</ins>.
 
 ### Formel organisation (klasse)
-##### _**Vokabular-definition og beskrivelser**_
+##### _Vokabular-definition og beskrivelser_
 
 <table>
 <tr>
@@ -45,7 +45,7 @@ Den klasse der repræsentere afgrænsede dele af organisationen. Klassen for <in
 </tr>
 </table>
 
-##### _**Profilens kontekstrestriktioner og annotationer**_
+##### _Profilens kontekstrestriktioner og annotationer_
 (farve, der er farve i den følgende tabel)
 <table>
 <tr>
@@ -70,7 +70,7 @@ o	en kirkelig forening <br>
 </table>
 
 ### Organisatorisk enhed (klasse)
-##### _**Vokabular-definition og beskrivelser**_
+##### _Vokabular-definition og beskrivelser_
 <table>
 <tr>
     <td>URI</td>
@@ -94,7 +94,7 @@ o	en kirkelig forening <br>
 </tr>
 </table>
 
-##### _**Profilens kontekstrestriktioner og annotationer**_
+##### _Profilens kontekstrestriktioner og annotationer_
 <table>
 <tr>
     <td>Alternativ term</td>
@@ -146,8 +146,8 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
 
 (billede)    
 
-#### **enhed af**
-##### _**Vokabular-definition og beskrivelser**_
+#### enhed af
+##### _Vokabular-definition og beskrivelser_
 <table>
 <tr>
     <td>URI</td>
@@ -219,8 +219,8 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
 </tr>
 </table>
 
-#### **øvre enhed i** 
-##### _**Vokabular-definition og beskrivelser**_
+#### øvre enhed i
+##### _Vokabular-definition og beskrivelser_
 <table>
 <tr>
     <td>URI</td>
@@ -256,7 +256,7 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
 </tr>
 </table>
  	
-_**Profil-restriktioner og annotationer**_
+_Profil-restriktioner og annotationer_
 <table>
 <tr>
     <td>Definition</td>
@@ -270,8 +270,8 @@ _**Profil-restriktioner og annotationer**_
 
 ### Organisatoriske enheders indbyrdes hierarki
  
-#### **enhed af**
-##### _**Vokabular-definition og beskrivelser**_
+#### enhed af
+##### _Vokabular-definition og beskrivelser_
 <table>
 <tr>
     <td>URI</td>
@@ -307,7 +307,7 @@ _**Profil-restriktioner og annotationer**_
 </tr>
 </table>
  	
-##### _**Profil-restriktioner og annotationer**_
+##### _Profil-restriktioner og annotationer_
 <table>
 <tr>
     <td>URI</td>
@@ -347,7 +347,7 @@ _**Profil-restriktioner og annotationer**_
 </tr>
 </table>
 	
-##### _**Profilens kontekstrestriktioner og annotationer**_
+##### _Profilens kontekstrestriktioner og annotationer_
 <table>
 <tr>
     <td>Definition</td>
@@ -375,8 +375,8 @@ _**Profil-restriktioner og annotationer**_
 
 (billede)
 
-#### **underorganisation af**
-##### _**Vokabular-definition og beskrivelser**_
+#### underorganisation af
+##### _Vokabular-definition og beskrivelser_
 <table>
 <tr>
     <td>URI</td>
@@ -412,7 +412,7 @@ _**Profil-restriktioner og annotationer**_
 </tr>
 </table>
 	
-##### _**Profilens kontekstrestriktioner og annotationer**_
+##### _Profilens kontekstrestriktioner og annotationer_
 <table>
 <tr>
     <td>Definition</td>
@@ -440,8 +440,8 @@ _**Profil-restriktioner og annotationer**_
 </tr>
 </table>
 
-#### **relateret til**
-##### _**Vokabular-definition og beskrivelser**_
+#### relateret til
+##### _Vokabular-definition og beskrivelser_
 <table>
 <tr>
     <td>URI</td>
@@ -470,7 +470,7 @@ _**Profil-restriktioner og annotationer**_
 </table>
 
 
-##### _**Profilens kontekstrestriktioner og annotationer**_
+##### _Profilens kontekstrestriktioner og annotationer_
 <table>
 <tr>
     <td>Anvendelsesnote</td>
