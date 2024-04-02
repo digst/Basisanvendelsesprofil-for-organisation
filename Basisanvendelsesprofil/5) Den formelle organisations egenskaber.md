@@ -5,8 +5,8 @@
 ## Organisationens identifikation og beskrivelse
  
 
-#### **foretrukken term**
-##### _**Vokabular-definition og beskrivelser**_
+#### foretrukken term
+##### _Vokabular-definition og beskrivelser_
 <table>
 <tr>
     <td>URI</td>
@@ -38,7 +38,7 @@
 </tr>
 </table>
 
-##### _**Profilens kontekstrestriktioner og annotationer**_ 
+##### _Profilens kontekstrestriktioner og annotationer_ 
 <table>
 <tr>
     <td>Definition</td>
@@ -67,8 +67,8 @@
 </tr>
 </table>
 
-#### **alternativ term**
-##### _**Vokabular-definition og beskrivelser**_
+#### alternativ term
+##### _Vokabular-definition og beskrivelser_
 <table>
 <tr>
     <td>URI</td>
@@ -104,7 +104,7 @@
 </tr>
 </table>
 
-##### _**Profilens kontekstrestriktioner og annotationer**_ 
+##### _Profilens kontekstrestriktioner og annotationer_ 
 <table>
 <tr>
     <td>Definition</td>
@@ -134,8 +134,8 @@
 </tr>
 </table>
 
-#### **beskrivelse**
-##### _**Vokabular-definition og beskrivelser**_
+#### beskrivelse
+##### _Vokabular-definition og beskrivelser_
 <table>
 <tr>
     <td>URI</td>
@@ -163,7 +163,7 @@
 </tr>
 </table>
 
-##### _**Profilens kontekstrestriktioner og annotationer**_
+##### _Profilens kontekstrestriktioner og annotationer_
 <table>
 <tr>
     <td>Beskrivelse</td>
@@ -187,8 +187,8 @@
 </tr>
 </table>
 
-#### **cvr-nummer**
-##### _**Vokabular-definition og beskrivelser**_
+#### cvr-nummer
+##### _Vokabular-definition og beskrivelser_
 <table>
 <tr>
     <td>URI</td>
@@ -216,7 +216,7 @@
 </tr>
 </table>
 
-##### _**Profilens kontekstrestriktioner og annotationer**_
+##### _Profilens kontekstrestriktioner og annotationer_
 <table>
 <tr>
     <td>Definition</td>
@@ -229,8 +229,8 @@
 </table>
 
 
-#### **p-nummer-reference**
-##### _**Vokabular-definition og beskrivelser**_
+#### p-nummer-reference
+##### _Vokabular-definition og beskrivelser_
 <table>
 <tr>
     <td>URI</td>
@@ -259,7 +259,7 @@
 </table>
 
 
-##### _**Profilens kontekstrestriktioner og annotationer**_	
+##### _Profilens kontekstrestriktioner og annotationer_	
 <table>
 <tr>
     <td>Multiplicitet</td>
@@ -267,8 +267,8 @@
 </tr>	
 </table>
 
-#### **myndighedskode**
-##### _**Vokabular-definition og beskrivelser**_
+#### myndighedskode
+##### _Vokabular-definition og beskrivelser_
 <table width="100%">
 <tr>
     <td>URI</td>
@@ -313,10 +313,10 @@
 </table>
 
 
-#### **EAN**
+#### EAN
 EAN er ikke en del af informationsmodellen, men er lovpligtig at anvende for offentlige organisationer. EAN foreslås derfor som egenskab på ’Formel organisation’. (rettelse) FLYT TIL KONTAKTINFORMATION
 
-##### _**Vokabular-definition og beskrivelser**_
+##### _Vokabular-definition og beskrivelser_
 <table>
 <tr>
     <td>URI</td>
@@ -346,7 +346,7 @@ EAN er ikke en del af informationsmodellen, men er lovpligtig at anvende for off
 </tr>
 </table>
 
-##### _**Profilens kontekstrestriktioner og annotationer**_
+##### _Profilens kontekstrestriktioner og annotationer_
 <table>
 <tr>
     <td>Foretrukken term</td>
@@ -366,11 +366,11 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 
 ## Organisationens historik
  
-#### **oprettelsesdato**
+#### oprettelsesdato
 
 (indsæt billede)
 
-##### _**Vokabular-definition og beskrivelser**_
+##### _Vokabular-definition og beskrivelser_
 
 <table>
 <tr>
@@ -399,7 +399,7 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 </tr>
 </table>
 	
-##### _**Profilens kontekstrestriktioner og annotationer**_
+##### _Profilens kontekstrestriktioner og annotationer_
 <table>
     <tr>
         <td>URI</td>
@@ -451,8 +451,8 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
     </tr>
 </table>
 
-#### **nedlæggelsesdato**
-##### _**Vokabular-definition og beskrivelser**_
+#### nedlæggelsesdato
+##### _Vokabular-definition og beskrivelser_
 <table>
     <tr>
         <td>URI</td>
@@ -513,8 +513,8 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 
 (indsæt billede)
 
-#### **klassifikation**
-##### _**Vokabular-definition og beskrivelser**_
+#### klassifikation
+##### _Vokabular-definition og beskrivelser_
 <table>
     <tr>
         <td>URI</td>
@@ -543,7 +543,7 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 </table>
 
 
-##### _**Profilens kontekstrestriktioner og annotationer**_ 
+##### _Profilens kontekstrestriktioner og annotationer_ 
 Definition	[fra informationsmodel (klassen Myndighed)]
 Type af myndighed  
 Kommentar	[fra informationsmodel]
@@ -584,7 +584,7 @@ Multiplicitet	0 - *
 ### Type af formel organisation (klasse)
 [Vi bør nok også anvende en underklasse af ConceptScheme til at indholde det samlede udvalg af organisationstyper. Vi bør måske kunne inddrage decentrale organisationsklassifikationer] (farve, gul farve her)
 
-##### _**Vokabular-definition og beskrivelser**_
+##### _Vokabular-definition og beskrivelser_
 <table>
     <tr>
         <td>URI</td>
@@ -625,7 +625,7 @@ Multiplicitet	0 - *
     </tr>
 </table>
 
-##### _**Profilens kontekstrestriktioner og annotationer**_
+##### _Profilens kontekstrestriktioner og annotationer_
 <table>
 	<tr>
 		<td>Anvendelsesnote</td>
@@ -666,14 +666,14 @@ Multiplicitet	0 - *
     </tr>
 </table>
 
-##### _**Profilens kontekstrestriktioner og annotationer**_
+##### _Profilens kontekstrestriktioner og annotationer_
 Domæne	ovx:FormalOrganizationType
 Udfaldsrum	rdf:langString
 
 Multiplicitet	1 - *
 
-#### **alternativ betegnelse**
-##### _**Vokabular-definition og beskrivelser**_
+#### alternativ betegnelse
+##### _Vokabular-definition og beskrivelser_
 <table>
     <tr>
         <td>URI</td>
@@ -709,7 +709,7 @@ Multiplicitet	1 - *
     </tr>
 </table>
 
-##### _**Profilens kontekstrestriktioner og annotationer**_
+##### _Profilens kontekstrestriktioner og annotationer_
 <table>
     <tr>
         <td>Domæne</td>
@@ -725,8 +725,8 @@ Multiplicitet	1 - *
     </tr>
 </table>
 
-#### **definition**
-##### _**Vokabular-definition og beskrivelser**_
+#### definition
+##### _Vokabular-definition og beskrivelser_
 <table>
     <tr>
         <td>URI</td>
@@ -770,8 +770,8 @@ Multiplicitet	1 - *
     </tr>
 </table>
 
-#### **har bredere**
-##### _**Vokabular-definition og beskrivelser**_
+#### har bredere
+##### _Vokabular-definition og beskrivelser_
 <table>
     <tr>
         <td>URI</td>
@@ -823,8 +823,8 @@ Multiplicitet	1 - *
     </tr>
 </table>
 
-#### **har smallere**
-##### _**Vokabular-definition og beskrivelser**_
+#### har smallere
+##### _Vokabular-definition og beskrivelser_
 <table>
     <tr>
         <td>URI</td>
