@@ -368,63 +368,183 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 ## Organisationens historik
  
 **oprettelsesdato**
+
 (indsæt billede)
+
 _**Vokabular-definition og beskrivelser**_
 
+<table>
+<tr>
+    <td>URI</td>
+    <td>http://schema.org/foundingDate</td>
+</tr>
+<tr>
+    <td>Term</td>
+    <td>grundlæggelsesdato</td>
+</tr>
+<tr>
+    <td>Kommentar</td>
+    <td>Den dato, hvor denne organisation blev grundlagt.</td>
+</tr>
+<tr>
+    <td>Domæne (inkluderer)</td>
+    <td>schema:Organization</td>
+</tr>
+<tr>
+    <td>Udfaldsrum (inkluderer)</td>
+    <td>schema:Date</td>
+</tr>
+<tr>
+    <td>Udfaldsrum (inkluderer)</td>
+    <td>schema:Date</td>
+</tr>
+</table>
+	
+**Profilens kontekstrestriktioner og annotationer**
+<table>
+    <tr>
+        <td>URI</td>
+        <td>http://schema.org/foundingDate</td>
+    </tr>
+    <tr>
+        <td>Term</td>
+        <td>grundlæggelsesdato</td>
+    </tr>
+    <tr>
+        <td>Alternativ term</td>
+        <td>Oprettelsesdato</td>
+    </tr>
+    <tr>
+        <td>Alternativ term</td>
+        <td>oprettelsesdato [fra informationsmodel]</td>
+    </tr>
+    <tr>
+        <td>Definition</td>
+        <td>den dato organisationen blev grundlagt eller oprettet [fra informationsmodel]</td>
+    </tr>
+    <tr>
+        <td>Anvendelsesnote</td>
+        <td>Bruges til at angive den dato hvorpå organisationen blev oprettet</td>
+    </tr>
+    <tr>
+        <td>Kommentar</td>
+        <td>Den dato, hvor denne organisation blev grundlagt.</td>
+    </tr>
+    <tr>
+        <td>Domæne (inkluderer)</td>
+        <td>schema:Organization</td>
+    </tr>
+    <tr>
+        <td>Domæne</td>
+        <td>org:FormalOrganization</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum (inkluderer)</td>
+        <td>schema:Date</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>xsd:date</td>
+    </tr>
+    <tr>
+        <td>Multiplicitet</td>
+        <td>0 - 1</td>
+    </tr>
+</table>
 
-URI	http://schema.org/foundingDate
-Term	grundlæggelsesdato
-Kommentar	Den dato, hvor denne organisation blev grundlagt.
-Domæne (inkluderer)	schema:Organization
-Udfaldsrum (inkluderer)	schema:Date
-Profilens kontekstrestriktioner og annotationer 
-Alternativ term	Oprettelsesdato
-Alternativ term	[fra informationsmodel]
-oprettelsesdato
-Definition	[fra informationsmodel]
-den dato organisationen blev grundlagt eller oprettet
-Anvendelsesnote	Bruges til at angive den dato hvorpå organisationen blev oprettet
-Domæne	org:FormalOrganization
-Udfaldsrum	xsd:date
-Multiplicitet	0 - 1
+**nedlæggelsesdato**
+_**Vokabular-definition og beskrivelser**_
+<table>
+    <tr>
+        <td>URI</td>
+        <td>http://schema.org/dissolutionDate</td>
+    </tr>
+    <tr>
+        <td>Term</td>
+        <td>nedlæggelsesdato</td>
+    </tr>
+    <tr>
+        <td>Kommentar</td>
+        <td>dato, hvor denne organisation blev opløst.</td>
+    </tr>
+    <tr>
+        <td>Domæne (inkluderer)</td>
+        <td>schema:Organization</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum (inkluderer)</td>
+        <td>schema:Date</td>
+    </tr>
+    <tr>
+        <td>Alternativ term</td>
+        <td>Opløsningsdato</td>
+    </tr>
+    <tr>
+        <td>Alternativ term</td>
+        <td>ophørsdato, nedlæggelsesdato [fra informationsmodel]</td>
+    </tr>
+    <tr>
+        <td>Definition</td>
+        <td>Den dato organisationen ophører med at eksistere [fra informationsmodel]</td>
+    </tr>
+    <tr>
+        <td>Kommentar</td>
+        <td>Organisationen kan ikke ophøre med at eksistere så længe der er aktive Organisationsenheder eller -medlemmer i den. [fra informationsmodel]</td>
+    </tr>
+    <tr>
+        <td>Anvendelsesnote</td>
+        <td>Bruges til at angive den dato hvorpå organisationen blev nedlagt</td>
+    </tr>
+    <tr>
+        <td>Domæne</td>
+        <td>org:FormalOrganization</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>xsd:date</td>
+    </tr>
+    <tr>
+        <td>Multiplicitet</td>
+        <td>0 - 1</td>
+    </tr>
+</table>
 
-nedlæggelsesdato
-Vokabular-definition og beskrivelser
-URI	http://schema.org/dissolutionDate
 
-Term	nedlæggelsesdato
-Kommentar	dato, hvor denne organisation blev opløst.
-Domæne (inkluderer)	schema:Organization
-Udfaldsrum (inkluderer)	schema:Date
-Profilens kontekstrestriktioner og annotationer 
-Alternativ term	Opløsningsdato
-Alternativ term	[fra informationsmodel]
-ophørsdato, nedlæggelsesdato
-Definition	[fra informationsmodel]
-Den dato organisationen ophører med at eksistere
-Kommentar	[fra informationsmodel]
-Organisationen kan ikke ophøre med at eksistere så længe der er aktive Organisationsenheder eller -medlemmer i den.
-Anvendelsesnote	Bruges til at angive den dato hvorpå organisationen blev nedlagt
-Domæne	org:FormalOrganizational
-Udfaldsrum	xsd:date
-Multiplicitet	0 - 1
+## Typer af formelle organisationer
 
-Typer af formelle organisationer
- 
+(indsæt billede)
 
-klassifikation
-Vokabular-definition og beskrivelser
-URI	http://www.w3.org/ns/org#classification
+#### **klassifikation**
+##### _**Vokabular-definition og beskrivelser**_
+<table>
+    <tr>
+        <td>URI</td>
+        <td>http://www.w3.org/ns/org#classification</td>
+    </tr>
+    <tr>
+        <td>Term</td>
+        <td>klassifikation</td>
+    </tr>
+    <tr>
+        <td>Kommentar</td>
+        <td>Angiver en klassifikation for denne organisation inden for et eller andet klassifikationssystem. Bemærk, at det også er tilladt for applikationer at definere underklasser af org:Organisation som et middel til at repræsentere organisatoriske kategorier.</td>
+    </tr>
+    <tr>
+        <td>Anvendelsesnote</td>
+        <td>Udbyggende vokabularer ønsker måske at specialisere denne egenskab til at have et område svarende til et specifikt skos:ConceptScheme</td>
+    </tr>
+    <tr>
+        <td>Domæne</td>
+        <td>org:Organization</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>skos:Concept</td>
+    </tr>
+</table>
 
-Term	klassifikation
-Kommentar	Angiver en klassifikation for denne organisation inden for et eller andet klassifikationssystem.
-Bemærk, at det også er tilladt for applikationer at definere underklasser af org:Organisation som et middel til at repræsentere organisatoriske kategorier.
-Anvendelsesnote	Udbyggende vokabularer ønsker måske at specialisere denne egenskab til at have et område svarende til et specifikt skos:ConceptScheme
-Domæne	org:Organization
 
-Udfaldsrum	skos:Concept
-
-Profilens kontekstrestriktioner og annotationer 
+_**Profilens kontekstrestriktioner og annotationer**_ 
 Definition	[fra informationsmodel (klassen Myndighed)]
 Type af myndighed  
 Kommentar	[fra informationsmodel]
@@ -462,7 +582,7 @@ Domæne	org:FormalOrganization
 Udfaldsrum	ovx:FormalOrganizationType
 Multiplicitet	0 - *
 
-Type af formel organisation (klasse)
+### Type af formel organisation (klasse)
 [Vi bør nok også anvende en underklasse af ConceptScheme til at indholde det samlede udvalg af organisationstyper. Vi bør måske kunne inddrage decentrale organisationsklassifikationer]
 Vokabular-definition og beskrivelser
 URI	https://data.gov.dk/model/core/organisation/extension/FormalOrganizationType 
