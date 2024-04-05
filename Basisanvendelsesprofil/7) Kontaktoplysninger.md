@@ -1,20 +1,41 @@
 # Kontaktoplysninger
 En organisation kan kontaktes af eksterne på forskellige måder. Kontakten kan ske ved ved personligt fremmøde til en besøgsadresse eller ved at sende post til postadresse. Kontakten kan også foretages via telefon, fax, e-mail eller en dedikeret webside. 
+
 I basisprofilen er alle de nævnte kontaktformer repræsenteret både i relation til den formelle organisation og i relation til organisatoriske enheder. Kontaktformerne er både repræsenteret som direkte tilknyttet en organisation eller en organisatoriske enhed, samt – hvor der er behov for det – tilknyttet som mere kvalificeret information. Kvalificeret information betyder i denne sammenhæng at der til kontaktformen, eksempelvis et telefonnummer, tilføjes data der giver mere information, eksempelvis hvilke tidspunkter der kan ringes på.
+
 Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation beskrives efterfølgende.
 
- 
+(indsæt billede) 
 
-Direkte relateret kontaktinformation
- 
-telefon
-Vokabular-definition og beskrivelser
-URI	http://schema.org/telephone
+## Direkte relateret kontaktinformation
 
-Term	telefon
-Kommentar	Telefonnummeret
-Domæne	schema:Organization  eller schema:Person  eller schema:ContactPoint  eller schema:Place
-Udfaldsrum	schema:Text  eller schema:URL  eller schema:Role
+(indsæt billede)
+ 
+#### telefon
+##### _Vokabular-definition og beskrivelser_
+<table border="1">
+  <tr>
+    <td>URI</td>
+    <td>http://schema.org/telephone</td>
+  </tr>
+  <tr>
+    <td>Term</td>
+    <td>telefon</td>
+  </tr>
+  <tr>
+    <td>Kommentar</td>
+    <td>Telefonnummeret</td>
+  </tr>
+  <tr>
+    <td>Domæne</td>
+    <td>schema:Organization eller schema:Person eller schema:ContactPoint eller schema:Place</td>
+  </tr>
+  <tr>
+    <td>Udfaldsrum</td>
+    <td>schema:Text eller schema:URL eller schema:Role</td>
+  </tr>
+</table>
+
 Profil-restriktioner og annotationer 
 Definition	[fra informationsmodel (klassen Myndighed)]
 Telefonummer til myndighed
