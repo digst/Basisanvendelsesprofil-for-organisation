@@ -895,7 +895,7 @@ Kommentar	En erklæring om de intellektuelle ejendomsrettigheder (IPR) i eller o
 <table>
   <tr>
     <td>Anvendelsesnote</td>
-    <td>Enumeration bestående af:<br>Friday<br>Monday<br>PublicHolidays<br>Saturday<br>Sunday<br>Thursday<br>Tuesday<br>Wednesday</td>
+    <td>Enumeration bestående af: <br><br>Friday<br>Monday<br>PublicHolidays<br>Saturday<br>Sunday<br>Thursday<br>Tuesday<br>Wednesday</td>
   </tr>
 </table>
 
