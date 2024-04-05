@@ -269,6 +269,8 @@ _Profil-restriktioner og annotationer_
 </table>
 
 ### Organisatoriske enheders indbyrdes hierarki
+![Organisatorisk enheds indbyrdes relationer](PNG/Organisatorisk-enheds-indbyrdes-relationer.png)
+Organisatorisk-enheds-indbyrdes-relationer.png
  
 #### enhed af
 ##### _Vokabular-definition og beskrivelser_
