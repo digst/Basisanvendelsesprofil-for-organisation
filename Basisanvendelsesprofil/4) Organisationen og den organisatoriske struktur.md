@@ -136,7 +136,7 @@ Senere udgaver af basisprofilen vil kunne indeholde de to nævnte klasser og and
 ’Myndighed’ vil i det tilfælde kunne repræsenteres som en klasse der både er en delmængde af klassen ’Formel organisation’ og en delmængde af klassen [’Offentlig organisation’](https://semiceu.github.io/CPOV/releases/2.00/#Public%20Organisation ).
 For ’Virksomhed’ vil klassen [’Juridisk enhed’](https://semiceu.github.io/Core-Business-Vocabulary/releases/2.00/#Legal%20Entity ) kunne anvendes.
 
-(billede)            
+![Organisation, myndighed og virksomhed](PNG/Organisation-Myndighed-og-Virksomhed.png)
 
 På tilsvarende måde bruges org:classification til at angive typen af organisatorisk enhed.
 
