@@ -1,6 +1,6 @@
 # Den formelle organisations egenskaber
 
-(billede) 
+![Den formelle organisations egenskaber](PNG/Den-formelle-organisations-egenskaber.png)
 
 ## Organisationens identifikation og beskrivelse
  
