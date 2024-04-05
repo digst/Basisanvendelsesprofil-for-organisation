@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Oprettet af Microsoft Visio, SVG-eksport Fødereret profil.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="1030" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:Arial;font-size:0.833336em}
+		.st3 {font-size:1em}
+		.st4 {marker-end:url(#mrkr12-14);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st5 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.18181818181818}
+		.st6 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st7 {fill:#000000;font-family:Arial;font-size:0.75em}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend12">
+			<path d="M 3 1 L 0 0 L 3 -1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr12-14" class="st5" v:arrowType="12" v:arrowSize="3" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend12" transform="scale(-5.5,-5.5) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Side-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group1-1" transform="translate(190.471,-403.301)" v:mID="1" v:groupContext="group">
+			<title>Ark.1</title>
+			<g id="shape2-2" v:mID="2" v:groupContext="shape">
+				<title>Rektangel.54</title>
+				<desc>Fødereret API-profil</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="823.465" width="70.87" height="36.8504"/>
+				<rect x="0" y="805.039" width="70.8661" height="36.8504" class="st1"/>
+				<text x="13.48" y="820.46" class="st2" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>Fødereret <tspan
+							x="14.87" dy="1.2em" class="st3">API</tspan>-profil</text>			</g>
+			<g id="shape3-6" v:mID="3" v:groupContext="shape" transform="translate(141.732,0)">
+				<title>Rektangel.55</title>
+				<desc>API-profil</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="823.465" width="70.87" height="36.8504"/>
+				<rect x="0" y="805.039" width="70.8661" height="36.8504" class="st1"/>
+				<text x="14.87" y="826.46" class="st2" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>API-profil</text>			</g>
+			<g id="shape4-9" v:mID="4" v:groupContext="shape" transform="translate(70.8661,-18.4252)">
+				<title>Ark.4</title>
+				<path d="M0 841.89 L70.87 841.89" class="st4"/>
+			</g>
+			<g id="shape5-15" v:mID="5" v:groupContext="shape" transform="translate(81.0709,-18.1417)">
+				<title>Ark.5</title>
+				<desc>inkluderer</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="23.8819" cy="834.803" width="47.77" height="14.1732"/>
+				<rect x="0" y="827.717" width="47.7638" height="14.1732" class="st6"/>
+				<text x="4.12" y="837.5" class="st7" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>inkluderer</text>			</g>
+			<g id="shape6-18" v:mID="6" v:groupContext="shape" transform="translate(104.315,-3.9685)">
+				<title>Ark.6</title>
+				<desc>2 - *</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="12.6" cy="834.803" width="25.21" height="14.1732"/>
+				<rect x="0" y="827.717" width="25.2" height="14.1732" class="st6"/>
+				<text x="4.35" y="837.5" class="st7" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>2 - *</text>			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Oprettet af Microsoft Visio, SVG-eksport klasser og repræsentation-2.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st20">
+	<v:documentProperties v:langID="1030" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffff99;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#99ffcc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:#ccff99;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st4 {visibility:visible}
+		.st5 {fill:#000000;fill-opacity:0.5;filter:url(#filter_2.6666667461395);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5}
+		.st6 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st7 {fill:#000000;font-family:Arial;font-size:0.75em}
+		.st8 {stroke:#bfbfbf;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st9 {fill:#000000;font-family:Arial;font-size:0.666664em}
+		.st10 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.239976}
+		.st11 {fill:none;filter:url(#filter_2.6666667461395);marker-start:url(#mrkr13-59);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.4}
+		.st12 {fill:#000000;fill-opacity:0.4;stroke:#000000;stroke-opacity:0.4;stroke-width:0.086948582161584}
+		.st13 {marker-start:url(#mrkr13-65);stroke:#66ff99;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.239976}
+		.st14 {fill:#66ff99;fill-opacity:1;stroke:#66ff99;stroke-opacity:1;stroke-width:0.086948582161584}
+		.st15 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st16 {marker-start:url(#mrkr13-80);stroke:#92d050;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.239976}
+		.st17 {fill:#92d050;fill-opacity:1;stroke:#92d050;stroke-opacity:1;stroke-width:0.086948582161584}
+		.st18 {marker-start:url(#mrkr13-95);stroke:#ffff00;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.239976}
+		.st19 {fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-opacity:1;stroke-width:0.086948582161584}
+		.st20 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-59" class="st12" v:arrowType="13" v:arrowSize="2" v:setback="33.003" refX="33.00300030003" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(11.501050105011) "/>
+		</marker>
+		<marker id="mrkr13-65" class="st14" v:arrowType="13" v:arrowSize="2" v:setback="33.003" refX="33.00300030003" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(11.501050105011) "/>
+		</marker>
+		<marker id="mrkr13-80" class="st17" v:arrowType="13" v:arrowSize="2" v:setback="33.003" refX="33.00300030003" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(11.501050105011) "/>
+		</marker>
+		<marker id="mrkr13-95" class="st19" v:arrowType="13" v:arrowSize="2" v:setback="33.003" refX="33.00300030003" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(11.501050105011) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2.6666667461395">
+			<feGaussianBlur stdDeviation="2.6666667461395"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Side-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Forbindelse" v:index="0"/>
+		<g id="group66-1" transform="translate(155.906,-411.024)" v:mID="66" v:groupContext="group">
+			<title>Ark.66</title>
+			<g id="group33-2" transform="translate(0.708661,-53.8583)" v:mID="33" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<title>Cylinder.33</title>
+				<g id="shape34-3" v:mID="34" v:groupContext="shape">
+					<title>Ark.34</title>
+					<v:userDefs>
+						<v:ud v:nameU="ControlHalfHeight" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+						<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ControlHalfHeight" v:prompt="" v:val="VT0(0.29511317293203):1"/>
+						<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffff99)"/>
+					</v:userDefs>
+					<path d="M0 820.64 A42.5197 21.2481 -180 1 0 85.04 820.64 L85.04 806.44 L0 806.44 L0 820.64 Z" class="st1"/>
+				</g>
+				<g id="shape33-5" v:mID="33" v:groupContext="groupContent">
+					<ellipse cx="42.5197" cy="806.445" rx="42.5197" ry="21.2481" class="st1"/>
+				</g>
+			</g>
+			<g id="group35-7" transform="translate(229.606,0)" v:mID="35" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<title>Cylinder.35</title>
+				<g id="shape36-8" v:mID="36" v:groupContext="shape">
+					<title>Ark.36</title>
+					<v:userDefs>
+						<v:ud v:nameU="ControlHalfHeight" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+						<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ControlHalfHeight" v:prompt="" v:val="VT0(0.29511317293203):1"/>
+						<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#99ffcc)"/>
+					</v:userDefs>
+					<path d="M0 820.64 A42.5197 21.2481 -180 1 0 85.04 820.64 L85.04 806.44 L0 806.44 L0 820.64 Z" class="st2"/>
+				</g>
+				<g id="shape35-10" v:mID="35" v:groupContext="groupContent">
+					<ellipse cx="42.5197" cy="806.445" rx="42.5197" ry="21.2481" class="st2"/>
+				</g>
+			</g>
+			<g id="group37-12" transform="translate(80.7874,0)" v:mID="37" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<title>Cylinder.37</title>
+				<g id="shape38-13" v:mID="38" v:groupContext="shape">
+					<title>Ark.38</title>
+					<v:userDefs>
+						<v:ud v:nameU="ControlHalfHeight" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+						<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ControlHalfHeight" v:prompt="" v:val="VT0(0.29511317293203):1"/>
+						<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ccff99)"/>
+					</v:userDefs>
+					<path d="M0 820.64 A42.5197 21.2481 -180 1 0 85.04 820.64 L85.04 806.44 L0 806.44 L0 820.64 Z" class="st3"/>
+				</g>
+				<g id="shape37-15" v:mID="37" v:groupContext="groupContent">
+					<ellipse cx="42.5197" cy="806.445" rx="42.5197" ry="21.2481" class="st3"/>
+				</g>
+			</g>
+			<g id="shape39-17" v:mID="39" v:groupContext="shape" transform="translate(126.142,-114.094)">
+				<title>Rektangel.278</title>
+				<desc>http://xmlns.com/foaf/0.1/Person</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="831.26" width="141.74" height="21.2598"/>
+				<g id="shadow39-18" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+						transform="matrix(1,0,0,1,2.12132,2.12132)" class="st4">
+					<rect x="0" y="820.63" width="141.732" height="21.2598" class="st5"/>
+				</g>
+				<rect x="0" y="820.63" width="141.732" height="21.2598" class="st6"/>
+				<text x="6.34" y="834.26" class="st7" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>http://xmlns.com/foaf/0.1/Person</text>			</g>
+			<g id="group40-23" transform="translate(144.567,-37.5591)" v:mID="40" v:groupContext="group">
+				<title>Ark.40</title>
+				<g id="group41-24" v:mID="41" v:groupContext="group">
+					<title>Ark.41</title>
+					<g id="group42-25" v:mID="42" v:groupContext="group">
+						<title>Ark.42</title>
+						<g id="shape43-26" v:mID="43" v:groupContext="shape">
+							<title>Boks</title>
+							<v:userDefs>
+								<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+							</v:userDefs>
+							<rect x="0" y="809.291" width="35.4331" height="32.5984" class="st6"/>
+						</g>
+					</g>
+					<g id="shape44-28" v:mID="44" v:groupContext="shape" v:layerMember="0" transform="translate(9.92126,-5.66929)">
+						<title>Dynamisk forbindelse.24</title>
+						<path d="M0 834.8 L15.59 834.8" class="st8"/>
+					</g>
+					<g id="shape45-31" v:mID="45" v:groupContext="shape" v:layerMember="0"
+							transform="translate(9.92126,-1.13687E-13)">
+						<title>Dynamisk forbindelse.25</title>
+						<path d="M0 834.8 L15.59 834.8" class="st8"/>
+					</g>
+				</g>
+				<g id="shape46-34" v:mID="46" v:groupContext="shape" transform="translate(0,-23.3858)">
+					<title>Rektangel.80</title>
+					<desc>Zx48</desc>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="17.7165" cy="836.929" width="35.44" height="9.92126"/>
+					<rect x="0" y="831.969" width="35.4331" height="9.92126" class="st3"/>
+					<text x="8.82" y="839.33" class="st9" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>Zx48</text>				</g>
+			</g>
+			<g id="group47-37" transform="translate(215.433,-39.685)" v:mID="47" v:groupContext="group">
+				<title>Ark.47</title>
+				<g id="shape48-38" v:mID="48" v:groupContext="shape">
+					<title>Boks</title>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					</v:userDefs>
+					<rect x="0" y="810.709" width="42.5197" height="31.1811" class="st6"/>
+				</g>
+				<g id="shape49-40" v:mID="49" v:groupContext="shape" v:layerMember="0" transform="translate(2.79776E-14,-28.2898)">
+					<title>Dynamisk forbindelse</title>
+					<path d="M0 848.98 L42.52 848.98" class="st10"/>
+				</g>
+			</g>
+			<g id="shape50-43" v:mID="50" v:groupContext="shape" v:layerMember="0" transform="translate(228.189,-42.5197)">
+				<title>Dynamisk forbindelse.50</title>
+				<path d="M0 834.8 L15.59 834.8" class="st8"/>
+			</g>
+			<g id="shape51-46" v:mID="51" v:groupContext="shape" v:layerMember="0" transform="translate(228.189,-36.8504)">
+				<title>Dynamisk forbindelse.51</title>
+				<path d="M0 834.8 L15.59 834.8" class="st8"/>
+			</g>
+			<g id="shape52-49" v:mID="52" v:groupContext="shape" transform="translate(215.433,-60.9449)">
+				<title>Rektangel.52</title>
+				<desc>PERS</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="21.2598" cy="836.929" width="42.52" height="9.92126"/>
+				<rect x="0" y="831.969" width="42.5197" height="9.92126" class="st2"/>
+				<text x="10.37" y="839.33" class="st9" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>PERS</text>			</g>
+			<g id="shape53-52" v:mID="53" v:groupContext="shape" v:layerMember="0"
+					transform="translate(817.188,158.449) rotate(47.447)">
+				<title>Forbindelse, kurvet streg.294</title>
+				<desc>er samme som</desc>
+				<v:userDefs>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4429" cy="832.099" width="70.02" height="18.8036" transform="rotate(-47.447)"/>
+				<g id="shadow53-53" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+						transform="matrix(1,0,0,1,2.99726,-0.128088)" class="st4">
+					<path d="M7.25 838.7 L7.58 838.56 L21.01 834.08 L32.83 832.17 L43.05 832.84 L51.67 836.08 L58.68 841.89"
+							class="st11"/>
+				</g>
+				<path d="M7.25 838.7 L7.58 838.56 L21.01 834.08 L32.83 832.17 L43.05 832.84 L51.67 836.08 L58.68 841.89"
+						class="st13"/>
+				<rect v:rectContext="textBkgnd" x="-618.755" y="583.434" width="59.5107" height="10.7998"
+						transform="rotate(-47.447)" class="st15"/>
+				<text x="-618.75" y="591.53" transform="rotate(-47.447)" class="st7" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>er samme som</text>			</g>
+			<g id="shape54-68" v:mID="54" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-459.347,200.56) rotate(-51.2258) scale(-1,1)">
+				<title>Forbindelse, kurvet streg.295</title>
+				<desc>er samme som</desc>
+				<v:userDefs>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="39.1405" cy="833.335" width="70.02" height="18.8036" transform="rotate(51.2258)"/>
+				<g id="shadow54-69" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.325343,2.98231)" class="st4">
+					<path d="M7.54 839.46 L7.88 839.35 L21.17 835.76 L32.31 833.77 L41.31 833.39 L48.16 834.62 L52.88 837.45 L55.45
+								 841.89" class="st11"/>
+				</g>
+				<path d="M7.54 839.46 L7.88 839.35 L21.17 835.76 L32.31 833.77 L41.31 833.39 L48.16 834.62 L52.88 837.45 L55.45 841.89"
+						class="st16"/>
+				<rect v:rectContext="textBkgnd" x="-654.929" y="546.993" width="59.5107" height="10.7998"
+						transform="rotate(-51.2258)" class="st15"/>
+				<text x="595.42" y="555.09" transform="rotate(-51.2258) scale(-1,1)" class="st7" v:langID="1030"><v:paragraph
+							v:horizAlign="1"/><v:tabList/>er samme som</text>			</g>
+			<g id="shape55-83" v:mID="55" v:groupContext="shape" v:layerMember="0"
+					transform="translate(105.101,1558.79) rotate(-178.568)">
+				<title>Forbindelse, kurvet streg.310</title>
+				<desc>delmængde af</desc>
+				<v:userDefs>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.61" cy="855.102" width="68.05" height="18.8036" transform="rotate(178.568)"/>
+				<g id="shadow55-84" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+						transform="matrix(1,0,0,1,-2.17367,-2.06764)" class="st4">
+					<path d="M6.57 846.31 L6.87 846.51 L18.12 851.73 L30.09 854.55 L42.77 854.98 L56.16 853.01 L70.26 848.65 L85.07
+								 841.89" class="st11"/>
+				</g>
+				<path d="M6.57 846.31 L6.87 846.51 L18.12 851.73 L30.09 854.55 L42.77 854.98 L56.16 853.01 L70.26 848.65 L85.07 841.89"
+						class="st18"/>
+				<rect v:rectContext="textBkgnd" x="-45.9959" y="-861.2" width="57.5376" height="10.7998"
+						transform="rotate(178.568)" class="st15"/>
+				<text x="-46" y="-853.1" transform="rotate(178.568)" class="st7" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>delmængde af</text>			</g>
+			<g id="shape56-98" v:mID="56" v:groupContext="shape" transform="translate(-3.19744E-14,-172.913)">
+				<title>Rektangel.315</title>
+				<desc>https:/eksempel.dk/Borger</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="58.1102" cy="831.26" width="116.23" height="21.2598"/>
+				<g id="shadow56-99" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+						transform="matrix(1,0,0,1,2.12132,2.12132)" class="st4">
+					<rect x="0" y="820.63" width="116.22" height="21.2598" class="st5"/>
+				</g>
+				<rect x="0" y="820.63" width="116.22" height="21.2598" class="st6"/>
+				<text x="5.84" y="834.26" class="st7" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>https:/eksempel.dk/Borger</text>			</g>
+			<g id="shape57-104" v:mID="57" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-730.176,373.369) rotate(-69.444) scale(-1,1)">
+				<title>Forbindelse, kurvet streg.317</title>
+				<desc>er samme som</desc>
+				<v:userDefs>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="24.2784" cy="835.866" width="70.02" height="18.8036" transform="rotate(69.444)"/>
+				<g id="shadow57-105" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+						transform="matrix(1,0,0,1,1.24141,2.7311)" class="st4">
+					<path d="M7.31 838.84 L7.64 838.7 L17.87 836.29 L28.08 836.02 L38.27 837.88 L48.44 841.89" class="st11"/>
+				</g>
+				<path d="M7.31 838.84 L7.64 838.7 L17.87 836.29 L28.08 836.02 L38.27 837.88 L48.44 841.89" class="st18"/>
+				<rect v:rectContext="textBkgnd" x="-803.877" y="310.825" width="59.5107" height="10.7998"
+						transform="rotate(-69.444)" class="st15"/>
+				<text x="744.37" y="318.93" transform="rotate(-69.444) scale(-1,1)" class="st7" v:langID="1030"><v:paragraph
+							v:horizAlign="1"/><v:tabList/>er samme som</text>			</g>
+			<g id="shape58-118" v:mID="58" v:groupContext="shape" v:layerMember="0" transform="translate(109.134,-176.457)">
+				<title>Dynamisk forbindelse</title>
+				<path d="M7.09 834.8 L14.17 834.8 L7.09 834.8" class="st10"/>
+			</g>
+			<g id="group59-121" transform="translate(23.3858,-94.252)" v:mID="59" v:groupContext="group">
+				<title>Ark.59</title>
+				<g id="group60-122" v:mID="60" v:groupContext="group">
+					<title>Ark.60</title>
+					<g id="group61-123" v:mID="61" v:groupContext="group">
+						<title>Ark.61</title>
+						<g id="shape62-124" v:mID="62" v:groupContext="shape">
+							<title>Boks</title>
+							<v:userDefs>
+								<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+							</v:userDefs>
+							<rect x="0" y="809.291" width="35.4331" height="32.5984" class="st6"/>
+						</g>
+					</g>
+					<g id="shape63-126" v:mID="63" v:groupContext="shape" v:layerMember="0" transform="translate(9.92126,-5.66929)">
+						<title>Dynamisk forbindelse.24</title>
+						<path d="M0 834.8 L15.59 834.8" class="st8"/>
+					</g>
+					<g id="shape64-129" v:mID="64" v:groupContext="shape" v:layerMember="0"
+							transform="translate(9.92126,-1.13687E-13)">
+						<title>Dynamisk forbindelse.25</title>
+						<path d="M0 834.8 L15.59 834.8" class="st8"/>
+					</g>
+				</g>
+				<g id="shape65-132" v:mID="65" v:groupContext="shape" transform="translate(0,-23.3858)">
+					<title>Rektangel.80</title>
+					<desc>Borger</desc>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="17.7165" cy="836.929" width="35.44" height="9.92126"/>
+					<rect x="0" y="831.969" width="35.4331" height="9.92126" class="st1"/>
+					<text x="5.71" y="839.33" class="st9" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>Borger</text>				</g>
+			</g>
+		</g>
+	</g>
+</svg>
