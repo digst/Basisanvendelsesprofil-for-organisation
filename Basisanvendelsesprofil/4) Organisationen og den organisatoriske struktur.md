@@ -127,7 +127,7 @@ Det foreslås i første udgave af basisprofilen at undlade inddragelse af klasse
 
 Fra ORG genanvendes org:classification til at angive typen af organisation.
 
-(billede)
+![Typer af formel organisation og organisatorisk enhed](PNG/Typer-af-Formel-organisation-og-Organisatorisk-enhed.png)
 
 Som indikeret i ovenstående illustration så benyttes egenskaben org:classification til at udpege en klassifikation hvis emner repræsenterer organisationstyper. De viste emner er udelukkende eksempler på mulige typer af oranisationer. Klassifikationen kan udvides løbende efter behov.
 
