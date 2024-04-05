@@ -3,7 +3,8 @@
 ![Den formelle organisations egenskaber](PNG/Den-formelle-organisations-egenskaber.png)
 
 ## Organisationens identifikation og beskrivelse
- 
+
+(indsæt billede) 
 
 #### foretrukken term
 ##### _Vokabular-definition og beskrivelser_
