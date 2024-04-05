@@ -748,6 +748,11 @@ For at give maksimal fleksibilitet i Core Vocabulary, mens den forbliver interop
 </table>
 
 ##### _Profil-restriktioner og annotationer_ 
-Multiplicitet	0 - 1
+<table>
+  <tr>
+    <th>Multiplicitet</th>
+    <td>0 - 1</td>
+  </tr>
+</table>
 
  
