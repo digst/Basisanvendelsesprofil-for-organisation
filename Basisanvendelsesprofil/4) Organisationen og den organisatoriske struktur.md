@@ -375,7 +375,7 @@ Organisatorisk-enheds-indbyrdes-relationer.png
 
 ## Organisationens relationer til andre organisationer
 
-(billede)
+![Organisatorisk enheds indbyrdes relationer](PNG/Organisatorisk-enheds-indbyrdes-relationer.png)
 
 #### underorganisation af
 ##### _Vokabular-definition og beskrivelser_
