@@ -755,4 +755,4 @@ For at give maksimal fleksibilitet i Core Vocabulary, mens den forbliver interop
   </tr>
 </table>
 
- 
+(indsæt billede) 
