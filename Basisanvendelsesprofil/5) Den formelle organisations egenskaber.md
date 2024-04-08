@@ -367,7 +367,7 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 
 ## Organisationens historik
 
-![Modele over organisationens historie](PNG/Organisationens-historie.png.png)
+![Model over organisationens historie](PNG/Organisationens-historie.png)
 
 #### oprettelsesdato
 
