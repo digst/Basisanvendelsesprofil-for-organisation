@@ -1,5 +1,7 @@
 # Lokation og adresse
- 
+
+![Model over lokation og adresse](PNG/Lokation-og-adresse.png)
+
 ## Lokationen
 Med anvendelsesprofilen kan en organisations fysiske placering angives enten direkte med en adresse eller via angivelse af et sted hvor organisationen holder til. Det sted organisationen holder til kan også tilføjes en adresse. 
 
