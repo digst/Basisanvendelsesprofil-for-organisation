@@ -364,7 +364,7 @@ Et ’p-nummer’ identificerer et sted, en lokation hvor en virksomhed har akti
 
 ## Typer af organisatoriske enheder
 
-(indsæt billede)
+![Typer af organisatorisk enhed](PNG/Type-af-organisatorisk-enhed.png)
 
 <table>
     <tr>
