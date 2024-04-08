@@ -10,7 +10,7 @@ Fra vokabularet Location Core Vocabulary anvendes egenskaben locn:address til at
 En organisation og en organisationsenheds fysiske placering kan angives. En organisation kan også have flere forskellige fysiske placeringer.
 Placeringen kan fx angives med en adresse.
 
-(indsæt billede)
+![Model over lokation](PNG/Lokation.png)
 
 #### lokation
 ##### _Vokabular-definition og beskrivelser_
