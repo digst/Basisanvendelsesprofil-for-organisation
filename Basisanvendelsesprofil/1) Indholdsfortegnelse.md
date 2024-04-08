@@ -1,7 +1,5 @@
 **Profilens udgangspunkt og tilblivelse**
 
-[here](Profilens-udgangspunkt-og-tilblivelse.md/#profilens-anvendelse-af-eksisterende-materiale)
-
 Profilens anvendelse af eksisterende materiale
 
 Basisprofiler, API-profiler og udvikling
