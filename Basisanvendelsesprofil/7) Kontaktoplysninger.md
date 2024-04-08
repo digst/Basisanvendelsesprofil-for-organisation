@@ -5,7 +5,7 @@ I basisprofilen er alle de nævnte kontaktformer repræsenteret både i relation
 
 Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation beskrives efterfølgende.
 
-(indsæt billede) 
+![Kantaktinformation komplet](PNG/Kontaktinformation-komplet.png)
 
 ## Direkte relateret kontaktinformation
 
