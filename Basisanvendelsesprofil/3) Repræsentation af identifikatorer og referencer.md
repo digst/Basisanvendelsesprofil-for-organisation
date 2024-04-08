@@ -8,6 +8,7 @@ Her indsættes meget mere tekst + illustration.
 
 (rød kasse)
 OBS !
+
 Der er behov for at definere en ny fællesoffentlig identifikator for organisationer og organisatoriske enheder.
 
 I dokumentet om brugerbehov er et af de erklærede behov:
