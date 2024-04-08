@@ -512,7 +512,7 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 
 ## Typer af formelle organisationer
 
-(indsæt billede)
+![Typer af organisatorisk enhed](PNG/Type-af-organisatisk-enhed.png)
 
 #### klassifikation
 ##### _Vokabular-definition og beskrivelser_
