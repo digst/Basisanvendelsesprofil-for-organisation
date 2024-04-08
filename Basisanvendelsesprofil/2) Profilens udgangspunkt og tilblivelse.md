@@ -56,33 +56,114 @@ I profilen er der anvendt et udvalg af vokabularer.
 
 For at lette læsbarheden i dokumentet, angives URIer i deres ’QName’ form med enkelte undtagelser. Præfiks og navnrum for de anvendte vokabularer er listet herunder.
 
-(tabel, følgende linjer er indholdet)
+<table>
+<tr>
+    <td><b>præfiks</b></td>
+    <td><b>navneområde</b></td>
+    <td><b>titel</b></td>
+</tr>
+<tr>
+    <td>rdf</td>
+    <td>http://www.w3.org/1999/02/22-rdf-syntax-ns#</td>
+    <td>Resource Description Framework</td>
+</tr>
+<tr>
+    <td>rdfs</td>
+    <td>http://www.w3.org/2000/01/rdf-schema#</td>
+    <td>RDF Schema</td>
+</tr>
+<tr>
+    <td>owl</td>
+    <td>http://www.w3.org/2002/07/owl#</td>
+    <td>Web Ontology Language</td>
+</tr>
+<tr>
+    <td>xsd</td>
+    <td>http://www.w3.org/2001/XMLSchema#</td>
+    <td>XML Schema</td>
+</tr>
+<tr>
+    <td>vann</td>
+    <td>https://vocab.org/vann/</td>
+    <td>VANN: A vocabulary for annotating vocabulary descriptions</td>
+</tr>
+<tr>
+    <td>skos</td>
+    <td>http://www.w3.org/2004/02/skos/core#</td>
+    <td>Simple Knowledge Organization System</td>
+</tr>
+<tr>
+    <td>org</td>
+    <td>http://www.w3.org/ns/org#</td>
+    <td>Organization Ontology</td>
+</tr>
+<tr>
+    <td>cv</td>
+    <td>http://data.europa.eu/m8g/</td>
+    <td>e-Government Core Vocabulary</td>
+</tr>
+<tr>
+    <td>foaf</td>
+    <td>http://xmlns.com/foaf/0.1/</td>
+    <td>Friend of a Friend</td>
+</tr>
+<tr>
+    <td>dct</td>
+    <td>http://purl.org/dc/terms/</td>
+    <td>Dublin Core Metadata Terms</td>
+</tr>
+<tr>
+    <td>prov</td>
+    <td>http://www.w3.org/ns/prov#</td>
+    <td>The PROV Ontology</td>
+</tr>
+<tr>
+    <td>locn</td>
+    <td>http://www.w3.org/ns/locn#</td>
+    <td>Location Core Vocabulary</td>
+</tr>
+<tr>
+    <td>schema</td>
+    <td>http://schema.org/</td>
+    <td>Schema.org</td>
+</tr>
+</table>
 
-| præfiks              | navneområde | titel |
-| :---------------- | :------ | :---- |
-| rdf      |   http://www.w3.org/1999/02/22-rdf-syntax-ns# 	   | Resource Description Framework |
-| rdfs           |   http://www.w3.org/2000/01/rdf-schema#    | RDF Schema  |
-| owl    | http://www.w3.org/2002/07/owl#  | Web Ontology Language |
-| xsd |  http://www.w3.org/2001/XMLSchema#   | XML Schema |
-| vann |  https://vocab.org/vann/  |	VANN: A vocabulary for annotating vocabulary descriptions |
-| skos |  http://www.w3.org/2004/02/skos/core#  | Simple Knowledge Organization System  |
-| org |  http://www.w3.org/ns/org#  | Organization Ontology |
-| cv |  http://data.europa.eu/m8g/  | e-Government Core Vocabulary |
-| foaf | http://xmlns.com/foaf/0.1/ | Friend of a Friend |
-| dct | http://purl.org/dc/terms/  | Dublin Core Metadata Terms |
-| prov | http://www.w3.org/ns/prov#    | The PROV Ontology |
-| locn | http://www.w3.org/ns/locn# | Location Core Vocabulary |
-| schema | http://schema.org/ | Schema.org |
 
 Følgende vokabularer og de angivne præfikser samt navnerum er oprettet til understøttelse af foreslåede funktioner i anvendelsesprofilen og skal derfor betragtes som værende under udvikling. De er derfor dels ikke stabile og kan ændres eller helt udgå, dels ikke nødvendigvis overholdende ’Retningslinjer for stabile http-URIer’.
 
-| præfiks              | navneområde | titel |
-| :---------------- | :------ | :---- |
-| ovx      | https://data.gov.dk/model/core/organisation/extension/ | Organization Vocabulary Extension |
-| dagi     |  https://data.gov.dk/model/core/dagi/ | Danmarks Administrative Geografiske Inddeling |
-| dar           | https://data.gov.dk/model/core/dar/ | Adresseregisteret |
-| cvr    | https://data.gov.dk/model/core/registered-business/ | Vokabular for CVR |
-| auth | https://data.gov.dk/model/core/authority/  | Vokabular til beskrivelse af myndigheder |
+<table>
+<tr>
+    <td><b>præfiks</b></td>
+    <td><b>navneområde</b></td>
+    <td><b>titel</b></td>
+</tr>
+<tr>
+    <td>ovx</td>
+    <td>https://data.gov.dk/model/core/organisation/extension/</td>
+    <td>Organization Vocabulary Extension</td>
+</tr>
+<tr>
+    <td>dagi</td>
+    <td>https://data.gov.dk/model/core/dagi/</td>
+    <td>Danmarks Administrative Geografiske Inddeling</td>
+</tr>
+<tr>
+    <td>dar</td>
+    <td>https://data.gov.dk/model/core/dar/</td>
+    <td>Adresseregisteret</td>
+</tr>
+<tr>
+    <td>cvr</td>
+    <td>https://data.gov.dk/model/core/registered-business/</td>
+    <td>Vokabular for CVR</td>
+</tr>
+<tr>
+    <td>auth</td>
+    <td>https://data.gov.dk/model/core/authority/</td>
+    <td>Vokabular til beskrivelse af myndigheder</td>
+</tr>
+</table>
 
 ## Vejledning til diagrammer samt definitioner og beskrivelser 
 (Orange kasse)
