@@ -1,6 +1,6 @@
 # Den organisatoriske enhed
 
-(indsæt billede)
+![Organisatorisk enhed](PNG/Organisatorisk-enhed.png)
  
 ## Den organisatoriske enheds identifikation og beskrivelse
  
