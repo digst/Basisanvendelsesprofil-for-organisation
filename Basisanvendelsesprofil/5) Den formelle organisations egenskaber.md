@@ -4,7 +4,7 @@
 
 ## Organisationens identifikation og beskrivelse
 
-(indsæt billede) 
+![Model over formel organisation identifikation og beskrivelse](PNG/Formel-organisation-identifikation-og-beskrivelse.png)
 
 #### foretrukken term
 ##### _Vokabular-definition og beskrivelser_
