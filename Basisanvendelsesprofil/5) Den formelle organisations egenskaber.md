@@ -1,6 +1,6 @@
 # Den formelle organisations egenskaber
 
-![Den formelle organisations egenskaber](PNG/Den-formelle-organisations-egenskaber.png)
+![Model over den formelle organisations egenskaber](PNG/Den-formelle-organisations-egenskaber.png)
 
 ## Organisationens identifikation og beskrivelse
 
@@ -367,7 +367,7 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 
 ## Organisationens historik
 
-![Organisationens historie](PNG/Organisationens-historie.png.png)
+![Modele over organisationens historie](PNG/Organisationens-historie.png.png)
 
 #### oprettelsesdato
 
@@ -512,7 +512,7 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 
 ## Typer af formelle organisationer
 
-![Typer af organisatorisk enhed](PNG/Type-af-organisatorisk-enhed.png)
+![Model over typer af organisatorisk enhed](PNG/Type-af-organisatorisk-enhed.png)
 
 #### klassifikation
 ##### _Vokabular-definition og beskrivelser_
