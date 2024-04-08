@@ -1,6 +1,6 @@
 # Den organisatoriske enhed
 
-![Organisatorisk enhed](PNG/Organisatorisk-enhed.png)
+![Model over organisatorisk enhed](PNG/Organisatorisk-enhed.png)
  
 ## Den organisatoriske enheds identifikation og beskrivelse
 
@@ -250,7 +250,7 @@ Et ’p-nummer’ identificerer et sted, en lokation hvor en virksomhed har akti
 
 ## Historik for den organisatoriske enhed
 
-![Historik for den organisatoriske enhed](PNG/Historik-for-den-organisatoriske-enhed.png)
+![Model over historik for den organisatoriske enhed](PNG/Historik-for-den-organisatoriske-enhed.png)
 
 #### oprettelsesdato
 ##### _Vokabular-definition og beskrivelser_
@@ -364,7 +364,7 @@ Et ’p-nummer’ identificerer et sted, en lokation hvor en virksomhed har akti
 
 ## Typer af organisatoriske enheder
 
-![Typer af organisatorisk enhed](PNG/Type-af-organisatorisk-enhed.png)
+![Model over typer af organisatorisk enhed](PNG/Type-af-organisatorisk-enhed.png)
 
 <table>
     <tr>
