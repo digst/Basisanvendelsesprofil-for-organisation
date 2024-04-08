@@ -1,6 +1,6 @@
 # Organisationen og den organisatoriske struktur
 
-![Organisatorisk struktur logisk model](PNG/Organisatorisk-struktur-logisk-model.png)
+![Model over organisatorisk struktur logisk model](PNG/Organisatorisk-struktur-logisk-model.png)
  
 Organisationer vil i de fleste tilfælde have en organisatorisk struktur, oftest en hierarkisk form. 
 
@@ -127,7 +127,7 @@ Det foreslås i første udgave af basisprofilen at undlade inddragelse af klasse
 
 Fra ORG genanvendes org:classification til at angive typen af organisation.
 
-![Typer af formel organisation og organisatorisk enhed](PNG/Typer-af-Formel-organisation-og-Organisatorisk-enhed.png)
+![Model over typer af formel organisation og organisatorisk enhed](PNG/Typer-af-Formel-organisation-og-Organisatorisk-enhed.png)
 
 Som indikeret i ovenstående illustration så benyttes egenskaben org:classification til at udpege en klassifikation hvis emner repræsenterer organisationstyper. De viste emner er udelukkende eksempler på mulige typer af oranisationer. Klassifikationen kan udvides løbende efter behov.
 
@@ -136,7 +136,7 @@ Senere udgaver af basisprofilen vil kunne indeholde de to nævnte klasser og and
 ’Myndighed’ vil i det tilfælde kunne repræsenteres som en klasse der både er en delmængde af klassen ’Formel organisation’ og en delmængde af klassen [’Offentlig organisation’](https://semiceu.github.io/CPOV/releases/2.00/#Public%20Organisation ).
 For ’Virksomhed’ vil klassen [’Juridisk enhed’](https://semiceu.github.io/Core-Business-Vocabulary/releases/2.00/#Legal%20Entity ) kunne anvendes.
 
-![Organisation, myndighed og virksomhed](PNG/Organisation-Myndighed-og-Virksomhed.png)
+![Model over organisation, myndighed og virksomhed](PNG/Organisation-Myndighed-og-Virksomhed.png)
 
 På tilsvarende måde bruges org:classification til at angive typen af organisatorisk enhed.
 
@@ -144,7 +144,7 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
 
 ## Organisationens tilhørende enheder
 
-![Organisation, myndighed og virksomhed](PNG/Organisatorisk-struktur-logisk-model.png)
+![Model over organisation, myndighed og virksomhed](PNG/Organisatorisk-struktur-logisk-model.png)
 
 #### enhed af
 ##### _Vokabular-definition og beskrivelser_
@@ -269,7 +269,7 @@ _Profil-restriktioner og annotationer_
 </table>
 
 ### Organisatoriske enheders indbyrdes hierarki
-![Organisatorisk enheds indbyrdes relationer](PNG/Organisatorisk-enheds-indbyrdes-relationer.png)
+![Model over organisatorisk enheds indbyrdes relationer](PNG/Organisatorisk-enheds-indbyrdes-relationer.png)
 Organisatorisk-enheds-indbyrdes-relationer.png
  
 #### enhed af
@@ -375,7 +375,7 @@ Organisatorisk-enheds-indbyrdes-relationer.png
 
 ## Organisationens relationer til andre organisationer
 
-![Formel organisation identifikation og beskrivelse](PNG/Formel-organisation-identifikation-og-beskrivelse.png)
+![Model over formel organisation identifikation og beskrivelse](PNG/Formel-organisation-identifikation-og-beskrivelse.png)
 
 #### underorganisation af
 ##### _Vokabular-definition og beskrivelser_
