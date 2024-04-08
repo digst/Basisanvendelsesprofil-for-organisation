@@ -3,6 +3,8 @@
 ![Organisatorisk enhed](PNG/Organisatorisk-enhed.png)
  
 ## Den organisatoriske enheds identifikation og beskrivelse
+
+(indsæt billede)
  
 #### intern identifikation
 ##### _Vokabular-definition og beskrivelser_
