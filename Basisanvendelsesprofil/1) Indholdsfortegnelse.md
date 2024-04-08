@@ -1,6 +1,6 @@
 **Profilens udgangspunkt og tilblivelse**
 
-[here](Basisanvendelsesprofil/Profilens udgangspunkt og tilblivelse.md)
+[here](Profilensudgangspunkt-og-tilblivelse.md#profilens-udgangspunkt-og-tilblivelse)
 
 Profilens anvendelse af eksisterende materiale
 
