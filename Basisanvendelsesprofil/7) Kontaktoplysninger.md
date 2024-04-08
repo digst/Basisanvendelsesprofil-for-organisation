@@ -251,7 +251,7 @@ Kvalificeret kontaktinformation
  
 ## Kvalificeret kontaktinformation (klasse)
 
-(indsæt billede)
+![Model over kvalificeret kontaktinformation](PNG/Kontaktinformation-kvalificeret.png)
 
 ##### _Vokabular-definition og beskrivelser_
 <table>
