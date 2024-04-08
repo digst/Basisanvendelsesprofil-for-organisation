@@ -4,7 +4,7 @@
  
 ## Den organisatoriske enheds identifikation og beskrivelse
 
-(indsæt billede)
+![Mdeol over den organisatoriske enheds identifikation og beskrivelse](PNG/Organisatoriske-enhed-identifikation-og-beskrivelse.png)
  
 #### intern identifikation
 ##### _Vokabular-definition og beskrivelser_
