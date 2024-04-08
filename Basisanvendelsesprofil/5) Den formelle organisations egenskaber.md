@@ -366,10 +366,10 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 
 
 ## Organisationens historik
- 
-#### oprettelsesdato
 
-(indsæt billede)
+![Historik for den organisatoriske enhed](PNG/Historik-for-den-organisatoriske-enhed.png)
+
+#### oprettelsesdato
 
 ##### _Vokabular-definition og beskrivelser_
 
