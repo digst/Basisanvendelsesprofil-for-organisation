@@ -262,7 +262,7 @@ Placeringen kan fx angives med en adresse.
 
 ## Adressen
 
-(indsæt billede)
+![Model over adresse](PNG/Adresse.png)
 
 #### adresse
 ##### _Vokabular-definition og beskrivelser_
