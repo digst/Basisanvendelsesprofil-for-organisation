@@ -5,11 +5,11 @@ I basisprofilen er alle de nævnte kontaktformer repræsenteret både i relation
 
 Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation beskrives efterfølgende.
 
-![Kantaktinformation komplet](PNG/Kontaktinformation-komplet.png)
+![Model over kantaktinformation komplet](PNG/Kontaktinformation-komplet.png)
 
 ## Direkte relateret kontaktinformation
 
-![Kontaktoplysninger direkte](PNG/Kontaktoplsninger-direkte.png)
+![Model over kontaktoplysninger direkte](PNG/Kontaktoplsninger-direkte.png)
  
 #### telefon
 ##### _Vokabular-definition og beskrivelser_
