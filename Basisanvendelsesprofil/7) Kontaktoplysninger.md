@@ -9,7 +9,7 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
 
 ## Direkte relateret kontaktinformation
 
-(indsæt billede)
+![Kontaktoplysninger direkte](PNG/Kontaktoplsninger-direkte.png)
  
 #### telefon
 ##### _Vokabular-definition og beskrivelser_
