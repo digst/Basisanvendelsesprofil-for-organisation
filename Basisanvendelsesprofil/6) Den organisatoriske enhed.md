@@ -248,7 +248,7 @@ Et ’p-nummer’ identificerer et sted, en lokation hvor en virksomhed har akti
 
 ## Historik for den organisatoriske enhed
 
-(indsæt billede)
+![Historik for den organisatoriske enhed](PNG/Historik-for-den-organisatoriske-enhed.png)
 
 #### oprettelsesdato
 ##### _Vokabular-definition og beskrivelser_
