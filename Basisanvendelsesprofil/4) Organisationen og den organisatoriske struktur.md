@@ -1,6 +1,6 @@
 # Organisationen og den organisatoriske struktur
 
-(indsæt billede)
+![Organisatorisk struktur logisk model](PNG/Organisatorisk-struktur-logisk-model.png)
  
 Organisationer vil i de fleste tilfælde have en organisatorisk struktur, oftest en hierarkisk form. 
 
