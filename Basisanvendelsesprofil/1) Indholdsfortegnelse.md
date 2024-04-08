@@ -66,11 +66,11 @@ Specifikation af åbningstider (klasse)
 
 Ugedag (klasse)
 
-**Lokation og adresse	48**
+**Lokation og adresse**
 
-Lokationen	48
+Lokationen	
 
-Lokation (klasse)	49
-Adressen	52
+Lokation (klasse)	
+Adressen	
 
-Adresse (klasse)	52
+Adresse (klasse)	
