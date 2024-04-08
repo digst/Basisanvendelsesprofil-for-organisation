@@ -1,72 +1,70 @@
-**Profilens udgangspunkt og tilblivelse	3**
+**Profilens udgangspunkt og tilblivelse**
 
-[**Profilens udgangspunkt og tilblivelse	3**](#Profilens-udgangspunkt-og-tilblivelse)
+Profilens anvendelse af eksisterende materiale
 
-Profilens anvendelse af eksisterende materiale	4
+Basisprofiler, API-profiler og udvikling
 
-Basisprofiler, API-profiler og udvikling	4
+Anvendte vokabularer
 
-Anvendte vokabularer	5
+Vejledning til diagrammer samt definitioner og beskrivelser
 
-Vejledning til diagrammer samt definitioner og beskrivelser	5
+**Repræsentation af identifikatorer og referencer**
 
-**Repræsentation af identifikatorer og referencer	8**
+Behov for ny fællesoffentlig Identifikatorer
 
-Behov for ny fællesoffentlig Identifikatorer	8
+**Organisationen og den organisatoriske struktur**
 
-**Organisationen og den organisatoriske struktur	10**
+Organisationen og dens dele
 
-Organisationen og dens dele	10
+Formel organisation (klasse)
 
-Formel organisation (klasse)	10
+Organisatorisk enhed (klasse)
 
-Organisatorisk enhed (klasse)	11
+Typer af ’Formel organisation’ og ’Organisatorisk enhed’
 
-Typer af ’Formel organisation’ og ’Organisatorisk enhed’	12
+Organisationens tilhørende enheder
 
-Organisationens tilhørende enheder	13
+Organisatoriske enheders indbyrdes hierarki
 
-Organisatoriske enheders indbyrdes hierarki	14
+Organisationens relationer til andre organisationer
 
-Organisationens relationer til andre organisationer	15
+**Den formelle organisations egenskaber**
 
-**Den formelle organisations egenskaber	17**
+Organisationens identifikation og beskrivelse
 
-Organisationens identifikation og beskrivelse	17
+Organisationens historik
 
-Organisationens historik	21
+Typer af formelle organisationer
 
-Typer af formelle organisationer	22
+Type af formel organisation (klasse)
 
-Type af formel organisation (klasse)	23
+**Den organisatoriske enhed**
 
-**Den organisatoriske enhed	28**
+Den organisatoriske enheds identifikation og beskrivelse
 
-Den organisatoriske enheds identifikation og beskrivelse	28
+Historik for den organisatoriske enhed
 
-Historik for den organisatoriske enhed	31
+Typer af organisatoriske enheder
 
-Typer af organisatoriske enheder	32
+Organisatorisk enhedstype (klasse)
 
-Organisatorisk enhedstype (klasse)	32
+**Kontaktoplysninger**
 
-**Kontaktoplysninger	36**
+Direkte relateret kontaktinformation
 
-Direkte relateret kontaktinformation	37
+Dokument (klasse)
 
-Dokument (klasse)	39
+Kvalificeret kontaktinformation
 
-Kvalificeret kontaktinformation	39
+Kvalificeret kontaktinformation (klasse)
 
-Kvalificeret kontaktinformation (klasse)	39
+Adgangsrettighed (klasse)
 
-Adgangsrettighed (klasse)	42
+Kontaktform (klasse)
 
-Kontaktform (klasse)	42
+Specifikation af åbningstider (klasse)
 
-Specifikation af åbningstider (klasse)	43
-
-Ugedag (klasse)	45
+Ugedag (klasse)
 
 **Lokation og adresse	48**
 
