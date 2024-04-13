@@ -1,7 +1,9 @@
 # Organisationen og den organisatoriske struktur
 
-![Model over organisatorisk struktur logisk model](PNG/Organisatorisk-struktur-logisk-model.png)
- 
+
+<p align="center">
+  <img width="400" height="400" alt="Model over organisatorisk struktur logisk model" src="PNG/Organisatorisk-struktur-logisk-model.png">
+</p> 
 Organisationer vil i de fleste tilfælde have en organisatorisk struktur, oftest en hierarkisk form. 
 
 En organisation kan bestå af flere underorganisationer der hver for sig har en specifik identitet, fx kan et ministerium bestå af flere underordnede styrelser.
