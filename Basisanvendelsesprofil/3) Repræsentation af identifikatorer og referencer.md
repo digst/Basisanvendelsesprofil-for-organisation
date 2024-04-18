@@ -166,5 +166,136 @@ En identifikator i en bestemt kontekst, bestående af
 </tr>
 </table>
 
+#### notation 
+##### Vokabular-definition og beskrivelser
+<table>
+<tr>
+<td> URI </td>
+<td> http://www.w3.org/2004/02/skos/core#notation </td>
+</tr>
+<tr>
+<td> Term </td>
+<td> notation  </td>
+</tr>
+<tr>
+<td> Definition </td>
+<td> En notation, også kendt som klassifikationskode, er en streng af tegn såsom "T58.5" eller "303.4833", der bruges til entydigt at identificere et begreb inden for rammerne af et givet begrebssystem. </td>
+</tr>
+<tr>
+<td> Anvendelsesnote </td>
+<td> Efter konvention bruges skos:notation med en typeangivet literal i objekt-positionen af en triple. </td>
+</tr>
+<tr>
+<td> Domæne </td>
+<td> rdfs:Resource  </td>
+</tr>
+<tr>
+<td> Udfaldsrum </td>
+<td> rdfs:Resource </td>
+</tr>
+</table>
+
+##### Profil-restriktioner og annotationer 
+<table>
+<tr><td>Alternativ term</td><td>kode</td></tr>
+<tr><td>Anvendelsesnote</td><td>[fra ADMS Vocabulary-websiden]
+En streng, der er en identifikator i sammenhæng med identifikationsskemaet, der refereres til af dens datatype.</td></tr>
+<tr><td>Domæne</td><td>adms:Identifier</td></tr>
+<tr><td>Udfaldsrum</td><td>rdfs:Literal</td></tr>
+<tr><td>Multiplicitet</td><td>1 - *</td></tr>
+</table>
+
+#### schema navn
+##### Vokabular-definition og beskrivelser
+<table>
+<tr><td>URI</td><td>http://www.w3.org/2000/01/rdf-schema#label</td></tr>
+<tr><td>Term</td><td>etiket</td></tr>
+<tr><td>Kommentar</td><td>Et menneskelæsbart navn for emnet.</td></tr>
+<tr><td>Domæne</td><td>rdfs:Resource</td></tr>
+<tr><td>Udfaldsrum</td><td>rdfs:Literal</td></tr>
+</table>
+
+##### Profil-restriktioner og annotationer 
+<table>
+<tr><td>Alternativ term</td><td>schema navn</td></tr>
+<tr><td>Definition</td><td>[fra Core Public Organisation Vocabulary websiden]
+Navn på det skema, der blev brugt til at konstruere identifikatoren.</td></tr>
+<tr><td>Domæne</td><td>adms:Identifier</td></tr>
+<tr><td>Udfaldsrum</td><td>rdf:langString</td></tr>
+<tr><td>Multiplicitet</td><td>0 - *</td></tr>
+</table>
+
+#### udstedelsesdato 
+##### Vokabular-definition og beskrivelser
+<table>
+<tr><td>URI</td><td>http://purl.org/dc/terms/issued</td></tr>
+<tr><td>Term</td><td>udstedelsesdato</td></tr>
+<tr><td>Kommentar</td><td>Dato for formel udstedelse (f.eks. offentliggørelse) af ressourcen.</td></tr>
+<tr><td>Domæne</td><td>rdfs:Resource</td></tr>
+<tr><td>Udfaldsrum</td><td>rdfs:Literal</td></tr>
+<tr><td>Underegenskab af</td><td>dct:date</td></tr>
+</table>
+
+##### Profil-restriktioner og annotationer 
+<table>
+<tr><td>Alternativ term</td><td>udstedelsesdato</td></tr>
+<tr><td>Definition</td><td>[fra Core Public Organisation Vocabulary websiden]
+Den dato, hvor identifikatoren blev tildelt.</td></tr>
+<tr><td>Domæne</td><td>adms:Identifier</td></tr>
+<tr><td>Udfaldsrum</td><td>xsd:date</td></tr>
+<tr><td>Multiplicitet</td><td>0 - 1</td></tr>
+</table>
+
+#### udstedende myndighed
+##### Vokabular-definition og beskrivelser
+<table>
+<tr><td>URI</td><td>http://www.w3.org/ns/adms#schemaAgency</td></tr>
+<tr><td>Term</td><td>Skema agentur</td></tr>
+<tr><td>Kommentar</td><td>Navnet på det bureau, der har udstedt identifikatoren.</td></tr>
+<tr><td>Domæne</td><td>adms:Identifier</td></tr>
+<tr><td>Udfaldsrum</td><td>rdfs:Literal</td></tr>
+<tr><td>Ækvivalent egenskab</td><td>adms:schemeAgency</td></tr>
+</table>
+
+##### Profil-restriktioner og annotationer 
+<table>
+<tr><td>Alternativ term</td><td>udstedende myndighed</td></tr>
+<tr><td>Definition</td><td>[fra Core Public Organisation Vocabulary websiden]
+Navnet på den autoritet, der er ansvarlig for at udstede identifikatoren.</td></tr>
+<tr><td>Domæne</td><td>adms:Identifier</td></tr>
+<tr><td>Udfaldsrum</td><td>rdf:langString</td></tr>
+<tr><td>Multiplicitet</td><td>0 - *</td></tr>
+</table>
+
+#### schema URI
+##### Vokabular-definition og beskrivelser
+<table>
+<tr><td>URI</td><td>http://purl.org/dc/terms/conformsTo</td></tr>
+<tr><td>Term</td><td>er i overensstemmelse med</td></tr>
+<tr><td>Kommentar</td><td>En etableret standard, som den beskrevne ressource er i overensstemmelse med.</td></tr>
+<tr><td>Domæne</td><td>rdfs:Resource</td></tr>
+<tr><td>Udfaldsrum</td><td>dct:Standard</td></tr>
+<tr><td>Underegenskab af</td><td>dct:relation</td></tr>
+</table>
+
+##### Profil-restriktioner og annotationer 
+<table>
+<tr><td>Term</td><td>schema URI</td></tr>
+<tr><td>Definition</td><td>[fra Core Public Organisation Vocabulary websiden]
+URI for det skema, der bruges til at konstruere identifikatoren.</td></tr>
+<tr><td>Anvendelsesnote</td><td>URIen angives i form af en tekststreng.</td></tr>
+<tr><td>Eksempel</td><td></td></tr>
+<tr><td>Domæne</td><td>adms:Identifier</td></tr>
+<tr><td>Udfaldsrum</td><td>xsd:anyURI</td></tr>
+<tr><td>Multiplicitet</td><td>0 - *</td></tr>
+</table>
+
+
+> [!IMPORTANT]
+> Bemærk at SEMIC angiver at egenskaben ’dct:conformsTo’ kan have ’xsd:anyURI’ som udfaldsrum. Det synes at stride imod Dublin Core Terms definitionen hvor ’range’ er ’dct:Standard’ (en klasse).
+> Egenskaben dct:conformsTo er en underegenskab til dct:relation og må derfor ikke være i konflikt med denne. I en note til egenskaben ’dct:relation’ hedder det: 
+> ”Dette udtryk er beregnet til at blive brugt med non-Literal værdier som defineret i DCMI Abstract Model (http://dublincore.org/documents/abstract-model/).”
+> Datatypen xsd:anyURI er en Literal.
+> I denne udgave af basisprofilen er det valgt indtil videre at fastholde brugen af xsd:anyURI mens en afklaring i SEMIC-regi forsøges opnået.
 
 
