@@ -9,9 +9,9 @@ Til a repræsentere koderne anvendt som referencer defineres følgende egenskabe
 
 | Beskrivelse | Forkortet URI | URI (foreslået) |
 | --- | --- | --- |
-| reference til objekt med cvr-nummer | ovx:cvrCode¬Reference | https://data.gov.dk/model/core/organisation/extension/¬cvrCodeReference |
-| reference til objekt med p-nummer | ovx:pUnitCode¬Reference | https://data.gov.dk/model/core/organisation/extension/¬pUnitCodeReference |
-| reference til objekt med myndighedskode | ovx:authCode¬Reference | https://data.gov.dk/model/core/organisation/extension/¬authCodeReference |
+| reference til objekt med cvr-nummer | `ovx:cvrCodeReference` | `https://data.gov.dk/model/core/organisation/extension/cvrCodeReference` |
+| reference til objekt med p-nummer | `ovx:pUnitCodeReference` | `https://data.gov.dk/model/core/organisation/extension/pUnitCodeReference` |
+| reference til objekt med myndighedskode | `ovx:authCodeReference` | `https://data.gov.dk/model/core/organisation/extension/authCodeReference` |
 
 > [!NOTE]
 > Alternativt til - eller som supplement til - brugen af koder som referencer, kan der i kommende udgaver af basisprofilen indføres direkte link/relationer. Eksempelvis et link fra en organisatorisk enhed til en lokation med p-nummer.
@@ -33,21 +33,16 @@ I SEMIC-regi gøres dette som vist her:
   <img alt="Identifier" src="PNG/Identifier-generaliseret.png" width="800" height="200" >
 </p>
 
-
 Egenskaben adms:identifier anvendes på det objekt (den ressource) der har en tegnbaseret identifikator der skal beskrives. 
 Klassen adms.Identifier bruges i SEMIC-regi med fem egenskaber:
 
 | Egenskab | Beskrivelse |
-| kode
-(= skos:notation) | den tegnbaserede identifikator kombineret med en brugerdefineret datatype. Datatypen er en HTTP-URI der kan bruges til at hente yderligere beskrivelser om datatypen, eksempelvis RegEx mønstre. |
-| schema navn
-(= rdfs:label) | navnet på det schema der fastlægger udformningen af identifikatoren |
-| schema URI
-(= dct:conformsTo) | URI for det schema der fastlægger udformningen af identifikatoren |
-| udstedende myndighed
-(= adms:schemaAgency) | navn på den myndighed der har udstedt identifikatoren |
-| Udstedelsesdato
-(= dct:issued) | dato for identifikatorens oprettelse |
+| --- | --- |
+| kode </br>(= `skos:notation` | den tegnbaserede identifikator kombineret med en brugerdefineret datatype. Datatypen er en HTTP-URI der kan bruges til at hente yderligere beskrivelser om datatypen, eksempelvis RegEx mønstre. |
+| schema navn </br>= `rdfs:label` | navnet på det schema der fastlægger udformningen af identifikatoren |
+| schema URI </br>= `dct:conformsTo` | URI for det schema der fastlægger udformningen af identifikatoren |
+| udstedende myndighed </br>= `adms:schemaAgency` | navn på den myndighed der har udstedt identifikatoren |
+| udstedelsesdato </br>`= dct:issued` | dato for identifikatorens oprettelse |
 
 Hvis eksempelvis Digitaliseringsstyrelsens cvr-nummer skulle vises som en instans af adms:Identifier, ville instansen indeholde følgende:
 
@@ -70,20 +65,23 @@ Til brug for danske fællesoffentlige brugerdefinerede datatyper foreslås følg
 
 | Præfiks (foreslået) | Navnerum (foreslået) |
 | --- | --- |
-| id-dk | https://gov.data.dk/datatype/id/ |
+| id-dk | `https://gov.data.dk/datatype/id/` |
 
 | Identifikation | Forkortet URI (foreslået) | URI (foreslået) |
 | --- | --- | --- |
-| cvr-nummer | id-dk:cvrCode | https://gov.data.dk/datatype/id/cvrCode |
-| p-nummer | id-dk:pUnitCode | https://gov.data.dk/datatype/id/pUnitCode  |
-| myndighedskode | id-dk:authCode | https://gov.data.dk/datatype/id/authCode   |
+| cvr-nummer | `id-dk:cvrCode` | `https://gov.data.dk/datatype/id/cvrCode` |
+| p-nummer | `id-dk:pUnitCode` | `https://gov.data.dk/datatype/id/pUnitCode`  |
+| myndighedskode | `id-dk:authCode` | `https://gov.data.dk/datatype/id/authCode`   |
 
 #### Lokal, organisatorisk bestemt identifikation af organisatorisk enhed
 Forslag til datatype for disse, samt administrationspricipper udestår.
 
 ## Beskrivelse af klasse og egenskaber til identifikation
 
-[identifier – klasse og egenskaber]
+<p align="center">
+  <img alt="profilens brug af Identifier-klassen og dens egenskaber" src="PNG/identifier-klasse-og-egenskaber.png" width="800" height="400" >
+</p>
+
 #### identifikator
 ##### Vokabular-definition og beskrivelser
 <table>
