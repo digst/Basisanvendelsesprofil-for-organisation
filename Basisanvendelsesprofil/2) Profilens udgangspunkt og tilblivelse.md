@@ -32,7 +32,9 @@ I det forslag UAS vedtog stod:
 
 _”For at sikre sammenhæng til eksisterende- og kommende EU-standardisering, kan en fællesoffentlig standard evt. tage afsæt i den eksisterende FDA-profil for Organisation (baseret på internationale standarder).”_
 
-Den FDA-profil der henvises til er baseret på _The Organization Ontology_ [^3] (ORG) og _Core Public Organisation Vocabulary_ [^4] (CPOV). I den nuværende første udgave af basisprofilen er ORG stadig en væsentlig kilde til elementer der indgår i profilen, mens der aktuelt ikke er medtaget elementer specifikt fra CPOV. Der er til gengæld gjort brug af en anden specifikation fra EU, _Core Location Vocabulary_ [^5]  (LOCN) >til standardiseret angivelse af lokation og adresse. 
+Den FDA-profil der henvises til er baseret på _The Organization Ontology_ [^3] (ORG) og _Core Public Organisation Vocabulary_ [^4] (CPOV). I den nuværende første udgave af basisprofilen er ORG stadig en væsentlig kilde til elementer der indgår i profilen, mens der aktuelt ikke er medtaget elementer specifikt fra CPOV. Der er til gengæld gjort brug af to andre specifikationer fra EU:
+* _Core Location Vocabulary_ [^5]  (LOCN) til standardiseret angivelse af lokation og adresse. 
+* _ADMS Vocabulary_ [^6] (ADMS) til brug for standardiseret beskrivelse af identifikatorer.
 
 I processen er der gjort brug af modellerne for henholdsvis _Fælleskommunalt Organisationssystem_ (FK-ORG) og _Sundhedsvæsenets Organisationsregister_ (SOR) for at sammenholde basisprofilen med modeller der anvendes i konkrete systemer. 
 
@@ -51,7 +53,9 @@ Basisprofilen er ikke tænkt som en statisk størrelse. Profilen vil kunne ændr
 ## Anvendte vokabularer
 I profilen er der anvendt et udvalg af vokabularer. 
 
-For at lette læsbarheden i dokumentet, angives URIer i deres ’QName’ form med enkelte undtagelser. Præfiks og navnrum for de anvendte vokabularer er listet herunder.
+For at lette læsbarheden i dokumentet, angives URIer i deres ’QName’ form hvor det er muligt. I et QName er navnerum erstattet af et præfiks, eksempelvis som illustreret her: URIen   `http://www.w3.org/ns/org#OrganizationalUnit`angives som   `org:OrganizationalUnit`.
+
+Præfiks og navnerum for de anvendte vokabularer er listet herunder.
 
 <table>
 <tr>
@@ -124,6 +128,11 @@ For at lette læsbarheden i dokumentet, angives URIer i deres ’QName’ form m
     <td>http://schema.org/</td>
     <td>Schema.org</td>
 </tr>
+    <tr>
+    <td>adms</td>
+    <td>http://www.w3.org/ns/adms#</td>
+    <td>ADMS Vocabulary</td>
+</tr>
 </table>
 
 
@@ -153,5 +162,6 @@ Her indsættes kort beskrivelse  +  link til anden side i GitHub.
 [^3]: https://www.w3.org/TR/vocab-org/
 [^4]: https://semiceu.github.io/CPOV/releases/2.00/
 [^5]: https://semiceu.github.io/Core-Location-Vocabulary/releases/2.00/
+[^6]: https://semiceu.github.io/ADMS/releases/2.00/
 
 
