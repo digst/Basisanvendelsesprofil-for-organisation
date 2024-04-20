@@ -246,7 +246,7 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
   </tr>
 </table>
 
-Kontaktformen adresse beskrives I kapitlet ‘Lokation og adresse’.
+Kontaktformen adresse beskrives i kapitlet _Lokation og adresse_.
 Kvalificeret kontaktinformation
  
 ## Kvalificeret kontaktinformation (klasse)
