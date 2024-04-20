@@ -1,4 +1,4 @@
-# Profilens udgangspunkt og tilblivelse
+ifikt # Profilens udgangspunkt og tilblivelse
 Denne anvendelsesprofil er det foreløbige resultat af forslaget _Fællesoffentlig standard for Organisation_, der blev vedtaget af ’Udvalget for arkitektur og standarder’ (UAS) på 6. møde 8 juni 2021. Forslagets hovedindhold var:
 
 
@@ -32,7 +32,7 @@ I det forslag UAS vedtog stod:
 
 _”For at sikre sammenhæng til eksisterende- og kommende EU-standardisering, kan en fællesoffentlig standard evt. tage afsæt i den eksisterende FDA-profil for Organisation (baseret på internationale standarder).”_
 
-Den FDA-profil der henvises til er baseret på _The Organization Ontology_ [^3] (ORG) og _Core Public Organisation Vocabulary_ [^4] (CPOV). I den nuværende første udgave af basisprofilen er ORG stadig en væsentlig kilde til elementer der indgår i profilen, mens der aktuelt ikke er medtaget elementer fra CPOV. Der er til gengæld gjort brug af en anden specifikation fra EU, _Core Location Vocabulary_ [^5]  (LOCN) >til standardiseret angivelse af lokation og adresse. 
+Den FDA-profil der henvises til er baseret på _The Organization Ontology_ [^3] (ORG) og _Core Public Organisation Vocabulary_ [^4] (CPOV). I den nuværende første udgave af basisprofilen er ORG stadig en væsentlig kilde til elementer der indgår i profilen, mens der aktuelt ikke er medtaget elementer specifikt fra CPOV. Der er til gengæld gjort brug af en anden specifikation fra EU, _Core Location Vocabulary_ [^5]  (LOCN) >til standardiseret angivelse af lokation og adresse. 
 
 I processen er der gjort brug af modellerne for henholdsvis _Fælleskommunalt Organisationssystem_ (FK-ORG) og _Sundhedsvæsenets Organisationsregister_ (SOR) for at sammenholde basisprofilen med modeller der anvendes i konkrete systemer. 
 
