@@ -1,10 +1,10 @@
 # Repræsentation af identifikatorer og referencer
-It-systemer forvaltet og anvendt af danske offentlige organisationer anvender mange typer af koder. Enten til at identificerer et objekt i systemet eller som reference til et objekt – oftest eksternt i forhold til it-systemet.
-I relation til organisationsbeskrivende data anvendes cvr-nummer, p-nummer og myndighedskode ofte som den identifikationskode – eller identifikator – de er tænkt anvendt som. Men de anvendes også som andet end en entydig identifikator for objektet. Eksempelvis kan et adresse-objekt, have tilføjet en myndighedskode i form af en kommunekode. Kommunekoden er i det tilfælde ikke en identifikator for selve adresse-objektet, men bruges som en information om hvilken kommune adressen ligger i. Myndighedskoden/kommunekoden bruges altså som en reference til et andet objekt der har koden som identifikator.
-Brugen af egenskaber, som cvr-nummer, p-nummer og myndighedskode, på den beskrevne måde er ikke forkert – indenfor det pågældende systems rammer, med de regler og fortolkninger der er tilknyttet systemet. Men når de samme data bruges udenfor systemet, så er der brug for en måde at skelne mellem en egenskab der fungerer som identifikator og en egenskab der refereres til. 
-Når disse koder, disse data skal indgå i en sammenhæng hvor semantisk interoperabilitet er et mål, så bør så mange data som muligt gøres entydigt maskinfortolkelige. Mere præcist udtrykt så bør det i basisprofilen gøres klart hvornår en kode optræder som identifikator for et objekt og hvornår koden er en reference til et objekt.
-Det foreslås derfor at egenskaber der repræsenterer cvr-nummer, p-nummer og myndighedskode i sig selv er identifikatorer for objekterne de bruges på og at de suppleres med egenskaber der fungerer som referencer til samme objekter. Dermed sikres der entydighed i tolkning samtidigt med at de to eksisterende anvendelser – og de bagvedliggende behov – respekteres.
-Til at repræsentere de tre typer af koder som identifikatorer vil basisprofilen anvende en af EU-defineret identifikatorklasse: adms:Identifier. Dette beskrives nærmere i afsnittet ’Standardisering af lokale identifikatorer’.
+It-systemer forvaltet og anvendt af danske offentlige organisationer anvender mange typer af koder. Enten til at identificerer et objekt i systemet eller som reference til et objekt – oftest eksternt i forhold til it-systemet.</br>
+I relation til organisationsbeskrivende data anvendes cvr-nummer, p-nummer og myndighedskode ofte som den identifikationskode – eller identifikator – de er tænkt anvendt som. Men de anvendes også som andet end en entydig identifikator for objektet. Eksempelvis kan et adresse-objekt, have tilføjet en myndighedskode i form af en kommunekode. Kommunekoden er i det tilfælde ikke en identifikator for selve adresse-objektet, men bruges som en information om hvilken kommune adressen ligger i. Myndighedskoden/kommunekoden bruges altså som en reference til et andet objekt der har koden som identifikator.</br>
+Brugen af egenskaber, som cvr-nummer, p-nummer og myndighedskode, på den beskrevne måde er ikke forkert – **indenfor det pågældende systems rammer, med de regler og fortolkninger der er tilknyttet systemet.** Men når de samme data bruges udenfor systemet, så er der brug for en måde at skelne mellem en egenskab der fungerer som identifikator og en egenskab der refereres til.</br> 
+Når disse koder, disse data skal indgå i en sammenhæng hvor semantisk interoperabilitet er et mål, så bør så mange data som muligt gøres entydigt maskinfortolkelige. Mere præcist udtrykt så bør det i basisprofilen gøres klart hvornår en kode optræder som identifikator for et objekt og hvornår koden er en reference til et objekt.</br>
+Det foreslås derfor at egenskaber der repræsenterer cvr-nummer, p-nummer og myndighedskode i sig selv er identifikatorer for objekterne de bruges på og at de suppleres med egenskaber der fungerer som referencer til samme objekter. Dermed sikres der entydighed i tolkning samtidigt med at de to eksisterende anvendelser – og de bagvedliggende behov – respekteres.</br>
+Til at repræsentere de tre typer af koder som identifikatorer vil basisprofilen anvende en af EU-defineret identifikatorklasse: adms:Identifier. Dette beskrives nærmere i afsnittet _Standardisering af lokale identifikatorer_.</br>
 Til a repræsentere koderne anvendt som referencer defineres følgende egenskaber relateret til de tre identifikatorer cvr-nummer, p-nummer og myndighedskode:
 
 | Beskrivelse | Forkortet URI | URI (foreslået) |
@@ -16,21 +16,21 @@ Til a repræsentere koderne anvendt som referencer defineres følgende egenskabe
 > [!NOTE]
 > Alternativt til - eller som supplement til - brugen af koder som referencer, kan der i kommende udgaver af basisprofilen indføres direkte link/relationer. Eksempelvis et link fra en organisatorisk enhed til en lokation med p-nummer.
 ## Standardisering af tegnbaserede identifikatorer
-Basisprofilen for organisation anvender den af EUs ’Semantic Interoperability Community’ (SEMIC)   definerede ’adms:Identifier’-klasse  . Klassen er defineret med henblik på at have en enkelt funktion, et enkelt element, til at repræsentere de mange typer af tegnbaserede identifikatorer der anvendes på tværs af organisationer, it-systemer og medlemslande. Klassen er defineret i vokabularet ’Asset Description Metadata Schema’ (ADMS). Vokabularet varetages af SEMIC-fællesskabet.
-Klassen benyttes eksempelvis i SEMIC-vokabularer og anvendelsesprofiler, herunder i Core Person Vocabulary  , Core Public Organisation Vocabulary og Core Business Vocabulary  .
+Basisprofilen for organisation anvender den af EUs _Semantic Interoperability Community_ (SEMIC)[^7] definerede `adms:Identifier`-klasse[^8]. Klassen er defineret med henblik på at have en enkelt funktion, et enkelt element, til at repræsentere de mange typer af tegnbaserede identifikatorer der anvendes på tværs af organisationer, it-systemer og medlemslande. Klassen er defineret i vokabularet _Asset Description Metadata Schema_ (ADMS). Vokabularet varetages af SEMIC-fællesskabet.</br>
+Klassen benyttes eksempelvis i SEMIC-vokabularer og anvendelsesprofiler, herunder i _Core Person Vocabulary_[^9], _Core Public Organisation Vocabulary_ og _Core Business Vocabulary_.[^10]</br>
 I denne udgave af basisprofilen anvendes klassen til følgende identifikatorer:
-o	‘cvr-nummer’
-o	‘p-nummer’
-o	‘myndighedskode’ (herunder ‘kommunekode og ‘regionskode’)
-o	samt til lokal, organisatorisk bestemt identifikation af organisatorisk enhed
+*	cvr-nummer
+*	p-nummer
+*	myndighedskode (herunder ‘kommunekode og ‘regionskode’)
+*	samt til lokal, organisatorisk bestemt identifikation af organisatorisk enhed
 Brug af klassen adms:Identifier har til hensigt at give både fleksibilitet og beriget information hvor identifikatorer anvendes.
 ### Anvendelse
-Ressourcer eller objekter kan effektivt og entydigt identificeres ved anvendelse af direkte ’resolverbare’ HTTP-URIer. Disse URIer fungerer ikke blot som entydige identifikatorer, men kan også bruges som link til ressourcen eller objektet, hvorefter yderligere information om ressourcen kan findes. 
-Etablerede it-systemer der ønskes inddraget i et miljø med semantisk interoperabilitet kan ikke forventes at omdanne sine tegnbaserede identifikatorer til resolverbare HTTP-URIer. Generelt kan brugen af klassen adms:Identifier ses som en mulighed for at forbinde de tegnbaserede identifikatorer med relevante maskinfortolkelige informationer.
+Ressourcer eller objekter kan effektivt og entydigt identificeres ved anvendelse af direkte ’resolverbare’ HTTP-URIer. Disse URIer fungerer ikke blot som entydige identifikatorer, men kan også bruges som link til ressourcen eller objektet, hvorefter yderligere information om ressourcen kan findes.</br> 
+Etablerede it-systemer der ønskes inddraget i et miljø med semantisk interoperabilitet kan ikke forventes at omdanne sine tegnbaserede identifikatorer til resolverbare HTTP-URIer. Generelt kan brugen af klassen adms:Identifier ses som en mulighed for at forbinde de tegnbaserede identifikatorer med relevante maskinfortolkelige informationer.</br>
 I SEMIC-regi gøres dette som vist her:
 
 <p align="center">
-  <img alt="Identifier" src="PNG/Identifier-generaliseret.png" width="800" height="200" >
+  <img alt="Identifier" src="PNG/Identifier-generaliseret.png">
 </p>
 
 Egenskaben adms:identifier anvendes på det objekt (den ressource) der har en tegnbaseret identifikator der skal beskrives. 
@@ -57,10 +57,11 @@ Hvis eksempelvis Digitaliseringsstyrelsens cvr-nummer skulle vises som en instan
 
 *) Der er ikke fundet noget officielt schema der definerer ’cvr-nummer’.
 ### Koden og de brugerdefinerede datatyper
-Oversat fra ”SKOS Simple Knowledge Organization System Reference”:
-Konventionelt bruges egenskaben skos:notation kun med […] en brugerdefineret datatype svarende til et bestemt system af notationer eller klassifikationskoder.
+Oversat fra _SKOS Simple Knowledge Organization System Reference_[^11]:
+>Konventionelt bruges egenskaben `skos:notation` kun med […] en brugerdefineret datatype svarende til et bestemt system af notationer eller klassifikationskoder.</br>
 I mange situationer kan det være tilstrækkeligt blot at sammensætte en datatype-URI for et bestemt notationssystem, og definere datatypen uformelt via et dokument, der beskriver, hvordan notationerne er opbygget og/eller hvilke leksikalske former, der er tilladt. Bemærk dog, at det også er muligt at definere i det mindste det leksikalske rum af en datatype mere formelt via XML Schema-sproget.
-Til ovenstående kan tilføjes at det også er muligt (og foretrukket) at definere den brugerdefinerede datatypes ’leksikalske former’ med SHACL. 
+
+Til ovenstående kan tilføjes at det også er muligt (og foretrukket) at definere den brugerdefinerede datatypes ’leksikalske former’ med SHACL.</br> 
 Til brug for danske fællesoffentlige brugerdefinerede datatyper foreslås følgende navnerum og URIer.
 
 | Præfiks (foreslået) | Navnerum (foreslået) |
@@ -74,12 +75,13 @@ Til brug for danske fællesoffentlige brugerdefinerede datatyper foreslås følg
 | myndighedskode | `id-dk:authCode` | `https://gov.data.dk/datatype/id/authCode`   |
 
 #### Lokal, organisatorisk bestemt identifikation af organisatorisk enhed
-Forslag til datatype for disse, samt administrationspricipper udestår.
+> [!NOTE]
+> Datatype(r) for lokaltdefinerede identifikatorer, samt administrationspricipper for samme udestår.
 
 ## Beskrivelse af klasse og egenskaber til identifikation
 
 <p align="center">
-  <img alt="profilens brug af Identifier-klassen og dens egenskaber" src="PNG/identifier-klasse-og-egenskaber.png" width="800" height="400" >
+  <img alt="profilens brug af Identifier-klassen og dens egenskaber" src="PNG/identifier-klasse-og-egenskaber.png" >
 </p>
 
 #### identifikator
@@ -95,7 +97,7 @@ Forslag til datatype for disse, samt administrationspricipper udestår.
 </tr>
 <tr>
     <td> Kommentar </td>
-    <td> Linker en ressource til en ’adms:Identifier’-klasse.</td> 
+    <td>Linker en ressource til en adms:Identifier-klasse.</td> 
 </tr>
 <tr>
     <td> Domæne</td>
@@ -136,7 +138,7 @@ Forslag til datatype for disse, samt administrationspricipper udestår.
 </tr>
 <tr>
     <td> Kommentar </td>
-    <td> Dette er baseret på UN/CEFACT ’Identifier’-klassen.</td>
+    <td> Dette er baseret på UN/CEFACT Identifier-klassen.</td>
 </tr>
 </table>
 
@@ -296,4 +298,8 @@ URI for det skema, der bruges til at konstruere identifikatoren.</td></tr>
 > Datatypen xsd:anyURI er en Literal.
 > I denne udgave af basisprofilen er det valgt indtil videre at fastholde brugen af xsd:anyURI mens en afklaring i SEMIC-regi forsøges opnået.
 
-
+[^7]: https://joinup.ec.europa.eu/collection/semic-support-centre
+[^8]: https://semiceu.github.io/ADMS/releases/2.00/#Identifier 
+[^9]: https://semiceu.github.io/Core-Person-Vocabulary/releases/2.1.0/
+[^10]: https://semiceu.github.io/Core-Business-Vocabulary/releases/2.00/
+[^11]: https://www.w3.org/TR/skos-reference/#L2613
