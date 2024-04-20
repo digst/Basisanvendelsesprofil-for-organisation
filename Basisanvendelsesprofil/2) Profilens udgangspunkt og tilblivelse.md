@@ -60,7 +60,7 @@ Præfiks og navnerum for de anvendte vokabularer er listet herunder.
 <table>
 <tr>
     <td><b>præfiks</b></td>
-    <td><b>navneområde</b></td>
+    <td><b>navnerum</b></td>
     <td><b>titel</b></td>
 </tr>
 <tr>
