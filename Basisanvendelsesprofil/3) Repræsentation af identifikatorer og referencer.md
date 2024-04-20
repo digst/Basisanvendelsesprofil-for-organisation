@@ -23,7 +23,8 @@ I denne udgave af basisprofilen anvendes klassen til følgende identifikatorer:
 *	p-nummer
 *	myndighedskode (herunder ‘kommunekode og ‘regionskode’)
 *	samt til lokal, organisatorisk bestemt identifikation af organisatorisk enhed
-Brug af klassen adms:Identifier har til hensigt at give både fleksibilitet og beriget information hvor identifikatorer anvendes.
+  
+Brug af klassen `adms:Identifier` har til hensigt at give både fleksibilitet og beriget information hvor identifikatorer anvendes.
 ### Anvendelse
 Ressourcer eller objekter kan effektivt og entydigt identificeres ved anvendelse af direkte ’resolverbare’ HTTP-URIer. Disse URIer fungerer ikke blot som entydige identifikatorer, men kan også bruges som link til ressourcen eller objektet, hvorefter yderligere information om ressourcen kan findes.</br> 
 Etablerede it-systemer der ønskes inddraget i et miljø med semantisk interoperabilitet kan ikke forventes at omdanne sine tegnbaserede identifikatorer til resolverbare HTTP-URIer. Generelt kan brugen af klassen adms:Identifier ses som en mulighed for at forbinde de tegnbaserede identifikatorer med relevante maskinfortolkelige informationer.</br>
@@ -198,7 +199,7 @@ En identifikator i en bestemt kontekst, bestående af
 ##### Profil-restriktioner og annotationer 
 <table>
 <tr><td>Alternativ term</td><td>kode</td></tr>
-<tr><td>Anvendelsesnote</td><td>[fra ADMS Vocabulary-websiden]
+<tr><td>Anvendelsesnote</td><td>[fra ADMS Vocabulary-websiden]</br>
 En streng, der er en identifikator i sammenhæng med identifikationsskemaet, der refereres til af dens datatype.</td></tr>
 <tr><td>Domæne</td><td>adms:Identifier</td></tr>
 <tr><td>Udfaldsrum</td><td>rdfs:Literal</td></tr>
@@ -218,7 +219,7 @@ En streng, der er en identifikator i sammenhæng med identifikationsskemaet, der
 ##### Profil-restriktioner og annotationer 
 <table>
 <tr><td>Alternativ term</td><td>schema navn</td></tr>
-<tr><td>Definition</td><td>[fra Core Public Organisation Vocabulary websiden]
+<tr><td>Definition</td><td>[fra Core Public Organisation Vocabulary websiden]</br>
 Navn på det skema, der blev brugt til at konstruere identifikatoren.</td></tr>
 <tr><td>Domæne</td><td>adms:Identifier</td></tr>
 <tr><td>Udfaldsrum</td><td>rdf:langString</td></tr>
@@ -239,7 +240,7 @@ Navn på det skema, der blev brugt til at konstruere identifikatoren.</td></tr>
 ##### Profil-restriktioner og annotationer 
 <table>
 <tr><td>Alternativ term</td><td>udstedelsesdato</td></tr>
-<tr><td>Definition</td><td>[fra Core Public Organisation Vocabulary websiden]
+<tr><td>Definition</td><td>[fra Core Public Organisation Vocabulary websiden]</br>
 Den dato, hvor identifikatoren blev tildelt.</td></tr>
 <tr><td>Domæne</td><td>adms:Identifier</td></tr>
 <tr><td>Udfaldsrum</td><td>xsd:date</td></tr>
@@ -260,7 +261,7 @@ Den dato, hvor identifikatoren blev tildelt.</td></tr>
 ##### Profil-restriktioner og annotationer 
 <table>
 <tr><td>Alternativ term</td><td>udstedende myndighed</td></tr>
-<tr><td>Definition</td><td>[fra Core Public Organisation Vocabulary websiden]
+<tr><td>Definition</td><td>[fra Core Public Organisation Vocabulary websiden]</br>
 Navnet på den autoritet, der er ansvarlig for at udstede identifikatoren.</td></tr>
 <tr><td>Domæne</td><td>adms:Identifier</td></tr>
 <tr><td>Udfaldsrum</td><td>rdf:langString</td></tr>
@@ -281,7 +282,7 @@ Navnet på den autoritet, der er ansvarlig for at udstede identifikatoren.</td><
 ##### Profil-restriktioner og annotationer 
 <table>
 <tr><td>Term</td><td>schema URI</td></tr>
-<tr><td>Definition</td><td>[fra Core Public Organisation Vocabulary websiden]
+<tr><td>Definition</td><td>[fra Core Public Organisation Vocabulary websiden]</br>
 URI for det skema, der bruges til at konstruere identifikatoren.</td></tr>
 <tr><td>Anvendelsesnote</td><td>URIen angives i form af en tekststreng.</td></tr>
 <tr><td>Eksempel</td><td></td></tr>
@@ -292,11 +293,11 @@ URI for det skema, der bruges til at konstruere identifikatoren.</td></tr>
 
 
 > [!IMPORTANT]
-> Bemærk at SEMIC angiver at egenskaben ’dct:conformsTo’ kan have ’xsd:anyURI’ som udfaldsrum. Det synes at stride imod Dublin Core Terms definitionen hvor ’range’ er ’dct:Standard’ (en klasse).
-> Egenskaben dct:conformsTo er en underegenskab til dct:relation og må derfor ikke være i konflikt med denne. I en note til egenskaben ’dct:relation’ hedder det: 
+> Bemærk at SEMIC angiver at egenskaben `dct:conformsTo` kan have `xsd:anyURI` som udfaldsrum. Det synes at stride imod Dublin Core Terms definitionen hvor ’range’ er `dct:Standard` (en klasse).
+> Egenskaben `dct:conformsTo` er en underegenskab til `dct:relation` og må derfor ikke være i konflikt med denne. I en note til egenskaben `dct:relation` hedder det: 
 > ”Dette udtryk er beregnet til at blive brugt med non-Literal værdier som defineret i DCMI Abstract Model (http://dublincore.org/documents/abstract-model/).”
-> Datatypen xsd:anyURI er en Literal.
-> I denne udgave af basisprofilen er det valgt indtil videre at fastholde brugen af xsd:anyURI mens en afklaring i SEMIC-regi forsøges opnået.
+> Datatypen `xsd:anyURI` er en Literal.
+> I denne udgave af basisprofilen er det valgt indtil videre at fastholde brugen af `xsd:anyURI` mens en afklaring i SEMIC-regi forsøges opnået.
 
 [^7]: https://joinup.ec.europa.eu/collection/semic-support-centre
 [^8]: https://semiceu.github.io/ADMS/releases/2.00/#Identifier 
