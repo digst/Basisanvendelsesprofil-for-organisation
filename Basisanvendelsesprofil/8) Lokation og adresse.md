@@ -5,7 +5,7 @@
 ## Lokationen
 Med anvendelsesprofilen kan en organisations fysiske placering angives enten direkte med en adresse eller via angivelse af et sted hvor organisationen holder til. Det sted organisationen holder til kan også tilføjes en adresse. 
 
-Fra vokabularet Location Core Vocabulary anvendes egenskaben locn:address til at angive en direkte forbindelse mellem organisationen og en adresse. Fra samme vokabular anvendes også klassen locn:Address, der er defineret for at være kompatibel med INSPIREs krav til adresser.
+Fra vokabularet Location Core Vocabulary anvendes egenskaben `locn:address` til at angive en direkte forbindelse mellem organisationen og en adresse. Fra samme vokabular anvendes også klassen locn:Address, der er defineret for at være kompatibel med INSPIREs krav til adresser.
 
 En organisation og en organisationsenheds fysiske placering kan angives. En organisation kan også have flere forskellige fysiske placeringer.
 Placeringen kan fx angives med en adresse.
@@ -444,7 +444,7 @@ Adresse-ID'et er en del af INSPIRE-retningslinjerne og giver en hook, der kan br
 
 …………………………………
 
-Egenskaben locn:locatorDesignator (positionsindikator) dækker flere egenskaber i DAR, fx. husnummertekst, etagebetegnelse og dørbetegnelse, som en samlet, sammensat tekststreng. For at bevare muligheden for at angive de nævnte tre DAR-egenskaber enkeltvis, repræsenteres disse også som valgmuligheder på klassen locn:Address. De tre egenskaber beskrives efterfølgende.
+Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskaber i DAR, fx. husnummertekst, etagebetegnelse og dørbetegnelse, som en samlet, sammensat tekststreng. For at bevare muligheden for at angive de nævnte tre DAR-egenskaber enkeltvis, repræsenteres disse også som valgmuligheder på klassen `locn:Address`. De tre egenskaber beskrives efterfølgende.
 
 #### husnummertekst
 ##### _Vokabular-definition og beskrivelser_
