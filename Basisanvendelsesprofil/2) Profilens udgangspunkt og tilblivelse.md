@@ -1,4 +1,4 @@
-ifikt # Profilens udgangspunkt og tilblivelse
+# Profilens udgangspunkt og tilblivelse
 Denne anvendelsesprofil er det foreløbige resultat af forslaget _Fællesoffentlig standard for Organisation_, der blev vedtaget af ’Udvalget for arkitektur og standarder’ (UAS) på 6. møde 8 juni 2021. Forslagets hovedindhold var:
 
 
