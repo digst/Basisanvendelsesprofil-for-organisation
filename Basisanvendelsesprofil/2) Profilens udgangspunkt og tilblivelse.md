@@ -141,7 +141,7 @@ Følgende vokabular og det angivne præfiks samt navnerum er oprettet til unders
 <table>
 <tr>
     <td><b>præfiks</b></td>
-    <td><b>navneområde</b></td>
+    <td><b>navnerum</b></td>
     <td><b>titel</b></td>
 </tr>
 <tr>
