@@ -34,20 +34,31 @@ Et vokabulars elementer kan hver for sig betragtes som en (atomar) semantisk byg
 For eksemplets skyld antager vi at der skal defineres en anvendelsesprofil om personer, en profil der skal kunne beskrive de mest almindeligt anvendte metadata til at beskrive en person i offentligt regi.
 Ud af de omkring 50 vokabularer der umiddelbart kan findes hvor en Person-klasse indgår, vælges vokabularet FOAF (Friend of a Friend) ’  og fra den klassen’Person’. Valget træffes i denne situation ud fra et ønske om at anvende en klasse der har udbredt anvendelse og derfor kan forventes at medvirke til at lette interoperabilitet med andre semantiske datamodeller.
 
- 
+<p align="center">
+    <img alt="Anvendelsesprofil med brug af foaf:Person" src="SVG/foaf-person.svg">
+</p>
+
 Anvendelsesprofil med brug af foaf:Person
 #### Definition af eget vokabular
 Er der til en anvendelsesprofil behov for elementer der ikke kan findes i eksisterende vokabularer, så kan de defineres i et nyt vokabular, af SEMIC kaldet ’egen ontologi’.
 Anvendelsesprofilen om personer har her haft behov for en specifik klasse til beskrivelse af ’Borger’ og har derfor defineret den i et nyt vokabular – her blot kaldet ’Borger’ – og i samme vokabular erklæret at klassen Borger er en delmængde af klassen Person fra FOAF-vokabularet.
 Borger-vokabularet er en selvstændig model der eksistere uafhængigt af anvendelsesprofilen. Den er blot skabt i relation til arbejdet med profilen og anvendes – helt eller delvist – af profilen.
 
- 
+<p align="center">
+    <img alt="Relation mellem vokabular og profil" src="SVG/vokabular-profil-relation.svg">
+</p>
 
 Anvendelsesprofilen om personer er nu på vej til at blive en profil der kan skabe fælles forståelse og semantisk interoperabilitet mellem adskilte it-systemer. Nedenfor illustreres det at tre systemer har hver deres lokale definitioner og navngivninger af henholdsvis person og borger.
 
- 
+<p align="center">
+    <img alt="Klasser og repræsentation" src="SVG/klasser-og-repræsentation-1.svg">
+</p> 
 
-Ved at mappe de lokale metadata til en fælles definition og en entydig identifikation for henholdsvis ’Person’ og for ’Borger’, kan systemerne benytte et entydigt og maskinfortolkeligt fælles sprog til dataudvekling. 
+Ved at mappe de lokale metadata til en fælles definition og en entydig identifikation for henholdsvis ’Person’ og for ’Borger’, kan systemerne benytte et entydigt og maskinfortolkeligt fælles sprog til dataudvekling.
+
+<p align="center">
+    <img alt="Klasser og repræsentation" src="SVG/klasser-og-repræsentation-2.svg">
+</p>
  
 ### ”Egen dataform + genbrugt dataform”
 
@@ -66,35 +77,51 @@ De betingelser og begrænsninger, der gælder for en given anvendelsesprofil, er
 Anvendelsesprofiler er normalt tiltænkt et særligt formål, et formål der kan påvirke udformningen af profilen. For at kunne tale mere præcist om en anvendelsesprofil anbefales det at bruge typer som ’Basisprofil’, ’API-profil’ og ’Fødereret API-profil’.
 Typernes indbyrdes overordnede sammenhæng illustreres her:
 
+<p align="center">
+    <img alt="Typer af profiler" src="SVG/profiltyper-1.svg">
+</p>
  
 ## Basisprofil
 Basisprofiler oprettes med fokus på at lette arbejdet med udformning af API-profiler samt at skabe grundlag for integrationen mellem profiler i et semantisk fællesskab.
 En basisprofil indeholder et sæt af metadata omkring et emneområde og så vidt muligt kun om det ene emne. Basisprofil skal ikke beskrive alle aspekter af et emneområde, men skal fokusere på de metadata der vurderes at kunne få bred anvendelse.
 Basisprofilen udgør en fælles kerne, der kan udvides med yderligere kontekstafhængige oplysninger, i de mere specifikke API-profiler. Informationer dannet på baggrund af to eller flere anvendelsesprofiler kan potentielt bringes til at hænge sammen via denne fælles kerne.
 I API-profiler skal basisprofilens elementer indgå i så stort et omfang som muligt for at give det bedst mulige grundlag for efterfølgende at skabe sammenhæng mellem datasæt etableret på baggrund af ellers forskelligartede it-system-profiler.
+
+<p align="center">
+    <img alt="Vokabularer og perofiler deler elementer" src="SVG/profil-delte-elementer.svg">
+</p>
  
 ### Basisprofilers udvikling
 Ideelt set vil en basisprofil være udviklet på baggrund af alle potentielt relevante it-systemers håndtering af det emne basisprofilen har fokus på og kunne derfor forventes at være uforanderlig over tid. Den virkelige verden er anderledes. Selv hvis der i udformningen af en basisprofil er taget højde for kendte eksisterende og relevante it-systemer, så vil der både ske ændringer i de pågældende it-systemer og der vil komme nye it-systemer til. 
 
- 
+<p align="center">
+    <img alt="Basisprofil og API-profiler" src="SVG/basisprofil-og-API-profiler.svg">
+</p>
 
 Konstateres det at to eller flere API-profiler anvender et element der ikke er en del af basisprofilen, så bør det føre til at det vurderes om elementet skal gøres til en del af basisprofilen. 
 
- 
+<p align="center">
+    <img alt="Ny udgave af profil" src="SVG/Ny-udgave-af-profil.svg">
+</p>
 
 Hvis vurderingen falder positivt ud, så skabes der en ny udgave af basisprofilen.
 ## API-profiler
 En API-profil defineres som en anvendelsesprofil der repræsenterer den datamodel et it-system API har. 
 API-profiler kan være defineret både med og uden brug af en basisprofil. 
 
- 
+<p align="center">
+    <img alt="API-profil" src="SVG/API-profil.svg">
+</p> 
 
 Hvis en basisprofil bruges vil API-profilens behov afgøre om basisprofilens elemener benyttes som de er eller om der skal anvendes specialiseringer af klasser, egenskaber og datatyper.
 Desuden kan en API-profil tilføje egne klassifikationer og indsnævre multipliciteter.
 Basisprofiler udformes med de metadata der anses for at være dækkende for et bredt felt af den type data profilen er oprettet for.  Det betyder to ting:
-o	at APIer kan give adgang til data der ikke er dækket af en basisprofil, men af APIet relaterede profil. 
-o	at ikke alle APIer kan returnere eller håndtere alle data repræsenteret i en basisprofil.
+*	at APIer kan give adgang til data der ikke er dækket af en basisprofil, men af APIet relaterede profil. 
+*	at ikke alle APIer kan returnere eller håndtere alle data repræsenteret i en basisprofil.
 
+<p align="center">
+    <img alt="Fravalg af elementer" src="SVG/Fravalg-af-elementer.svg">
+</p> 
  
 API-profilen kan fravælge elementer fra basisprofilen. Her markeret som grå
 ## Fødereret API-profil
@@ -102,23 +129,27 @@ En fødereret API-profil er en profil der anvendes til at beskrive et API der ka
 Fødereret søgning er en teknik, der bruges til at søge i flere datakilder på én gang. Med fødereret søgning hentes data fra flere datakilder med én forespørgsel. Via det API der forespørges på fordeles forespørgslen til de underliggende datakilder. 
 Til et fødereret API oprettes en fødereret API-profil der samlet inkluderer og repræsenterer de underliggende datakilders API-profiler.
 
- 
+<p align="center">
+    <img alt="Fødereret profil" src="SVG/Fødereret-profil.svg">
+</p>  
 
 I nedenstående illustration har alle profilerne helt eller delvist genbrugt elementer fra samme basisprofil. Det er ikke en nødvendighed for at skabe et fødereret API. En fødereret profil opbygges på baggrund af de API-profiler der eksempelvis ønskes foretaget en fødereret søgning på, uanset om disse APIer ha en fælles basisprofil eller om de er skabt helt uafhængigt af andre profiler.
 
- 
+<p align="center">
+    <img alt="Fødereret API-profil" src="SVG/Fødereret-API-profil.svg">
+</p>  
 
 # Eksempler på anvendelsesprofiler
-Nedstående liste er eksempler på anvendelsesprofiler udviklet i FDA-regi.
-Anvendelsesprofil for organisationer
-https://arkitektur.digst.dk/specifikationer/organisation/anvendelsesprofil-organisationer 
-Anvendelsesprofil for klassifikationer
-https://arkitektur.digst.dk/specifikationer/klassifikation/anvendelsesprofil-klassifikationer
-DCAT-AP-DK: Dansk anvendelsesprofil til beskrivelse af datasæt og datakataloger 
-https://digst.github.io/DCAT-AP-DK/releases/v.2.0/docs/
-Standard for beskrivelse af it-systemer - basisprofil
-https://digst.github.io/IT-System-AP/SYS-AP/docs/
-langDCAT-AP: Anvendelsesprofil til beskrivelse af sprogteknologiske datasæt 
-https://github.com/digst/langDCAT-AP 
+Nedstående liste er eksempler på anvendelsesprofiler udviklet i FDA-regi.</br>
+* Anvendelsesprofil for organisationer</br>
+&nbsp;&nbsp;&nbsp;&nbsp;https://arkitektur.digst.dk/specifikationer/organisation/anvendelsesprofil-organisationer</br> 
+* Anvendelsesprofil for klassifikationer</br>
+&nbsp;&nbsp;&nbsp;&nbsp;https://arkitektur.digst.dk/specifikationer/klassifikation/anvendelsesprofil-klassifikationer</br>
+* DCAT-AP-DK: Dansk anvendelsesprofil til beskrivelse af datasæt og datakataloger</br> 
+&nbsp;&nbsp;&nbsp;&nbsp;https://digst.github.io/DCAT-AP-DK/releases/v.2.0/docs/</br>
+* Standard for beskrivelse af it-systemer - basisprofil</br>
+&nbsp;&nbsp;&nbsp;&nbsp;https://digst.github.io/IT-System-AP/SYS-AP/docs/</br>
+* langDCAT-AP: Anvendelsesprofil til beskrivelse af sprogteknologiske datasæt </br>
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/digst/langDCAT-AP</br> 
 
 [^1]:  https://semiceu.github.io/style-guide/1.0.0/terminological-clarifications.html#sec:what-is-an-ap-specification
