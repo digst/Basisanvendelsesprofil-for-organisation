@@ -4,29 +4,29 @@ Dette dokument indgår i leverancen til Udvalget for Arkitektur og Standarder (U
 Dokumentet indeholder beskrivelser af brugsscenarier for en ny organisationsstandard. Brugsscenarierne skal ud fra et forretningsmæssigt perspektiv beskrive de anvendelsesorienterede behov, som en ny organisationsstandard skal indfri. 
 Brugsscenarierne skal i processen med udarbejdelse af en ny organisationsstandard bruges som forretningsbehovene hertil. Efterfølgende skal brugsscenarierne bruges til at validere den nye organisationsstandard i forhold til forretningsbehovene. Derfor beskrives også acceptkriterier for hvert brugsscenarie.
 <table>
-<tr> <td> Brugsscenarie navn </td> <td> en angivelse af navn for brugsscenariet. Eksempelvis :
-”Scenarie 1	Beskrivelse af organisationens struktur” </td> </tr>
-<tr> <td> Formål </td> <td> en kort beskrivelse af formålet med brugsscenariet og hvad organisationsstandarden skal kunne beskrive. </td> </tr>
-<tr> <td> Beskrivelse </td> <td> en eventuel uddybning af brugsscenariet </td> </tr>
-<tr> <td> Eksempel </td> <td> er en mulighed for at kunne uddybe brugsscenariet med eksempler på, hvordan det kunne tænkes at udfolde sig i konkrete brugssituationer. </td> </tr>
-<tr> <td> Resultat / Acceptkriterier </td> <td> Beskrivelse af kriterier som skal være opfyldt for brugsscenariet. Bruges til at validere den færdige organisationsstandard imod i forhold til at efterleve brugsscenariet. </td> </tr>
+<tr> <td>Brugsscenarie navn</td> <td> <i>en angivelse af navn for brugsscenariet. Eksempelvis :</br>
+&nbsp;&nbsp;&nbsp;&nbsp;”Scenarie 1	Beskrivelse af organisationens struktur”</i>i> </td> </tr>
+<tr> <td> Formål </td> <td> <i>en kort beskrivelse af formålet med brugsscenariet og hvad organisationsstandarden skal kunne beskrive.</i> </td> </tr>
+<tr> <td> Beskrivelse </td> <td> <i>en eventuel uddybning af brugsscenariet</i> </td> </tr>
+<tr> <td> Eksempel </td> <td> <i>er en mulighed for at kunne uddybe brugsscenariet med eksempler på, hvordan det kunne tænkes at udfolde sig i konkrete brugssituationer.</i> </td> </tr>
+<tr> <td> Resultat / Acceptkriterier </td> <td> <i>Beskrivelse af kriterier som skal være opfyldt for brugsscenariet. Bruges til at validere den færdige organisationsstandard imod i forhold til at efterleve brugsscenariet. </i></td> </tr>
 </table>
 
 Tabel 1 Forklaring til tabel til beskrivelse af brugsscenarier
 # Brugsscenarier for organisationsstandard
 Brugsscenarierne er inddelt i en række perspektiver, som den kommende organisationsstandard skal kunne beskrive organisationer ud fra. I figuren nedenfor er vist udvalgte perspektiver, som bruges til at inddele brugsscenarierne efter. 
-
- 
+</br>
+</br> 
 Figur 1 Perspektiver på Organisation
 
 Den tekst der i første omgang beskrev de enkelte brugsscenarier, blev efterfølgende opdelt i mere præcise underafsnit. 
 <table>
-<tr> <td> Afledt af </td> <td> Angiver den scenariebeskrivelse hvorfra underafsnittets beskrivelse er dannet. Eksempelvis:
-”Scenarie 1	Beskrivelse af organisationens struktur” </td> </tr>
-<tr> <td> Beskrivelse </td> <td> Angiver det primære behov i scenariet </td> </tr>
-<tr> <td> Kommentar </td> <td> Eventuelle yderligere kommentarer </td> </tr>
-<tr> <td> Eksempel </td> <td> Eventuelle eksempler </td> </tr>
-<tr> <td> Profil </td> <td> Her angives det organisationsperspektiv scenariet er bedømt til at høre under. De enkelte perspektiver kan eventuelt håndteret samlet som anvendelsesprofiler, hvorfor termen ’Profil’ er anvendt her.  </td> </tr>
+<tr> <td> Afledt af </td> <td> <i>Angiver den scenariebeskrivelse hvorfra underafsnittets beskrivelse er dannet. Eksempelvis:</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<i>”Scenarie 1	Beskrivelse af organisationens struktur”</i> </td> </tr>
+<tr> <td> Beskrivelse </td> <td> <i>Angiver det primære behov i scenariet</i> </td> </tr>
+<tr> <td> Kommentar </td> <td> <i>Eventuelle yderligere kommentarer</i> </td> </tr>
+<tr> <td> Eksempel </td> <td> <i>Eventuelle eksempler</i> </td> </tr>
+<tr> <td> Profil </td> <td><i>Her angives det organisationsperspektiv scenariet er bedømt til at høre under. De enkelte perspektiver kan eventuelt håndteret samlet som anvendelsesprofiler, hvorfor termen ’Profil’ er anvendt her.</i>  </td> </tr>
 </table>
 
 
@@ -42,10 +42,10 @@ Organisationsenheder kan bruges til at opbygge organisationshierarkier, som fx e
 Organisationsenheder skal kunne repræsentere mange forskellige enhedstyper, eksempelvis teams, afdelinger, sektioner, kontorer, udvalg, projektgrupper, styregrupper, sammenslutninger i form af selskaber, og lignende.
 Det skal være muligt at angive, hvordan de forskellige organisationsenheder er relateret til hinanden med under- og overordnelsesforhold, og på den måde opbygge organisationshierarkier. </td> </tr>
 <tr> <td> Eksempel </td> <td> En kommunal organisation er et eksempel på et organisationshierarki. I den kommunale organisation beskrives de forskellige forvaltninger som organisationsenheder, der er en del af kommunen, og som kan have underordnede organisationsenheder i form af eksempelvis centre, afdelinger og kontorer. Den hierarkiske opbygning sikrer her, at alle organisationsenheders tilhørsforhold til kommunen som organisation kan spores. </td> </tr>
-o	<tr> <td> Resultat / Acceptkriterier </td> <td> Organisationsstandarden kan beskrive organisationers indre organisatoriske struktur og opbygning, i form af organisationsenheder og deres relationer og over-/underordnelsesforhold.
-o	Organisationsstandarden kan beskrive organisationshierarkier.
-o	Organisationsstandarden er rammesættende i forhold til obligatoriske organisatoriske strukturer. 
-o	Organisationsstandarden skal beskrive, hvordan man angiver top-niveauet i en organisationsstruktur. </td> </tr>
+<tr> <td> Resultat / Acceptkriterier </td> <td> <ul> <li>Organisationsstandarden kan beskrive organisationers indre organisatoriske struktur og opbygning, i form af organisationsenheder og deres relationer og over-/underordnelsesforhold.</li>
+<li>Organisationsstandarden kan beskrive organisationshierarkier.</li>
+<li>Organisationsstandarden er rammesættende i forhold til obligatoriske organisatoriske strukturer.</li>
+<li>Organisationsstandarden skal beskrive, hvordan man angiver top-niveauet i en organisationsstruktur.</li> </td> </tr>
 </table>
 
 #### Scenarie 1.1	Man skal kunne danne en organisatorisk struktur indeholdende organisationens enheder.
