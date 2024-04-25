@@ -37,9 +37,9 @@ Den tekst der i første omgang beskrev de enkelte brugsscenarier, blev efterføl
 <table>
 <tr> <td> Brugsscenarie </td> <td> Beskrivelse af organisationens struktur med organisationsenheder </td> </tr>
 <tr> <td> Formål </td> <td> Organisationsstandarden skal kunne beskrive organisationens indre struktur i form af organisationsenheder og deres indbyrdes relationer. </td> </tr>
-<tr> <td> Beskrivelse </td> <td> Organisationsenheder og indbyrdes relationer kan anvendes til at beskrive en organisations struktur.
-Organisationsenheder kan bruges til at opbygge organisationshierarkier, som fx en linjeorganisation. 
-Organisationsenheder skal kunne repræsentere mange forskellige enhedstyper, eksempelvis teams, afdelinger, sektioner, kontorer, udvalg, projektgrupper, styregrupper, sammenslutninger i form af selskaber, og lignende.
+<tr> <td> Beskrivelse </td> <td> Organisationsenheder og indbyrdes relationer kan anvendes til at beskrive en organisations struktur.</br>
+Organisationsenheder kan bruges til at opbygge organisationshierarkier, som fx en linjeorganisation. </br>
+Organisationsenheder skal kunne repræsentere mange forskellige enhedstyper, eksempelvis teams, afdelinger, sektioner, kontorer, udvalg, projektgrupper, styregrupper, sammenslutninger i form af selskaber, og lignende.</br>
 Det skal være muligt at angive, hvordan de forskellige organisationsenheder er relateret til hinanden med under- og overordnelsesforhold, og på den måde opbygge organisationshierarkier. </td> </tr>
 <tr> <td> Eksempel </td> <td> En kommunal organisation er et eksempel på et organisationshierarki. I den kommunale organisation beskrives de forskellige forvaltninger som organisationsenheder, der er en del af kommunen, og som kan have underordnede organisationsenheder i form af eksempelvis centre, afdelinger og kontorer. Den hierarkiske opbygning sikrer her, at alle organisationsenheders tilhørsforhold til kommunen som organisation kan spores. </td> </tr>
 <tr> <td> Resultat / Acceptkriterier </td> <td> <ul> <li>Organisationsstandarden kan beskrive organisationers indre organisatoriske struktur og opbygning, i form af organisationsenheder og deres relationer og over-/underordnelsesforhold.</li>
@@ -80,9 +80,9 @@ Det skal være muligt at angive, hvordan de forskellige organisationsenheder er 
 <tr> <td> Afledt af </td> <td> Scenarie 1   Beskrivelse af organisationens struktur </td> </tr>
 <tr> <td> Beskrivelse </td> <td> Det skal være muligt at angive, hvordan de forskellige organisationsenheder er relateret til hinanden. Relationerne kan bruges til at beskrive såvel overordnede, underordnede som sidestillede forhold. </td> </tr>
 <tr> <td> Kommentar </td> <td> De forskellige relationsroller bør være autorative  </td> </tr>
-<tr> <td> Eksempel </td> <td> Eksempelvis: 
-- lønafdelingen er en del af HR-afdelingen
-- jobcenter er en del af socialafdelingen </td> </tr>
+<tr> <td> Eksempel </td> <td> Eksempelvis: <ul>
+<li> lønafdelingen er en del af HR-afdelingen</li>
+<li>jobcenter er en del af socialafdelingen</li></ul> </td> </tr>
 <tr> <td> Profil </td> <td> Organisatorisk struktur </td> </tr>
 </table>
 
@@ -91,11 +91,11 @@ Det skal være muligt at angive, hvordan de forskellige organisationsenheder er 
 <tr> <td> Brugsscenarie </td> <td> Beskrivelse af forskellige organisationsstrukturer </td> </tr>
 <tr> <td> Formål </td> <td> Organisationsstandarden skal kunne beskrive forskellige opbygninger af organisationsstrukturer indenfor den samme organisation. Dermed skal organisationens forskellige strukturer kunne opbygges i forhold til, hvilket perspektiv de repræsenterer. </td> </tr>
 <tr> <td> Beskrivelse </td> <td> Organisationer rummer oftest mere end én organisationsstruktur, der svarer til forskellige syn på organisationen. 
-Der kan eksempelvis være (men er ikke begrænset til): 
-o	Linjeorganisation, som repræsenterer det formelle organisationshierarki. 
-o	Lønorganisationen som den er opbygget i løn- og personalesystemet
-o	MED-organisationen, som repræsenterer arbejdet med arbejdsmiljø
-Fremfor at samle det hele i én organisationsstruktur skal organisationsstandarden give mulighed for at beskrive flere forskellige organisationsstrukturer indenfor den samme organisation. For hver organisationsstruktur skal angives type, eksempelvis om det er Linjeorganisation.
+Der kan eksempelvis være (men er ikke begrænset til): <ul>
+<li>Linjeorganisation, som repræsenterer det formelle organisationshierarki.</li> 
+<li>Lønorganisationen som den er opbygget i løn- og personalesystemet</li>
+<li>MED-organisationen, som repræsenterer arbejdet med arbejdsmiljø</li></ul>
+Fremfor at samle det hele i én organisationsstruktur skal organisationsstandarden give mulighed for at beskrive flere forskellige organisationsstrukturer indenfor den samme organisation. For hver organisationsstruktur skal angives type, eksempelvis om det er Linjeorganisation.</td>br>
 Organisationsstandarden skal muliggøre relationer mellem organisationsenheder i forskellige hierarkier, eller også at organisationsenheder optræder i forskellige hierarkier. </td> </tr>
 <tr> <td> Eksempel </td> <td> En kommunal organisation har flere samtidige organisationshierarkier: linjeorganisationen der repræsenterer organiseringen af arbejdet, og lønorganisationen, der repræsenterer organisationen i løn- og personalesystemet. De organisationsenheder der repræsenterer kommunens forvaltninger går igen i begge organisationshierarkier. </td> </tr>
 <tr> <td> Resultat / Acceptkriterier </td> <td> Med organisationsstandarden kan beskrives forskellige organisationsstrukturer indenfor en organisation.   </td> </tr>
