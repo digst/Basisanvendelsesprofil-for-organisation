@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="400" height="400" alt="Model over organisatorisk struktur logisk model" src="PNG/Organisatorisk-struktur-logisk-model.png">
+  <img  alt="Model over organisatorisk struktur logisk model" src="PNG/Organisatorisk-struktur-logisk-model.png">
 </p> 
 Organisationer vil i de fleste tilfælde have en organisatorisk struktur, oftest en hierarkisk form. 
 
@@ -48,7 +48,6 @@ Den klasse der repræsentere afgrænsede dele af organisationen. Klassen for <in
 </table>
 
 ##### _Profilens kontekstrestriktioner og annotationer_
-(farve, der er farve i den følgende tabel)
 <table>
 <tr>
     <td>Alternativ term</td>
@@ -56,18 +55,18 @@ Den klasse der repræsentere afgrænsede dele af organisationen. Klassen for <in
 </tr>
  <tr>
     <td>Definition</td>
-    <td> <span style="color🚙">[Fra Informationsmodel] <br> En organisation, der er bredt anerkendt i omverdenen, med tilhørende rettigheder og ansvar</span></td>
+    <td> [Fra Informationsmodel] <br> En organisation, der er bredt anerkendt i omverdenen, med tilhørende rettigheder og ansvar</span></td>
 </tr>
   <tr>
     <td>Eksempel</td>
-    <td> <span style="color🚙">[Fra Informationsmodel] <br> Organisationer kan ofte nedbrydes i hierarkiske strukturer <br>
+    <td> [Fra Informationsmodel] <br> Organisationer kan ofte nedbrydes i hierarkiske strukturer <br>
 Organisationen er "rammen" for alle de øvrige elementer (Organisationsenheder, Organisationsmedlemmer og deres indbyrdes relationer) <br>
-Eksempel: <br>
-o	et aktieselskab <br>
-o	en statslig styrelse <br>
-o	en velgørende forening <br>
-o	en kirkelig forening <br>
-- ....</span></td>
+Eksempel: <ul>
+<li>et aktieselskab </li>
+<li>en statslig styrelse</li>
+<li>en velgørende forening</li>
+<li>en kirkelig forening</li>
+<li>....</li></td>
 </tr>
 </table>
 
@@ -116,10 +115,11 @@ o	en kirkelig forening <br>
 </tr>
    <tr>
     <td>Eksempel</td>
-    <td> <span style="color🚙">[Fra informationsmodel] <br> o	Bogholderiet <br>
-o	Projekt "ny organisationsstandard" <br>
-o	Hæmatologisk afdeling <br>
-- ....</span> </td>
+    <td> [Fra informationsmodel] <ul>
+	 <li>Bogholderiet</li>
+	<li>Projekt "ny organisationsstandard"</li>
+	<li>Hæmatologisk afdeling</li>
+<li>....</li></td>
 </tr>
 </table>
 
