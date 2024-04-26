@@ -154,12 +154,11 @@ Til brug for danske fællesoffentlige brugerdefinerede datatyper foreslås følg
     <td>Anvendelsesnote</td>
     <td>[fra ADMS Vocabulary-websiden]
       
-En identifikator i en bestemt kontekst, bestående af
-      
-*	indholdsstreng, der er identifikatoren;
-*	en valgfri identifikator for identifikationssystemet;
-*	en valgfri identifikator for versionen af identifikationsskemaet;
-*	en valgfri identifikator for det bureau, der administrerer identifikationsordningen. </td>
+En identifikator i en bestemt kontekst, bestående af <ul>      
+<li>indholdsstreng, der er identifikatoren;</li>
+<li>en valgfri identifikator for identifikationssystemet;</li>
+<li>en valgfri identifikator for versionen af identifikationsskemaet;</li>
+<li>en valgfri identifikator for det bureau, der administrerer identifikationsordningen.</li> </ul> </td>
 </tr>
 <tr>
     <td>Anvendelsesnote</td>
