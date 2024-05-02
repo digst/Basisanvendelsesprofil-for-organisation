@@ -10,15 +10,6 @@
 > Basisprofilen beskriver løsning på behov udtrykt i [Scenarie 1 Beskrivelse af organisationens struktur](https://www.github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Brugerbehov/Brugerbehov.md#scenarie-1beskrivelse-af-organisationens-struktur).</br>
 > Løsningsbeskrivelse på [Scenarie 2 Beskrivelse af forskellige organisationsstrukturer](https://www.github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Brugerbehov/Brugerbehov.md#scenarie-2beskrivelse-af-forskellige-organisationsstrukturer) og [Scenarie 3 Beskrivelse af ændringer i organisationsstrukturen over tid](https://www.github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Brugerbehov/Brugerbehov.md#scenarie-3beskrivelse-af-%C3%A6ndringer-i-organisationsstrukturen-over-tid)
  afventer efterfølgende udgave af basisprofilen.
-
-
-[]()
-
-[]()
-
-
-
-
  
 Organisationer vil i de fleste tilfælde have en organisatorisk struktur, oftest en hierarkisk form. 
 
@@ -145,7 +136,9 @@ Det foreslås i første udgave af basisprofilen at undlade inddragelse af klasse
 
 Fra ORG genanvendes org:classification til at angive typen af organisation.
 
-![Model over typer af formel organisation og organisatorisk enhed](PNG/Typer-af-Formel-organisation-og-Organisatorisk-enhed.png)
+<p align="center">
+  <img  alt="Model over typer af formel organisation og organisatorisk enhed" src="PNG/Typer-af-Formel-organisation-og-Organisatorisk-enhed.png">
+  </p>
 
 Som indikeret i ovenstående illustration så benyttes egenskaben org:classification til at udpege en klassifikation hvis emner repræsenterer organisationstyper. De viste emner er udelukkende eksempler på mulige typer af oranisationer. Klassifikationen kan udvides løbende efter behov.
 
@@ -154,7 +147,9 @@ Senere udgaver af basisprofilen vil kunne indeholde de to nævnte klasser og and
 ’Myndighed’ vil i det tilfælde kunne repræsenteres som en klasse der både er en delmængde af klassen ’Formel organisation’ og en delmængde af klassen [’Offentlig organisation’](https://semiceu.github.io/CPOV/releases/2.00/#Public%20Organisation ).
 For ’Virksomhed’ vil klassen [’Juridisk enhed’](https://semiceu.github.io/Core-Business-Vocabulary/releases/2.00/#Legal%20Entity ) kunne anvendes.
 
-![Model over organisation, myndighed og virksomhed](PNG/Organisation-Myndighed-og-Virksomhed.png)
+<p align="center">
+  <img  alt="Model over organisation, myndighed og virksomhed" src="PNG/Organisation-Myndighed-og-Virksomhed.png">
+</p>
 
 På tilsvarende måde bruges org:classification til at angive typen af organisatorisk enhed.
 
@@ -162,7 +157,9 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
 
 ## Organisationens tilhørende enheder
 
-![Model over organisation, myndighed og virksomhed](PNG/Organisationens-tilhørende-enheder.png)
+<p align="center">
+  <img  alt="Model over organisation, myndighed og virksomhed" src="PNG/Organisationens-tilhørende-enheder.png">
+</p>
 
 #### enhed af
 ##### _Vokabular-definition og beskrivelser_
@@ -256,7 +253,11 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
     <td>Definition</td>
     <td>Angiver den formelle organisation som en topenhed er en del af.</td>
 </tr>
-   <tr>
+     <tr>
+    <td>Kommentar</td>
+    <td>Egenskaber tjener to formål:<ul><li>Den udpeger øverste ledelseslag i oganisationen</li> <li>Den letter applikationers opbgning af organisationsstruktur</li> </td>
+</tr>
+	<tr>
     <td>Domæne</td>
     <td>org:OrganizationalUnit</td>
 </tr>
@@ -280,15 +281,25 @@ _Profil-restriktioner og annotationer_
     <td>Definition</td>
     <td><span style="color🚙">[fra informationsmodel] <br> markerer at denne orgaisationsenhed er den øverste i et hiererki.</span></td>
 </tr>
+	<tr>
+    <td>Domæne</td>
+    <td>org:OrganizationalUnit</td>
+</tr>
    <tr>
+    <td>Udfaldsrum</td>
+    <td>org:FormalOrganization</td>
+</tr>
+	<tr>
     <td>Multiplicitet</td>
     <td>0 - 1</td>
 </tr>
 </table>
 
 ### Organisatoriske enheders indbyrdes hierarki
-![Model over organisatorisk enheds indbyrdes relationer](PNG/Organisatorisk-enheds-indbyrdes-relationer.png)
-Organisatorisk-enheds-indbyrdes-relationer.png
+
+<p align="center">
+  <img  alt="Model over organisatorisk enheds indbyrdes relationer" src="PNG/Organisatorisk-enheds-indbyrdes-relationer.png">
+</p>
  
 #### enhed af
 ##### _Vokabular-definition og beskrivelser_
@@ -393,7 +404,9 @@ Organisatorisk-enheds-indbyrdes-relationer.png
 
 ## Organisationens relationer til andre organisationer
 
-![Model over formel organisation identifikation og beskrivelse](PNG/Formel-organisation-identifikation-og-beskrivelse.png)
+<p align="center">
+  <img  alt="Model over formel organisation identifikation og beskrivelse" src="PNG/Formel-organisation-identifikation-og-beskrivelse.png">
+</p>
 
 #### underorganisation af
 ##### _Vokabular-definition og beskrivelser_
