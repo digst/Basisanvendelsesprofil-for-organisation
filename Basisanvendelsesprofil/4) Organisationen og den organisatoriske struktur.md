@@ -6,6 +6,8 @@
 </p> 
 
 [Scenarie 2](../Brugerbehov/Brugerbehov.md#scenarie-2-beskrivelse-af-forskellige-organisationsstrukturer)
+
+<a href="../main/Brugerbehov/Brugerbehov.md#scenarie-2beskrivelse-af-forskellige-organisationsstrukturer ">Scenarie 2</a> 
  
 Organisationer vil i de fleste tilfælde have en organisatorisk struktur, oftest en hierarkisk form. 
 
