@@ -155,7 +155,7 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
 
 ## Organisationens tilhørende enheder
 
-![Model over organisation, myndighed og virksomhed](PNG/Organisatorisk-struktur-logisk-model.png)
+![Model over organisation, myndighed og virksomhed](PNG/Organisationens-tilhørende-enheder.png)
 
 #### enhed af
 ##### _Vokabular-definition og beskrivelser_
