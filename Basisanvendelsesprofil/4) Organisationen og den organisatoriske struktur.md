@@ -6,7 +6,7 @@
 </p> 
 
 TEST: [Scenarie 2](../Brugerbehov/Brugerbehov.md#scenarie-2beskrivelse-af-forskellige-organisationsstrukturer)
-
+ 
 Organisationer vil i de fleste tilfælde have en organisatorisk struktur, oftest en hierarkisk form. 
 
 En organisation kan bestå af flere underorganisationer der hver for sig har en specifik identitet, fx kan et ministerium bestå af flere underordnede styrelser.
