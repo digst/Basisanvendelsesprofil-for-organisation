@@ -7,7 +7,8 @@
 
 [Scenarie 2](../Brugerbehov/Brugerbehov.md#scenarie-2beskrivelse-af-forskellige-organisationsstrukturer)
 
-[Scenarie 2](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Brugerbehov/Brugerbehov.md#scenarie-2beskrivelse-af-forskellige-organisationsstrukturer)
+[org](../Brugerbehov/Brugerbehov.md#organisatorisk-struktur--hvordan-er-organisationen-bygget-op)
+
 
 [Test](#organisatoriske-enheders-indbyrdes-hierarki)
 
