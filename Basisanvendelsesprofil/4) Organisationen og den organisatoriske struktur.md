@@ -253,7 +253,11 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
     <td>Definition</td>
     <td>Angiver den formelle organisation som en topenhed er en del af.</td>
 </tr>
-     <tr>
+<tr>
+    <td>Definition</td>
+    <td><span style="color🚙">[fra informationsmodel] <br> markerer at denne orgaisationsenhed er den øverste i et hiererki.</span></td>
+</tr>
+<tr>
     <td>Kommentar</td>
     <td>Egenskaber tjener to formål:<ul><li>Den udpeger øverste ledelseslag i oganisationen</li> <li>Den letter applikationers opbgning af organisationsstruktur</li> </td>
 </tr>
@@ -278,10 +282,22 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
 _Profil-restriktioner og annotationer_
 <table>
 <tr>
-    <td>Definition</td>
-    <td><span style="color🚙">[fra informationsmodel] <br> markerer at denne orgaisationsenhed er den øverste i et hiererki.</span></td>
+    <td>URI</td>
+    <td>https://data.gov.dk/model/core/organisation/extension/upperUnitOf</td>
 </tr>
-	<tr>
+ <tr>
+    <td>Term</td>
+    <td>øvre enhed i</td>
+</tr>
+ <tr>
+    <td>Alternativ term</td>
+    <td>top enhed i</td>
+</tr>
+  <tr>
+    <td>Definition</td>
+    <td>Angiver den formelle organisation som en topenhed er en del af.</td>
+</tr>
+   <tr>
     <td>Domæne</td>
     <td>org:OrganizationalUnit</td>
 </tr>
@@ -289,7 +305,15 @@ _Profil-restriktioner og annotationer_
     <td>Udfaldsrum</td>
     <td>org:FormalOrganization</td>
 </tr>
-	<tr>
+   <tr>
+    <td>Underegenskab af</td>
+    <td>org:uniOf</td>
+</tr>
+   <tr>
+    <td>Modsatrettet egenskab</td>
+    <td>ovx:hasUpperUnit</td>
+</tr>
+<tr>
     <td>Multiplicitet</td>
     <td>0 - 1</td>
 </tr>
