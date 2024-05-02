@@ -7,7 +7,8 @@
 
 [Scenarie 2](../Brugerbehov/Brugerbehov.md#scenarie-2-beskrivelse-af-forskellige-organisationsstrukturer)
 
-<a href="https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Brugerbehov/Brugerbehov.md#scenarie-2beskrivelse-af-forskellige-organisationsstrukturer">Scenarie 2</a>
+[Test](#organisatoriske-enheders-indbyrdes-hierarki)
+
  
 Organisationer vil i de fleste tilfælde have en organisatorisk struktur, oftest en hierarkisk form. 
 
