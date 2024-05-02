@@ -5,7 +5,7 @@
   <img  alt="Model over organisatorisk struktur logisk model" src="PNG/Organisatorisk-struktur-logisk-model.png">
 </p> 
 
-[Scenarie 2](../Brugerbehov/Brugerbehov.md#scenarie-2-beskrivelse-af-forskellige-organisationsstrukturer)
+[Scenarie 2](../Brugerbehov/Brugerbehov.md#scenarie-2beskrivelse-af-forskellige-organisationsstrukturer)
 
 [Test](#organisatoriske-enheders-indbyrdes-hierarki)
 
