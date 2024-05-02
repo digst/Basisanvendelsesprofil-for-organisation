@@ -4,7 +4,8 @@
 <p align="center">
   <img  alt="Model over organisatorisk struktur logisk model" src="PNG/Organisatorisk-struktur-logisk-model.png">
 </p> 
-TEST [Scenarie 2](#scenarie-2beskrivelse-af-forskellige-organisationsstrukturer)
+
+TEST: [description](../blob/main/Brugerbehov/Brugerbehov.md#scenarie-2-beskrivelse-af-forskellige-organisationsstrukturer)
 
 Organisationer vil i de fleste tilfælde have en organisatorisk struktur, oftest en hierarkisk form. 
 
