@@ -5,12 +5,19 @@
   <img  alt="Model over organisatorisk struktur logisk model" src="PNG/Organisatorisk-struktur-logisk-model.png">
 </p> 
 
-[Scenarie 2](../Brugerbehov/Brugerbehov.md#scenarie-2beskrivelse-af-forskellige-organisationsstrukturer)
+> [!NOTE]  
+> Brugerbehovene der har dannet baggrund for dette kapitel er beskrevet i [Brugerbehov, Organisatorisk struktur – hvordan er organisationen bygget op](https://www.github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Brugerbehov/Brugerbehov.md#organisatorisk-struktur--hvordan-er-organisationen-bygget-op).</br> 
+> Basisprofilen beskriver løsning på behov udtrykt i [Scenarie 1 Beskrivelse af organisationens struktur](https://www.github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Brugerbehov/Brugerbehov.md#scenarie-1beskrivelse-af-organisationens-struktur).</br>
+> Løsningsbeskrivelse på [Scenarie 2 Beskrivelse af forskellige organisationsstrukturer](https://www.github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Brugerbehov/Brugerbehov.md#scenarie-2beskrivelse-af-forskellige-organisationsstrukturer) og [Scenarie 3 Beskrivelse af ændringer i organisationsstrukturen over tid](https://www.github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Brugerbehov/Brugerbehov.md#scenarie-3beskrivelse-af-%C3%A6ndringer-i-organisationsstrukturen-over-tid)
+ afventer efterfølgende udgave af basisprofilen.
 
-[Scenarie 2](https://www.github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Brugerbehov/Brugerbehov.md#scenarie-2beskrivelse-af-forskellige-organisationsstrukturer)
+
+[]()
+
+[]()
 
 
-[Test](#organisatoriske-enheders-indbyrdes-hierarki)
+
 
  
 Organisationer vil i de fleste tilfælde have en organisatorisk struktur, oftest en hierarkisk form. 
