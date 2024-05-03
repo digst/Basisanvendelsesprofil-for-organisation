@@ -254,14 +254,10 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
     <td>Angiver den formelle organisation som en topenhed er en del af.</td>
 </tr>
 <tr>
-    <td>Definition</td>
-    <td><span style="color🚙">[fra informationsmodel] <br> markerer at denne orgaisationsenhed er den øverste i et hiererki.</span></td>
-</tr>
-<tr>
     <td>Kommentar</td>
     <td>Egenskaber tjener to formål:<ul><li>Den udpeger øverste ledelseslag i oganisationen</li> <li>Den letter applikationers opbgning af organisationsstruktur</li> </td>
 </tr>
-	<tr>
+<tr>
     <td>Domæne</td>
     <td>org:OrganizationalUnit</td>
 </tr>
@@ -282,22 +278,14 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
 _Profil-restriktioner og annotationer_
 <table>
 <tr>
-    <td>URI</td>
-    <td>https://data.gov.dk/model/core/organisation/extension/upperUnitOf</td>
-</tr>
- <tr>
-    <td>Term</td>
-    <td>øvre enhed i</td>
-</tr>
- <tr>
-    <td>Alternativ term</td>
-    <td>top enhed i</td>
-</tr>
-  <tr>
     <td>Definition</td>
     <td>Angiver den formelle organisation som en topenhed er en del af.</td>
 </tr>
-   <tr>
+<tr>
+    <td>Eksempel</td>
+    <td></td>
+</tr>
+<tr>
     <td>Domæne</td>
     <td>org:OrganizationalUnit</td>
 </tr>
@@ -330,42 +318,6 @@ _Profil-restriktioner og annotationer_
 <table>
 <tr>
     <td>URI</td>
-    <td>https://data.gov.dk/model/core/organisation/extension/upperUnitOf</td>
-</tr>
- <tr>
-    <td>Term</td>
-    <td>øvre enhed i</td>
-</tr>
- <tr>
-    <td>Alternativ term</td>
-    <td>top enhed i</td>
-</tr>
-  <tr>
-    <td>Definition</td>
-    <td>Angiver den formelle organisation som en topenhed er en del af.</td>
-</tr>
-   <tr>
-    <td>Domæne</td>
-    <td>org:OrganizationalUnit</td>
-</tr>
-   <tr>
-    <td>Udfaldsrum</td>
-    <td>org:FormalOrganization</td>
-</tr>
-   <tr>
-    <td>Underegenskab af</td>
-    <td>org:uniOf</td>
-</tr>
-   <tr>
-    <td>Modsatrettet egenskab</td>
-    <td>ovx:hasUpperUnit</td>
-</tr>
-</table>
- 	
-##### _Profil-restriktioner og annotationer_
-<table>
-<tr>
-    <td>URI</td>
     <td>[http://www.w3.org/ns/org#unitOf](http://www.w3.org/ns/org#unitOf )</td>
 </tr>
    <tr>
@@ -376,11 +328,7 @@ _Profil-restriktioner og annotationer_
     <td>Kommentar</td>
     <td>Angiver en organisation, som denne enhed er en del af, f.eks. en afdeling inden for en større formel organisation</td>
 </tr>
-   <tr>
-    <td>Kommentar</td>
-    <td>Angiver en organisation, som denne enhed er en del af, f.eks. en afdeling inden for en større formel organisation.</td>
-</tr>
-   <tr>
+<tr>
     <td>Anvendelsesnote</td>
     <td>Dette er den inverse egenskab af org:hasUnit.</td>
 </tr>
@@ -416,11 +364,15 @@ _Profil-restriktioner og annotationer_
     <td>Anvendelsesnote</td>
     <td>Anvendes fra ’Organisatorisk enhed’ til at angive en enhed (i samme organisation) som den anvende enhed er organisatorisk underlagt.</td>
 </tr>
-   <tr>
-    <td>Multiplicitet</td>
-    <td>1 - 1</td>
+<tr>
+    <td>Domæne</td>
+    <td>org:OrganizationalUnit</td>
 </tr>
    <tr>
+    <td>Udfaldsrum</td>
+    <td>org:Organization</td>
+</tr>
+<tr>
     <td>Multiplicitet</td>
     <td>1 - 1</td>
 </tr>
