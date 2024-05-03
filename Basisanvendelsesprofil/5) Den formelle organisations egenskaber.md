@@ -1,10 +1,14 @@
 # Den formelle organisations egenskaber
 
-![Model over den formelle organisations egenskaber](PNG/Den-formelle-organisations-egenskaber.png)
+<p align="center">
+  <img  alt="Model over den formelle organisations egenskaber" src="PNG/Den-formelle-organisations-egenskaber.png">
+</p>
 
 ## Organisationens identifikation og beskrivelse
 
-![Model over formel organisation identifikation og beskrivelse](PNG/Formel-organisation-identifikation-og-beskrivelse.png)
+<p align="center">
+  <img  alt="Model over formel organisation identifikation og beskrivels" src="PNG/Formel-organisation-identifikation-og-beskrivelse.png">
+</p>
 
 #### foretrukken term
 ##### _Vokabular-definition og beskrivelser_
@@ -55,7 +59,7 @@
 </tr>
 <tr>
     <td>Eksempel</td>
-    <td><span style="color🚙">[fra informationsmodel] <br> o "Digitaliseringsstyrelsen" <br> o "Næstved Sygehus" <br> o "Holbæk kommune" <br> o "FDF-spejderne i Vejle</span>"
+    <td>[fra informationsmodel] <ul> <li>"Digitaliseringsstyrelsen"</li> <li>"Næstved Sygehus"</li> <li>"Holbæk kommune"</li> <li>"FDF-spejderne i Vejle"</li></ul>
     </td>
 </tr>
 <tr>
@@ -122,8 +126,10 @@
 <tr>
     <td>Eksempel</td>
     <td>
-        <span style="color🚙">[fra informationsmodel] <br> navn: "Digitaliseringsstyrelsen" alternativt navn: "Digst"<br>
-        <span style="color🚙">[fra informationsmodel] <br> navn: "Styrelsen for dataforsyning og effektivisering"  <br> alternativtNavn: "SDFE"</span></td>
+        [fra informationsmodel] </br>
+	navn: "Digitaliseringsstyrelsen" </br> alternativt navn: "Digst" </br>
+        navn: "Styrelsen for dataforsyning og effektivisering"  </br> alternativtNavn: "SDFE"
+	</td>
 </tr>
 <tr>
     <td>Udfaldsrum</td>
@@ -285,7 +291,7 @@
 </tr>
 <tr>
 	<td>Definition</td>
-        <td><span style="color🚙">[fra informationsmodel (klassen Myndighed)] Entydig kode for en myndighed </span></td>
+        <td>[fra informationsmodel (klassen Myndighed)] Entydig kode for en myndighed </td>
 </tr>
 <tr>
     <td>Kommentar</td>
@@ -367,7 +373,9 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 
 ## Organisationens historik
 
-![Model over organisationens historie](PNG/Organisationens-historie.png)
+<p align="center">
+  <img  alt="Model over organisationens historie" src="PNG/Organisationens-historie.png">
+</p>
 
 #### oprettelsesdato
 
