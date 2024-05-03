@@ -193,20 +193,13 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
     <td>org:subOrganizationOf</td>
 </tr>
    <tr>
-    <td>Underegenskab af</td>
-    <td>org:subOrganizationOf</td>
-</tr>
-   <tr>
-    <td>Underegenskab af</td>
-    <td>org:subOrganizationOf</td>
-</tr>
-   <tr>
     <td>Modsatrettet egenskab</td>
     <td>org:hasUnit</td>
 </tr> 
-   <tr>
-    <td>Profilens</td>
-    <td>kontekstrestriktioner og annotationer</td>
+</table>
+
+#### _Profilens kontekstrestriktioner og annotationer_
+<table>
 </tr> 
    <tr>
     <td>Definition</td>
@@ -318,7 +311,7 @@ _Profil-restriktioner og annotationer_
 <table>
 <tr>
     <td>URI</td>
-    <td>[http://www.w3.org/ns/org#unitOf](http://www.w3.org/ns/org#unitOf )</td>
+    <td>http://www.w3.org/ns/org#unitOf</td>
 </tr>
    <tr>
     <td>Term</td>
