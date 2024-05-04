@@ -136,7 +136,7 @@ Til et fødereret API oprettes en fødereret API-profil der samlet inkluderer og
 I nedenstående illustration har alle profilerne helt eller delvist genbrugt elementer fra samme basisprofil. Det er ikke en nødvendighed for at skabe et fødereret API. En fødereret profil opbygges på baggrund af de API-profiler der eksempelvis ønskes foretaget en fødereret søgning på, uanset om disse APIer ha en fælles basisprofil eller om de er skabt helt uafhængigt af andre profiler.
 
 <p align="center">
-    <img alt="Fødereret API-profil" src="SVG/Fødereret-API-profil.svg">
+    <img alt="Fødereret API-profil" src="SVG/Fødereret-profil-eksempel.svg">
 </p>  
 
 # Eksempler på anvendelsesprofiler
