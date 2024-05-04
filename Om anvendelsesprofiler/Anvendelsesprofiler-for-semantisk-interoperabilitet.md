@@ -35,7 +35,7 @@ For eksemplets skyld antager vi at der skal defineres en anvendelsesprofil om pe
 Ud af de omkring 50 vokabularer der umiddelbart kan findes hvor en Person-klasse indgår, vælges vokabularet FOAF (Friend of a Friend) ’  og fra den klassen’Person’. Valget træffes i denne situation ud fra et ønske om at anvende en klasse der har udbredt anvendelse og derfor kan forventes at medvirke til at lette interoperabilitet med andre semantiske datamodeller.
 
 <p align="center">
-    <img alt="Anvendelsesprofil med brug af foaf:Person" src="SVG/foaf-person-2.svg">
+    <img alt="Anvendelsesprofil med brug af foaf:Person" src="SVG/foaf-person3.svg">
 </p>
 
 Anvendelsesprofil med brug af foaf:Person
