@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Oprettet af Microsoft Visio, SVG-eksport Ny udgave af profil.svg Page-1 -->
+<!-- Oprettet af Microsoft Visio, SVG-eksport Ny udgave af profil.svg Side-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
-		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st14">
-	<v:documentProperties v:langID="1030" v:metric="true" v:viewMarkup="false">
-		<v:userDefs>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
-		</v:userDefs>
-	</v:documentProperties>
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.30255in" height="1.57814in"
+		viewBox="0 0 453.783 113.626" xml:space="preserve" color-interpolation-filters="sRGB" class="st14">
+	<v:documentProperties v:langID="1030" v:metric="true" v:viewMarkup="false"/>
 
 	<style type="text/css">
 	<![CDATA[
@@ -52,179 +48,179 @@
 		<title>Side-1</title>
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
 				v:shadowOffsetY="-8.50394"/>
-		<g id="group1-1" transform="translate(69.9984,-365.033)" v:mID="1" v:groupContext="group">
+		<g id="group1-1" transform="translate(0.12,-0.12)" v:mID="1" v:groupContext="group">
 			<title>Ark.1</title>
-			<g id="group2-2" transform="translate(170.079,0)" v:mID="2" v:groupContext="group">
+			<g id="group2-2" transform="translate(170.079,1.42109E-14)" v:mID="2" v:groupContext="group">
 				<title>Ark.2</title>
 				<g id="shape3-3" v:mID="3" v:groupContext="shape">
 					<title>Boks.643</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 					</v:userDefs>
-					<rect x="0" y="728.504" width="113.386" height="113.386" class="st1"/>
+					<rect x="0" y="0.239997" width="113.386" height="113.386" class="st1"/>
 				</g>
 				<g id="shape4-5" v:mID="4" v:groupContext="shape" transform="translate(19.8425,-49.6063)">
 					<title>Rectangle.644</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape5-7" v:mID="5" v:groupContext="shape" transform="translate(19.8425,-90.7087)">
 					<title>Rectangle.645</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape6-9" v:mID="6" v:groupContext="shape" transform="translate(90.7087,-99.2126)">
 					<title>Rectangle.646</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st2"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st2"/>
 				</g>
 				<g id="shape7-11" v:mID="7" v:groupContext="shape" transform="translate(75.1181,-86.4567)">
 					<title>Rectangle.647</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape8-13" v:mID="8" v:groupContext="shape" transform="translate(48.189,-70.8661)">
 					<title>Rectangle.648</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape9-15" v:mID="9" v:groupContext="shape" transform="translate(48.189,-5.66929)">
 					<title>Rectangle.405</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st2"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st2"/>
 				</g>
 				<g id="shape10-17" v:mID="10" v:groupContext="shape" transform="translate(76.5354,-48.189)">
 					<title>Rectangle.650</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st3"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st3"/>
 				</g>
 				<g id="shape11-19" v:mID="11" v:groupContext="shape" transform="translate(19.8425,-19.8425)">
 					<title>Rectangle.651</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape12-21" v:mID="12" v:groupContext="shape" transform="translate(48.189,-28.3465)">
 					<title>Rectangle.652</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape13-23" v:mID="13" v:groupContext="shape" transform="translate(48.189,-48.189)">
 					<title>Rectangle.653</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
-				<g id="shape14-25" v:mID="14" v:groupContext="shape" transform="translate(868.324,742.816) rotate(89.2635)">
+				<g id="shape14-25" v:mID="14" v:groupContext="shape" transform="translate(140.12,23.9133) rotate(89.2635)">
 					<title>Ark.14</title>
-					<path d="M0 841.89 L10.3 841.89" class="st4"/>
+					<path d="M0 113.63 L10.3 113.63" class="st4"/>
 				</g>
 				<g id="shape15-28" v:mID="15" v:groupContext="shape" transform="translate(24.6614,-87.0236)">
 					<title>Trekant.655</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
 					</v:userDefs>
-					<path d="M3.97 841.89 L1.84 838.2 L-0.29 841.89 L3.97 841.89 Z" class="st1"/>
+					<path d="M3.97 113.63 L1.84 109.94 L-0.29 113.63 L3.97 113.63 Z" class="st1"/>
 				</g>
-				<g id="shape16-30" v:mID="16" v:groupContext="shape" transform="translate(896.74,816) rotate(90)">
+				<g id="shape16-30" v:mID="16" v:groupContext="shape" transform="translate(168.476,87.7361) rotate(90)">
 					<title>Ark.16</title>
-					<path d="M0 841.89 L11.72 841.89" class="st4"/>
+					<path d="M0 113.63 L11.72 113.63" class="st4"/>
 				</g>
 				<g id="shape17-33" v:mID="17" v:groupContext="shape" transform="translate(53.0079,-24.6614)">
 					<title>Trekant.417</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
 					</v:userDefs>
-					<path d="M3.97 841.89 L1.84 838.2 L-0.29 841.89 L3.97 841.89 Z" class="st1"/>
+					<path d="M3.97 113.63 L1.84 109.94 L-0.29 113.63 L3.97 113.63 Z" class="st1"/>
 				</g>
 				<g id="shape18-35" v:mID="18" v:groupContext="shape" transform="translate(19.8425,-70.8661)">
 					<title>Rectangle.658</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
-				<g id="shape19-37" v:mID="19" v:groupContext="shape" transform="translate(868.819,813.543) rotate(90) scale(-1,1)">
+				<g id="shape19-37" v:mID="19" v:groupContext="shape" transform="translate(140.555,85.2794) rotate(90) scale(-1,1)">
 					<title>Ark.19</title>
-					<path d="M0 841.89 L21.26 841.89" class="st5"/>
+					<path d="M0 113.63 L21.26 113.63" class="st5"/>
 				</g>
-				<g id="shape20-43" v:mID="20" v:groupContext="shape" transform="translate(897.165,805.039) rotate(90) scale(-1,1)">
+				<g id="shape20-43" v:mID="20" v:groupContext="shape" transform="translate(168.901,76.7754) rotate(90) scale(-1,1)">
 					<title>Ark.20</title>
-					<path d="M0 841.89 L11.34 841.89" class="st5"/>
+					<path d="M0 113.63 L11.34 113.63" class="st5"/>
 				</g>
-				<g id="shape21-48" v:mID="21" v:groupContext="shape" transform="translate(921.26,809.291) rotate(90) scale(-1,1)">
+				<g id="shape21-48" v:mID="21" v:groupContext="shape" transform="translate(192.996,81.0274) rotate(90) scale(-1,1)">
 					<title>Ark.21</title>
-					<path d="M0 841.89 L15.59 841.89" class="st7"/>
+					<path d="M0 113.63 L15.59 113.63" class="st7"/>
 				</g>
 				<g id="shape22-54" v:mID="22" v:groupContext="shape" transform="translate(62.3622,-32.5984)">
 					<title>Ark.22</title>
-					<path d="M0 841.89 L17.01 841.89" class="st9"/>
+					<path d="M0 113.63 L17.01 113.63" class="st9"/>
 				</g>
 				<g id="shape23-57" v:mID="23" v:groupContext="shape" transform="translate(48.189,-9.92126) scale(-1,1)">
 					<title>Ark.23</title>
-					<path d="M0 841.89 L28.35 841.89" class="st5"/>
+					<path d="M0 113.63 L28.35 113.63" class="st5"/>
 				</g>
 				<g id="shape24-62" v:mID="24" v:groupContext="shape" transform="translate(11.3386,-24.0945)">
 					<title>Ark.24</title>
-					<path d="M0 841.89 L8.5 841.89" class="st5"/>
+					<path d="M0 113.63 L8.5 113.63" class="st5"/>
 				</g>
-				<g id="shape25-67" v:mID="25" v:groupContext="shape" transform="translate(853.228,817.795) rotate(90)">
+				<g id="shape25-67" v:mID="25" v:groupContext="shape" transform="translate(124.964,89.5313) rotate(90)">
 					<title>Ark.25</title>
-					<path d="M0 841.89 L14.17 841.89" class="st4"/>
+					<path d="M0 113.63 L14.17 113.63" class="st4"/>
 				</g>
 				<g id="shape26-70" v:mID="26" v:groupContext="shape" transform="translate(5.66929,-5.66929)">
 					<title>Rectangle.394</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st2"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st2"/>
 				</g>
 				<g id="shape27-72" v:mID="27" v:groupContext="shape"
-						transform="translate(-814.961,771.024) rotate(-90) scale(-1,1)">
+						transform="translate(-86.6967,42.7597) rotate(-90) scale(-1,1)">
 					<title>Ark.27</title>
-					<path d="M0 841.89 L12.76 841.89" class="st5"/>
+					<path d="M0 113.63 L12.76 113.63" class="st5"/>
 				</g>
 				<g id="shape28-77" v:mID="28" v:groupContext="shape" transform="translate(34.0157,-75.1181)">
 					<title>Ark.28</title>
-					<path d="M0 841.89 L14.17 841.89" class="st5"/>
+					<path d="M0 113.63 L14.17 113.63" class="st5"/>
 				</g>
 				<g id="shape29-82" v:mID="29" v:groupContext="shape" transform="translate(55.2756,-90.7087)">
 					<title>Ark.29</title>
-					<path d="M0 841.89 L19.84 841.89" class="st5"/>
+					<path d="M0 113.63 L19.84 113.63" class="st5"/>
 				</g>
-				<g id="shape30-87" v:mID="30" v:groupContext="shape" transform="translate(897.165,751.181) rotate(90)">
+				<g id="shape30-87" v:mID="30" v:groupContext="shape" transform="translate(168.901,22.9172) rotate(90)">
 					<title>Ark.30</title>
-					<path d="M0 841.89 L11.34 841.89" class="st4"/>
+					<path d="M0 113.63 L11.34 113.63" class="st4"/>
 				</g>
-				<g id="shape31-90" v:mID="31" v:groupContext="shape" transform="translate(939.685,751.181) rotate(90) scale(-1,1)">
+				<g id="shape31-90" v:mID="31" v:groupContext="shape" transform="translate(211.421,22.9172) rotate(90) scale(-1,1)">
 					<title>Ark.31</title>
-					<path d="M0 841.89 L8.5 841.89" class="st5"/>
+					<path d="M0 113.63 L8.5 113.63" class="st5"/>
 				</g>
-				<g id="shape32-95" v:mID="32" v:groupContext="shape" transform="translate(97.7953,1593.07) rotate(180)">
+				<g id="shape32-95" v:mID="32" v:groupContext="shape" transform="translate(97.7953,136.543) rotate(180)">
 					<title>Ark.32</title>
-					<path d="M0 841.89 L8.5 841.89" class="st4"/>
+					<path d="M0 113.63 L8.5 113.63" class="st4"/>
 				</g>
 				<g id="shape33-98" v:mID="33" v:groupContext="shape" transform="translate(48.2597,-53.8583) scale(-1,1)">
 					<title>Ark.33</title>
-					<path d="M0 841.89 L14.24 841.89" class="st5"/>
+					<path d="M0 113.63 L14.24 113.63" class="st5"/>
 				</g>
 			</g>
 			<g id="group34-103" v:mID="34" v:groupContext="group">
@@ -234,328 +230,328 @@
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 					</v:userDefs>
-					<rect x="0" y="728.504" width="113.386" height="113.386" class="st1"/>
+					<rect x="0" y="0.239997" width="113.386" height="113.386" class="st1"/>
 				</g>
 				<g id="shape36-106" v:mID="36" v:groupContext="shape" transform="translate(19.8425,-49.6063)">
 					<title>Rectangle.396</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape37-108" v:mID="37" v:groupContext="shape" transform="translate(19.8425,-90.7087)">
 					<title>Rectangle.398</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape38-110" v:mID="38" v:groupContext="shape" transform="translate(48.189,-99.2126)">
 					<title>Rectangle.399</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st10"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st10"/>
 				</g>
 				<g id="shape39-112" v:mID="39" v:groupContext="shape" transform="translate(75.1181,-86.4567)">
 					<title>Rectangle.401</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape40-114" v:mID="40" v:groupContext="shape" transform="translate(48.189,-70.8661)">
 					<title>Rectangle.402</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape41-116" v:mID="41" v:groupContext="shape" transform="translate(48.189,-5.66929)">
 					<title>Rectangle.405</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st10"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st10"/>
 				</g>
 				<g id="shape42-118" v:mID="42" v:groupContext="shape" transform="translate(76.5354,-48.189)">
 					<title>Rectangle.408</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape43-120" v:mID="43" v:groupContext="shape" transform="translate(19.8425,-19.8425)">
 					<title>Rectangle.409</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st3"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st3"/>
 				</g>
 				<g id="shape44-122" v:mID="44" v:groupContext="shape" transform="translate(48.189,-28.3465)">
 					<title>Rectangle.410</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape45-124" v:mID="45" v:groupContext="shape" transform="translate(48.189,-48.189)">
 					<title>Rectangle.411</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
-				<g id="shape46-126" v:mID="46" v:groupContext="shape" transform="translate(868.324,742.816) rotate(89.2635)">
+				<g id="shape46-126" v:mID="46" v:groupContext="shape" transform="translate(140.12,23.9133) rotate(89.2635)">
 					<title>Ark.46</title>
-					<path d="M0 841.89 L10.3 841.89" class="st4"/>
+					<path d="M0 113.63 L10.3 113.63" class="st4"/>
 				</g>
 				<g id="shape47-129" v:mID="47" v:groupContext="shape" transform="translate(24.6614,-87.0236)">
 					<title>Trekant.413</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
 					</v:userDefs>
-					<path d="M3.97 841.89 L1.84 838.2 L-0.29 841.89 L3.97 841.89 Z" class="st1"/>
+					<path d="M3.97 113.63 L1.84 109.94 L-0.29 113.63 L3.97 113.63 Z" class="st1"/>
 				</g>
-				<g id="shape48-131" v:mID="48" v:groupContext="shape" transform="translate(896.74,816) rotate(90)">
+				<g id="shape48-131" v:mID="48" v:groupContext="shape" transform="translate(168.476,87.7361) rotate(90)">
 					<title>Ark.48</title>
-					<path d="M0 841.89 L11.72 841.89" class="st4"/>
+					<path d="M0 113.63 L11.72 113.63" class="st4"/>
 				</g>
 				<g id="shape49-134" v:mID="49" v:groupContext="shape" transform="translate(53.0079,-24.6614)">
 					<title>Trekant.417</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
 					</v:userDefs>
-					<path d="M3.97 841.89 L1.84 838.2 L-0.29 841.89 L3.97 841.89 Z" class="st1"/>
+					<path d="M3.97 113.63 L1.84 109.94 L-0.29 113.63 L3.97 113.63 Z" class="st1"/>
 				</g>
 				<g id="shape50-136" v:mID="50" v:groupContext="shape" transform="translate(19.8425,-70.8661)">
 					<title>Rectangle.397</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
-				<g id="shape51-138" v:mID="51" v:groupContext="shape" transform="translate(868.819,813.543) rotate(90) scale(-1,1)">
+				<g id="shape51-138" v:mID="51" v:groupContext="shape" transform="translate(140.555,85.2794) rotate(90) scale(-1,1)">
 					<title>Ark.51</title>
-					<path d="M0 841.89 L21.26 841.89" class="st7"/>
+					<path d="M0 113.63 L21.26 113.63" class="st7"/>
 				</g>
-				<g id="shape52-143" v:mID="52" v:groupContext="shape" transform="translate(897.165,805.039) rotate(90) scale(-1,1)">
+				<g id="shape52-143" v:mID="52" v:groupContext="shape" transform="translate(168.901,76.7754) rotate(90) scale(-1,1)">
 					<title>Ark.52</title>
-					<path d="M0 841.89 L11.34 841.89" class="st5"/>
+					<path d="M0 113.63 L11.34 113.63" class="st5"/>
 				</g>
-				<g id="shape53-148" v:mID="53" v:groupContext="shape" transform="translate(921.26,809.291) rotate(90) scale(-1,1)">
+				<g id="shape53-148" v:mID="53" v:groupContext="shape" transform="translate(192.996,81.0274) rotate(90) scale(-1,1)">
 					<title>Ark.53</title>
-					<path d="M0 841.89 L15.59 841.89" class="st5"/>
+					<path d="M0 113.63 L15.59 113.63" class="st5"/>
 				</g>
 				<g id="shape54-153" v:mID="54" v:groupContext="shape" transform="translate(62.3622,-32.5984)">
 					<title>Ark.54</title>
-					<path d="M0 841.89 L17.01 841.89" class="st4"/>
+					<path d="M0 113.63 L17.01 113.63" class="st4"/>
 				</g>
 				<g id="shape55-156" v:mID="55" v:groupContext="shape" transform="translate(11.3386,-53.8583)">
 					<title>Ark.55</title>
-					<path d="M0 841.89 L8.5 841.89" class="st5"/>
+					<path d="M0 113.63 L8.5 113.63" class="st5"/>
 				</g>
-				<g id="shape56-161" v:mID="56" v:groupContext="shape" transform="translate(853.228,788.031) rotate(90)">
+				<g id="shape56-161" v:mID="56" v:groupContext="shape" transform="translate(124.964,59.7676) rotate(90)">
 					<title>Ark.56</title>
-					<path d="M0 841.89 L14.17 841.89" class="st4"/>
+					<path d="M0 113.63 L14.17 113.63" class="st4"/>
 				</g>
 				<g id="shape57-164" v:mID="57" v:groupContext="shape" transform="translate(5.66929,-34.0157)">
 					<title>Rectangle.395</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st10"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st10"/>
 				</g>
 				<g id="shape58-166" v:mID="58" v:groupContext="shape"
-						transform="translate(-814.961,771.024) rotate(-90) scale(-1,1)">
+						transform="translate(-86.6967,42.7597) rotate(-90) scale(-1,1)">
 					<title>Ark.58</title>
-					<path d="M0 841.89 L12.76 841.89" class="st5"/>
+					<path d="M0 113.63 L12.76 113.63" class="st5"/>
 				</g>
 				<g id="shape59-171" v:mID="59" v:groupContext="shape" transform="translate(34.0157,-75.1181)">
 					<title>Ark.59</title>
-					<path d="M0 841.89 L14.17 841.89" class="st5"/>
+					<path d="M0 113.63 L14.17 113.63" class="st5"/>
 				</g>
 				<g id="shape60-176" v:mID="60" v:groupContext="shape" transform="translate(55.2756,-90.7087)">
 					<title>Ark.60</title>
-					<path d="M0 841.89 L19.84 841.89" class="st5"/>
+					<path d="M0 113.63 L19.84 113.63" class="st5"/>
 				</g>
-				<g id="shape61-181" v:mID="61" v:groupContext="shape" transform="translate(897.165,751.181) rotate(90)">
+				<g id="shape61-181" v:mID="61" v:groupContext="shape" transform="translate(168.901,22.9172) rotate(90)">
 					<title>Ark.61</title>
-					<path d="M0 841.89 L11.34 841.89" class="st4"/>
+					<path d="M0 113.63 L11.34 113.63" class="st4"/>
 				</g>
 				<g id="shape62-184" v:mID="62" v:groupContext="shape" transform="translate(82.2047,-103.465) scale(-1,1)">
 					<title>Ark.62</title>
-					<path d="M0 841.89 L19.84 841.89" class="st5"/>
+					<path d="M0 113.63 L19.84 113.63" class="st5"/>
 				</g>
-				<g id="shape63-189" v:mID="63" v:groupContext="shape" transform="translate(924.094,738.425) rotate(90)">
+				<g id="shape63-189" v:mID="63" v:groupContext="shape" transform="translate(195.831,10.1613) rotate(90)">
 					<title>Ark.63</title>
-					<path d="M0 841.89 L8.5 841.89" class="st4"/>
+					<path d="M0 113.63 L8.5 113.63" class="st4"/>
 				</g>
 				<g id="shape64-192" v:mID="64" v:groupContext="shape" transform="translate(48.2597,-53.8583) scale(-1,1)">
 					<title>Ark.64</title>
-					<path d="M0 841.89 L14.24 841.89" class="st5"/>
+					<path d="M0 113.63 L14.24 113.63" class="st5"/>
 				</g>
 			</g>
-			<g id="group65-197" transform="translate(340.157,0)" v:mID="65" v:groupContext="group">
+			<g id="group65-197" transform="translate(340.157,1.42109E-14)" v:mID="65" v:groupContext="group">
 				<title>Ark.65</title>
 				<g id="shape66-198" v:mID="66" v:groupContext="shape">
 					<title>Boks.190</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 					</v:userDefs>
-					<rect x="0" y="728.504" width="113.386" height="113.386" class="st1"/>
+					<rect x="0" y="0.239997" width="113.386" height="113.386" class="st1"/>
 				</g>
 				<g id="shape67-200" v:mID="67" v:groupContext="shape" transform="translate(19.8425,-49.6063)">
 					<title>Rectangle.396</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape68-202" v:mID="68" v:groupContext="shape" transform="translate(19.8425,-90.7087)">
 					<title>Rectangle.398</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape69-204" v:mID="69" v:groupContext="shape" transform="translate(75.1181,-86.4567)">
 					<title>Rectangle.401</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape70-206" v:mID="70" v:groupContext="shape" transform="translate(48.189,-70.8661)">
 					<title>Rectangle.402</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape71-208" v:mID="71" v:groupContext="shape" transform="translate(48.189,-5.66929)">
 					<title>Rectangle.405</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st11"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st11"/>
 				</g>
 				<g id="shape72-212" v:mID="72" v:groupContext="shape" transform="translate(76.5354,-48.189)">
 					<title>Rectangle.408</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape73-214" v:mID="73" v:groupContext="shape" transform="translate(19.8425,-19.8425)">
 					<title>Rectangle.409</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape74-216" v:mID="74" v:groupContext="shape" transform="translate(48.189,-28.3465)">
 					<title>Rectangle.410</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
 				<g id="shape75-218" v:mID="75" v:groupContext="shape" transform="translate(48.189,-48.189)">
 					<title>Rectangle.411</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
-				<g id="shape76-220" v:mID="76" v:groupContext="shape" transform="translate(868.324,742.816) rotate(89.2635)">
+				<g id="shape76-220" v:mID="76" v:groupContext="shape" transform="translate(140.12,23.9133) rotate(89.2635)">
 					<title>Ark.76</title>
-					<path d="M0 841.89 L10.3 841.89" class="st4"/>
+					<path d="M0 113.63 L10.3 113.63" class="st4"/>
 				</g>
 				<g id="shape77-223" v:mID="77" v:groupContext="shape" transform="translate(24.6614,-87.0236)">
 					<title>Trekant.413</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
 					</v:userDefs>
-					<path d="M3.97 841.89 L1.84 838.2 L-0.29 841.89 L3.97 841.89 Z" class="st1"/>
+					<path d="M3.97 113.63 L1.84 109.94 L-0.29 113.63 L3.97 113.63 Z" class="st1"/>
 				</g>
-				<g id="shape78-225" v:mID="78" v:groupContext="shape" transform="translate(896.74,816) rotate(90)">
+				<g id="shape78-225" v:mID="78" v:groupContext="shape" transform="translate(168.476,87.7361) rotate(90)">
 					<title>Ark.78</title>
-					<path d="M0 841.89 L11.72 841.89" class="st4"/>
+					<path d="M0 113.63 L11.72 113.63" class="st4"/>
 				</g>
 				<g id="shape79-228" v:mID="79" v:groupContext="shape" transform="translate(53.0079,-24.6614)">
 					<title>Trekant.417</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
 					</v:userDefs>
-					<path d="M3.97 841.89 L1.84 838.2 L-0.29 841.89 L3.97 841.89 Z" class="st1"/>
+					<path d="M3.97 113.63 L1.84 109.94 L-0.29 113.63 L3.97 113.63 Z" class="st1"/>
 				</g>
 				<g id="shape80-230" v:mID="80" v:groupContext="shape" transform="translate(19.8425,-70.8661)">
 					<title>Rectangle.397</title>
 					<v:userDefs>
 						<v:ud v:nameU="visVersion" v:val="VT0(12):26"/>
 					</v:userDefs>
-					<rect x="0" y="833.386" width="14.1732" height="8.50394" class="st1"/>
+					<rect x="0" y="105.122" width="14.1732" height="8.50394" class="st1"/>
 				</g>
-				<g id="shape81-232" v:mID="81" v:groupContext="shape" transform="translate(868.819,813.543) rotate(90) scale(-1,1)">
+				<g id="shape81-232" v:mID="81" v:groupContext="shape" transform="translate(140.555,85.2794) rotate(90) scale(-1,1)">
 					<title>Ark.81</title>
-					<path d="M0 841.89 L21.26 841.89" class="st5"/>
+					<path d="M0 113.63 L21.26 113.63" class="st5"/>
 				</g>
-				<g id="shape82-237" v:mID="82" v:groupContext="shape" transform="translate(897.165,805.039) rotate(90) scale(-1,1)">
+				<g id="shape82-237" v:mID="82" v:groupContext="shape" transform="translate(168.901,76.7754) rotate(90) scale(-1,1)">
 					<title>Ark.82</title>
-					<path d="M0 841.89 L11.34 841.89" class="st5"/>
+					<path d="M0 113.63 L11.34 113.63" class="st5"/>
 				</g>
-				<g id="shape83-242" v:mID="83" v:groupContext="shape" transform="translate(921.26,809.291) rotate(90) scale(-1,1)">
+				<g id="shape83-242" v:mID="83" v:groupContext="shape" transform="translate(192.996,81.0274) rotate(90) scale(-1,1)">
 					<title>Ark.83</title>
-					<path d="M0 841.89 L15.59 841.89" class="st5"/>
+					<path d="M0 113.63 L15.59 113.63" class="st5"/>
 				</g>
 				<g id="shape84-247" v:mID="84" v:groupContext="shape" transform="translate(62.3622,-32.5984)">
 					<title>Ark.84</title>
-					<path d="M0 841.89 L17.01 841.89" class="st4"/>
+					<path d="M0 113.63 L17.01 113.63" class="st4"/>
 				</g>
 				<g id="shape85-250" v:mID="85" v:groupContext="shape"
-						transform="translate(-814.961,771.024) rotate(-90) scale(-1,1)">
+						transform="translate(-86.6967,42.7597) rotate(-90) scale(-1,1)">
 					<title>Ark.85</title>
-					<path d="M0 841.89 L12.76 841.89" class="st5"/>
+					<path d="M0 113.63 L12.76 113.63" class="st5"/>
 				</g>
 				<g id="shape86-255" v:mID="86" v:groupContext="shape" transform="translate(34.0157,-75.1181)">
 					<title>Ark.86</title>
-					<path d="M0 841.89 L14.17 841.89" class="st5"/>
+					<path d="M0 113.63 L14.17 113.63" class="st5"/>
 				</g>
 				<g id="shape87-260" v:mID="87" v:groupContext="shape" transform="translate(55.2756,-90.7087)">
 					<title>Ark.87</title>
-					<path d="M0 841.89 L19.84 841.89" class="st5"/>
+					<path d="M0 113.63 L19.84 113.63" class="st5"/>
 				</g>
-				<g id="shape88-265" v:mID="88" v:groupContext="shape" transform="translate(897.165,751.181) rotate(90)">
+				<g id="shape88-265" v:mID="88" v:groupContext="shape" transform="translate(168.901,22.9172) rotate(90)">
 					<title>Ark.88</title>
-					<path d="M0 841.89 L11.34 841.89" class="st4"/>
+					<path d="M0 113.63 L11.34 113.63" class="st4"/>
 				</g>
 				<g id="shape89-268" v:mID="89" v:groupContext="shape" transform="translate(48.2597,-53.8583) scale(-1,1)">
 					<title>Ark.89</title>
-					<path d="M0 841.89 L14.24 841.89" class="st5"/>
+					<path d="M0 113.63 L14.24 113.63" class="st5"/>
 				</g>
 			</g>
 			<g id="shape90-273" v:mID="90" v:groupContext="shape" transform="translate(127.559,-35.7705)">
 				<title>Ark.90</title>
 				<desc>+</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="14.1732" cy="827.717" width="28.35" height="28.3465"/>
-				<rect x="0" y="813.543" width="28.3465" height="28.3465" class="st12"/>
-				<text x="6.99" y="836.72" class="st13" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>+</text>			</g>
+				<v:textRect cx="14.1732" cy="99.4526" width="28.35" height="28.3465"/>
+				<rect x="0" y="85.2794" width="28.3465" height="28.3465" class="st12"/>
+				<text x="6.99" y="108.45" class="st13" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>+</text>			</g>
 			<g id="shape91-276" v:mID="91" v:groupContext="shape" transform="translate(293.386,-35.7705)">
 				<title>Ark.91</title>
 				<desc>=&#62;</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="18.4252" cy="827.717" width="36.86" height="28.3465"/>
-				<rect x="0" y="813.543" width="36.8504" height="28.3465" class="st12"/>
-				<text x="4.06" y="836.72" class="st13" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>=&#62;</text>			</g>
+				<v:textRect cx="18.4252" cy="99.4526" width="36.86" height="28.3465"/>
+				<rect x="0" y="85.2794" width="36.8504" height="28.3465" class="st12"/>
+				<text x="4.06" y="108.45" class="st13" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>=&#62;</text>			</g>
 			<g id="shape92-279" v:mID="92" v:groupContext="shape" transform="translate(297.638,-70.8661)">
 				<title>Ark.92</title>
 				<desc>?</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="14.1732" cy="827.717" width="28.35" height="28.3465"/>
-				<rect x="0" y="813.543" width="28.3465" height="28.3465" class="st12"/>
-				<text x="7.33" y="836.72" class="st13" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>?</text>			</g>
+				<v:textRect cx="14.1732" cy="99.4526" width="28.35" height="28.3465"/>
+				<rect x="0" y="85.2794" width="28.3465" height="28.3465" class="st12"/>
+				<text x="7.33" y="108.45" class="st13" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>?</text>			</g>
 		</g>
 	</g>
 </svg>

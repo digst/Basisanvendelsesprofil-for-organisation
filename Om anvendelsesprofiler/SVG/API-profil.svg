@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Oprettet af Microsoft Visio, SVG-eksport API-profil.svg Page-1 -->
+<!-- Oprettet af Microsoft Visio, SVG-eksport API-profil.svg Side-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
-		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
-	<v:documentProperties v:langID="1030" v:metric="true" v:viewMarkup="false">
-		<v:userDefs>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
-		</v:userDefs>
-	</v:documentProperties>
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.95609in" height="0.536413in"
+		viewBox="0 0 212.838 38.6217" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="1030" v:metric="true" v:viewMarkup="false"/>
 
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
 		.st2 {fill:#000000;font-family:Arial;font-size:0.833336em}
-		.st3 {marker-end:url(#mrkr12-12);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st3 {marker-end:url(#mrkr12-13);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st4 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.18181818181818}
 		.st5 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st6 {fill:#000000;font-family:Arial;font-size:0.75em}
@@ -26,7 +22,7 @@
 		<g id="lend12">
 			<path d="M 3 1 L 0 0 L 3 -1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
 		</g>
-		<marker id="mrkr12-12" class="st4" v:arrowType="12" v:arrowSize="3" orient="auto" markerUnits="strokeWidth"
+		<marker id="mrkr12-13" class="st4" v:arrowType="12" v:arrowSize="3" orient="auto" markerUnits="strokeWidth"
 				overflow="visible">
 			<use xlink:href="#lend12" transform="scale(-5.5,-5.5) "/>
 		</marker>
@@ -35,43 +31,46 @@
 		<title>Side-1</title>
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
 				v:shadowOffsetY="-8.50394"/>
-		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(332.203,-402.535)">
-			<title>Rektangel.10</title>
-			<desc>Basisprofil</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="35.4331" cy="823.465" width="70.87" height="36.8504"/>
-			<rect x="0" y="805.039" width="70.8661" height="36.8504" class="st1"/>
-			<text x="12.37" y="826.46" class="st2" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>Basisprofil</text>		</g>
-		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(190.471,-402.535)">
-			<title>Rektangel.11</title>
-			<desc>API-profil</desc>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="35.4331" cy="823.465" width="70.87" height="36.8504"/>
-			<rect x="0" y="805.039" width="70.8661" height="36.8504" class="st1"/>
-			<text x="14.87" y="826.46" class="st2" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>API-profil</text>		</g>
-		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(261.337,-420.96)">
-			<title>Ark.3</title>
-			<path d="M0 841.89 L70.87 841.89" class="st3"/>
+		<g id="group6-1" transform="translate(0.12,-0.12)" v:mID="6" v:groupContext="group">
+			<title>Ark.6</title>
+			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(141.732,3.55271E-14)">
+				<title>Rektangel.10</title>
+				<desc>Basisprofil</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="20.1965" width="70.87" height="36.8504"/>
+				<rect x="0" y="1.77134" width="70.8661" height="36.8504" class="st1"/>
+				<text x="12.37" y="23.2" class="st2" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>Basisprofil</text>			</g>
+			<g id="shape2-5" v:mID="2" v:groupContext="shape">
+				<title>Rektangel.11</title>
+				<desc>API-profil</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="20.1965" width="70.87" height="36.8504"/>
+				<rect x="0" y="1.77134" width="70.8661" height="36.8504" class="st1"/>
+				<text x="14.87" y="23.2" class="st2" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>API-profil</text>			</g>
+			<g id="shape3-8" v:mID="3" v:groupContext="shape" transform="translate(70.8661,-18.4252)">
+				<title>Ark.3</title>
+				<path d="M0 38.62 L70.87 38.62" class="st3"/>
+			</g>
+			<g id="shape4-14" v:mID="4" v:groupContext="shape" transform="translate(77.6085,-18.1417)">
+				<title>Ark.4</title>
+				<desc>baseret på</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="26.1395" cy="28.6217" width="52.28" height="20"/>
+				<rect x="0" y="18.6217" width="52.279" height="20" class="st5"/>
+				<text x="4.87" y="31.32" class="st6" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>baseret på</text>			</g>
+			<g id="shape5-17" v:mID="5" v:groupContext="shape" transform="translate(104.818,-3.9685)">
+				<title>Ark.5</title>
+				<desc>0 - *</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="12.5362" cy="31.5351" width="25.08" height="14.1732"/>
+				<rect x="0" y="24.4485" width="25.0724" height="14.1732" class="st5"/>
+				<text x="4.28" y="34.24" class="st6" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>0 - *</text>			</g>
 		</g>
-		<g id="shape4-13" v:mID="4" v:groupContext="shape" transform="translate(268.079,-420.677)">
-			<title>Ark.4</title>
-			<desc>baseret på</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="26.1395" cy="831.89" width="52.28" height="20"/>
-			<rect x="0" y="821.89" width="52.279" height="20" class="st5"/>
-			<text x="4.87" y="834.59" class="st6" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>baseret på</text>		</g>
-		<g id="shape5-16" v:mID="5" v:groupContext="shape" transform="translate(295.289,-406.503)">
-			<title>Ark.5</title>
-			<desc>0 - *</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.5362" cy="834.803" width="25.08" height="14.1732"/>
-			<rect x="0" y="827.717" width="25.0724" height="14.1732" class="st5"/>
-			<text x="4.28" y="837.5" class="st6" v:langID="1030"><v:paragraph v:horizAlign="1"/><v:tabList/>0 - *</text>		</g>
 	</g>
 </svg>
