@@ -313,13 +313,26 @@
     <td>Underegenskab af</td>
     <td>dct:identifier</td>
 </tr>
-<tr>
-    <td>Profilens kontekstrestriktioner og annotationer</td>
-    <td>Multiplicitet 0 - 1</td>
-</tr>
+
 </table>
 
 
+##### _Profilens kontekstrestriktioner og annotationer_
+<table>
+<tr>
+    <td>Domæne</td>
+    <td>org:FormalOrganization</td>
+</tr>
+<tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string</td>
+</tr>
+<tr>
+    <td>Multiplicitet</td>
+    <td> 0 - 1</td>
+</tr>
+</table>
+ 
 #### EAN
 EAN er ikke en del af informationsmodellen, men er lovpligtig at anvende for offentlige organisationer. EAN foreslås derfor som egenskab på ’Formel organisation’. (rettelse) FLYT TIL KONTAKTINFORMATION
 
