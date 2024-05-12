@@ -408,15 +408,11 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
     <td>Den dato, hvor denne organisation blev grundlagt.</td>
 </tr>
 <tr>
-    <td>Domæne (inkluderer)</td>
+    <td>Domæne</td>
     <td>schema:Organization</td>
 </tr>
 <tr>
-    <td>Udfaldsrum (inkluderer)</td>
-    <td>schema:Date</td>
-</tr>
-<tr>
-    <td>Udfaldsrum (inkluderer)</td>
+    <td>Udfaldsrum</td>
     <td>schema:Date</td>
 </tr>
 </table>
@@ -452,16 +448,8 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
         <td>Den dato, hvor denne organisation blev grundlagt.</td>
     </tr>
     <tr>
-        <td>Domæne (inkluderer)</td>
-        <td>schema:Organization</td>
-    </tr>
-    <tr>
         <td>Domæne</td>
         <td>org:FormalOrganization</td>
-    </tr>
-    <tr>
-        <td>Udfaldsrum (inkluderer)</td>
-        <td>schema:Date</td>
     </tr>
     <tr>
         <td>Udfaldsrum</td>
@@ -489,28 +477,32 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
         <td>dato, hvor denne organisation blev opløst.</td>
     </tr>
     <tr>
-        <td>Domæne (inkluderer)</td>
+        <td>Domæne</td>
         <td>schema:Organization</td>
     </tr>
     <tr>
-        <td>Udfaldsrum (inkluderer)</td>
+        <td>Udfaldsrum</td>
         <td>schema:Date</td>
     </tr>
-    <tr>
+</table>
+
+##### _Profilens kontekstrestriktioner og annotationer_
+<table>
+ <tr>
         <td>Alternativ term</td>
         <td>Opløsningsdato</td>
     </tr>
     <tr>
         <td>Alternativ term</td>
-        <td>ophørsdato, nedlæggelsesdato [fra informationsmodel]</td>
+        <td>[fra informationsmodel]</br>ophørsdato</td>
     </tr>
     <tr>
         <td>Definition</td>
-        <td>Den dato organisationen ophører med at eksistere [fra informationsmodel]</td>
+        <td>[fra informationsmodel]</br>Den dato organisationen ophører med at eksistere.</td>
     </tr>
     <tr>
         <td>Kommentar</td>
-        <td>Organisationen kan ikke ophøre med at eksistere så længe der er aktive Organisationsenheder eller -medlemmer i den. [fra informationsmodel]</td>
+        <td>[fra informationsmodel]</br>Organisationen kan ikke ophøre med at eksistere så længe der er aktive Organisationsenheder eller -medlemmer i den.</td>
     </tr>
     <tr>
         <td>Anvendelsesnote</td>
