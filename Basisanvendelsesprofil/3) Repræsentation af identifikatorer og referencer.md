@@ -295,7 +295,7 @@ URI for det skema, der bruges til at konstruere identifikatoren.</td></tr>
 > Bemærk at SEMIC angiver at egenskaben `dct:conformsTo` kan have `xsd:anyURI` som udfaldsrum. Det synes at stride imod Dublin Core Terms definitionen hvor ’range’ er `dct:Standard` (en klasse).
 > Egenskaben `dct:conformsTo` er en underegenskab til `dct:relation` og må derfor ikke være i konflikt med denne. I en note til egenskaben `dct:relation` hedder det: 
 > ”Dette udtryk er beregnet til at blive brugt med non-Literal værdier som defineret i DCMI Abstract Model (http://dublincore.org/documents/abstract-model/).”
-> Datatypen `xsd:anyURI` er en Literal.
+> Datatypen `xsd:anyURI` er en Literal.</br>
 > I denne udgave af basisprofilen er det valgt indtil videre at fastholde brugen af `xsd:anyURI` mens en afklaring i SEMIC-regi forsøges opnået.
 
 [^7]: https://joinup.ec.europa.eu/collection/semic-support-centre
