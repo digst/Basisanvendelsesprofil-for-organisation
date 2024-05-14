@@ -110,15 +110,11 @@ Eksempel: <ul>
 </tr>
  <tr>
     <td>Definition</td>
-    <td> <span style="color🚙">[Fra informationsmodel] <br> en afdeling eller enhed i en organisation</span> </td>
+    <td> [Fra informationsmodel] <br> en afdeling eller enhed i en organisation </td>
 </tr>
-  <tr>
+<tr>
     <td>Kommentar</td>
-    <td> <span style="color🚙">[Fra informationsmodel] <br> organisationsenheder kan være mere eller mindre permanente. Eksempelvis kan der oprettes en organisationsenhed til et projekt, hvorefter den opløses, når projektet er slut. Eller en organisationsenhed kan være en permanent del af organisationen, som f.eks. "bogholderiet".</span> </td>
-</tr>
-   <tr>
-    <td>Kommentar</td>
-    <td> <span style="color🚙">[Fra informationsmodel] <br> organisationsenheder kan være mere eller mindre permanente. Eksempelvis kan der oprettes en organisationsenhed til et projekt, hvorefter den opløses, når projektet er slut. Eller en organisationsenhed kan være en permanent del af organisationen, som f.eks. "bogholderiet". <br> Fælles for organisationsenheder er, at de har til formål at have noget at samle organisationsmedlemmer i og kan omtale som noget kendt i organisationen.</span> </td>
+    <td> [Fra informationsmodel] <br> organisationsenheder kan være mere eller mindre permanente. Eksempelvis kan der oprettes en organisationsenhed til et projekt, hvorefter den opløses, når projektet er slut. Eller en organisationsenhed kan være en permanent del af organisationen, som f.eks. "bogholderiet". <br> Fælles for organisationsenheder er, at de har til formål at have noget at samle organisationsmedlemmer i og kan omtale som noget kendt i organisationen.</td>
 </tr>
    <tr>
     <td>Eksempel</td>
@@ -217,7 +213,11 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
     <td>Anvendelsesnote</td>
     <td>En organisatorisk enhed skal altid være tilknyttet en og kun en formel organisation.</span></td>
 </tr>
-   <tr>
+<tr>
+    <td>Domæne</td>
+    <td>org:OrganizationalUnit</td>
+</tr>
+<tr>
     <td>Udfaldsrum</td>
     <td>org:FormalOrganization</span></td>
 </tr>
@@ -248,7 +248,7 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
 </tr>
 <tr>
     <td>Kommentar</td>
-    <td>Egenskaber tjener to formål:<ul><li>Den udpeger øverste ledelseslag i oganisationen</li> <li>Den letter applikationers opbgning af organisationsstruktur</li> </td>
+    <td>Egenskaben tjener to formål:<ul><li>Den udpeger øverste niveau af organisatoriske enheder i oganisationen</li> <li>Den letter applikationers opbygning af organisationsstruktur</li> </td>
 </tr>
 <tr>
     <td>Domæne</td>
@@ -272,7 +272,7 @@ _Profil-restriktioner og annotationer_
 <table>
 <tr>
     <td>Definition</td>
-    <td>Angiver den formelle organisation som en topenhed er en del af.</td>
+    <td>[fra informationsmodel]</br> markerer at denne orgaisationsenhed er den øverste i et hiererki.</td>
 </tr>
 <tr>
     <td>Eksempel</td>
@@ -285,14 +285,6 @@ _Profil-restriktioner og annotationer_
    <tr>
     <td>Udfaldsrum</td>
     <td>org:FormalOrganization</td>
-</tr>
-   <tr>
-    <td>Underegenskab af</td>
-    <td>org:uniOf</td>
-</tr>
-   <tr>
-    <td>Modsatrettet egenskab</td>
-    <td>ovx:hasUpperUnit</td>
 </tr>
 <tr>
     <td>Multiplicitet</td>
@@ -405,10 +397,6 @@ _Profil-restriktioner og annotationer_
     <td>org:transitiveSubOrganizationOf</td>
 </tr>
   <tr>
-    <td>Modsatrettet egenskab</td>
-    <td>org:hasSubOrganization</td>
-</tr>
-   <tr>
     <td>Modsatrettet egenskab</td>
     <td>org:hasSubOrganization</td>
 </tr>
