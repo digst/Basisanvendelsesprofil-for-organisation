@@ -568,6 +568,10 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 #### etagebetegnelse
 ##### _Vokabular-definition og beskrivelser_
 <table>
+    <tr>
+    <td>URI</td>
+    <td>[Mangler endelig fastlæggelse]</td>
+  </tr>
   <tr>
     <td>Term</td>
     <td>etagebetegnelse</td>
@@ -578,7 +582,7 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
   </tr>
   <tr>
     <td>Domæne</td>
-    <td>locn:Address</td>
+    <td>[Mangler endelig fastlæggelse]</td>
   </tr>
   <tr>
     <td>Udfaldsrum</td>
@@ -627,6 +631,17 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>Udfaldsrum</td>
     <td>rdf:langString</td>
   </tr>
+</table>
+#### Profil-restriktioner og annotationer 
+<table>
+   <tr>
+    <td>Domæne</td>
+    <td>locn:Address</td>
+  </tr>
+  <tr>
+    <td>Udfaldsrum</td>
+    <td>rdf:langString</td>
+  </tr> 
   <tr>
     <td>Multiplicitet</td>
     <td>0 - 1</td>
@@ -652,11 +667,23 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>Udfaldsrum</td>
     <td>xsd:string</td>
   </tr>
+</table>
+#### Profil-restriktioner og annotationer 
+<table>
+   <tr>
+    <td>Domæne</td>
+    <td>locn:Address</td>
+  </tr>
   <tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string</td>
+  </tr> 
+    <tr>
     <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
 </table>
+
 
 #### postnummer
 ##### _Vokabular-definition og beskrivelser_
@@ -677,7 +704,18 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>Udfaldsrum</td>
     <td>xsd:string</td>
   </tr>
+</table>
+#### Profil-restriktioner og annotationer 
+<table>
+   <tr>
+    <td>Domæne</td>
+    <td>locn:Address</td>
+  </tr>
   <tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string</td>
+  </tr> 
+    <tr>
     <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
@@ -703,9 +741,16 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>rdf:langString</td>
   </tr>
 </table>
-
 #### Profil-restriktioner og annotationer 
 <table>
+    <tr>
+    <td>Domæne</td>
+    <td>locn:Address</td>
+  </tr>
+  <tr>
+    <td>Udfaldsrum</td>
+    <td>rdf:langString</td>
+  </tr>
   <tr>
     <td>Multiplicitet</td>
     <td>0 - 1</td>
@@ -755,6 +800,14 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>Eksempel</td>
     <td>”Gimles Allé 14, 2300 København S”, ”Vestergade 4B, st. th, Strib, 5500 Middelfart”</td>
   </tr>
+       <tr>
+    <td>Domæne</td>
+    <td>locn:Address</td>
+  </tr>
+  <tr>
+    <td>Udfaldsrum</td>
+    <td>rdf:langString</td>
+  </tr>
   <tr>
     <td>Multiplicitet</td>
     <td>0 - 1</td>
@@ -779,14 +832,25 @@ INSPIRE-metoden til at repræsentere adresser er meget detaljeret, designet prim
 Mange datasæt, der inkluderer adressedata som del af information om noget andet, vil sandsynligvis have disse data i enklere formater. Disse kan være udformet til datasættets specifikke behov, følge en national norm eller gøre brug af en standard som vCard.
 For at give maksimal fleksibilitet i Core Vocabulary, mens den forbliver interoperabel med INSPIRE Address Guidelines (som EU-medlemsstaterne er forpligtet til at bruge), giver Core Location Vocabulary den ekstra egenskab med fuld adresse og gør brug af INSPIRE's addressID.</td>
   </tr>
+     <tr>
+    <td>Domæne</td>
+    <td>locn:Address</td>
+  </tr>
   <tr>
     <td>Udfaldsrum</td>
     <td>xsd:string</td>
   </tr>
 </table>
-
 ##### _Profil-restriktioner og annotationer_ 
 <table>
+    <tr>
+    <td>Domæne</td>
+    <td>locn:Address</td>
+  </tr>
+    <tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string</td>
+  </tr>
   <tr>
     <td>Multiplicitet</td>
     <td>0 - 1</td>
