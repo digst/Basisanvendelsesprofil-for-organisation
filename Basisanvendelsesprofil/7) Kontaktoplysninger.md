@@ -40,19 +40,11 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
 <table>
   <tr>
     <td>Definition</td>
-    <td>[fra informationsmodel (klassen Myndighed)]</td>
-  </tr>
-  <tr>
-    <td>Telefonnummer til myndighed</td>
-    <td></td>
+    <td>[fra informationsmodel (klassen Myndighed)]</br>Telefonnummer til myndighed</td>
   </tr>
   <tr>
     <td>Definition</td>
-    <td>[fra informationsmodel (klassen Telefon)]</td>
-  </tr>
-  <tr>
-    <td>telefonnummer som tilhører et bestemt abonnement</td>
-    <td></td>
+    <td>[fra informationsmodel (klassen Telefon)]</br>telefonnummer som tilhører et bestemt abonnement</td>
   </tr>
   <tr>
     <td>Beskrivelse</td>
@@ -90,11 +82,11 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
   </tr>
   <tr>
     <td>Domæne</td>
-    <td>schema:Organization<br>eller schema:Person<br>eller schema:ContactPoint</td>
+    <td>schema:Organization   eller   schema:Person   eller schema:ContactPoint</td>
   </tr>
   <tr>
     <td>Udfaldsrum</td>
-    <td>schema:Text<br>eller schema:URL<br>eller schema:Role</td>
+    <td>schema:Text   eller   schema:URL   eller   schema:Role</td>
   </tr>
 </table>
 
@@ -102,31 +94,19 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
 <table>
   <tr>
     <td>Definition</td>
-    <td>[fra informationsmodel (klassen Myndighed)]</td>
-  </tr>
-  <tr>
-    <td>Elektronisk kontaktadresse på myndighed</td>
-    <td></td>
+    <td>[fra informationsmodel (klassen Myndighed)]</br>Elektronisk kontaktadresse på myndighed</td>
   </tr>
   <tr>
     <td>Definition</td>
-    <td>[fra informationsmodel (klassen Mail)]</td>
-  </tr>
-  <tr>
-    <td>adresse der identificerer en elektronisk postkasse til hvilken meddelelser kan leveres</td>
-    <td></td>
+    <td>[fra informationsmodel (klassen Mail)]</br>adresse der identificerer en elektronisk postkasse til hvilken meddelelser kan leveres</td>
   </tr>
   <tr>
     <td>Kommentar</td>
-    <td>[fra informationsmodel (klassen Mail)]</td>
-  </tr>
-  <tr>
-    <td>opbygget af et brugernavn og et servernavn adskilt af @</td>
-    <td></td>
+    <td>[fra informationsmodel (klassen Mail)]</br>opbygget af et brugernavn og et servernavn adskilt af @</td>
   </tr>
   <tr>
     <td>Domæne</td>
-    <td>org:FormalOrganization eller org:OrganizationalUnit</td>
+    <td>org:FormalOrganization   eller   org:OrganizationalUnit</td>
   </tr>
   <tr>
     <td>Udfaldsrum</td>
@@ -163,9 +143,10 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
     <td>schema:Text eller schema:URL eller schema:Role</td>
   </tr>
   <tr>
-    <td>Profil-restriktioner og annotationer</td>
-    <td></td>
-  </tr>
+</table>
+ 
+#### _Profil-restriktioner og annotationer_
+<table>
   <tr>
     <td>Domæne</td>
     <td>org:FormalOrganization eller org:OrganizationalUnit</td>
@@ -195,6 +176,10 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
     <td>Kommentar</td>
     <td>En side eller et dokument om denne ting</td>
   </tr>
+ <tr>
+    <td>Domæne</td>
+    <td>rdfs:Resource</td>
+  </tr>
   <tr>
     <td>Udfaldsrum</td>
     <td>foaf:Document</td>
@@ -209,12 +194,15 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
   </tr>
   <tr>
     <td>Definition</td>
-    <td>[fra informationsmodel (klassen VirtuelLokation]</td>
+    <td>[fra informationsmodel (klassen VirtuelLokation]</br>HTML-weblink til at tilgå den virtuelle lokation</td>
+  </tr>
+ <tr>
+    <td>Domæne</td>
+    <td>org:FormalOrganization   eller   org:OrganizationalUnit</td>
   </tr>
   <tr>
-    <td>HTML-weblink til at tilgå den virtuelle lokation</td>
-    <td></td>
-  </tr>
+    <td>Udfaldsrum</td>
+    <td>foaf:Document</td>
   <tr>
     <td>Multiplicitet</td>
     <td>0 - *</td>
@@ -235,7 +223,7 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
   <tr>
     <td>Kommentar</td>
     <td>Et dokument</td>
-  </tr>
+  </tr> 
 </table>
 
 ##### _Profil-restriktioner og annotationer_ 
@@ -246,9 +234,11 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
   </tr>
 </table>
 
-Kontaktformen adresse beskrives i kapitlet _Lokation og adresse_.
-Kvalificeret kontaktinformation
- 
+
+> [!NOTE]  
+> Kontaktformen adresse beskrives i kapitlet _Lokation og adresse_. 
+
+
 ## Kvalificeret kontaktinformation (klasse)
 
 ![Model over kvalificeret kontaktinformation](PNG/Kontaktinformation-kvalificeret.png)
@@ -273,19 +263,11 @@ Kvalificeret kontaktinformation
 <table>
   <tr>
     <td>Alternativ term</td>
-    <td>[fra informationsmodel (klassen Kontaktinformation)]</td>
-  </tr>
-  <tr>
-    <td>kontaktpunkt</td>
-    <td></td>
+    <td>[fra informationsmodel (klassen Kontaktinformation)]</br>kontaktpunkt</td>
   </tr>
   <tr>
     <td>Definition</td>
-    <td>[fra informationsmodel (klassen Kontaktinformation)]</td>
-  </tr>
-  <tr>
-    <td>Beskriver de forskellige kontaktformer, der er tilgængelige for Organisationer, Organisationsenheder og Organisationsmedlemmer</td>
-    <td></td>
+    <td>[fra informationsmodel (klassen Kontaktinformation)]</br>Beskriver de forskellige kontaktformer, der er tilgængelige for Organisationer, Organisationsenheder og Organisationsmedlemmer</td>
   </tr>
   <tr>
     <td>Kommentar</td>
@@ -361,14 +343,26 @@ Kvalificeret kontaktinformation
     <td>Definition</td>
     <td>Emne kontaktfmetoden er velegnet til at få information om eller på anden måde få håndteret.</td>
   </tr>
-  <tr>
-    <td>Profil-restriktioner og annotationer</td>
-    <td></td>
+   <tr>
+    <td>Domæne</td>
+    <td>ovx:QualifiedContactInformation</td>
   </tr>
-  <tr>
+ <tr>
     <td>Udfaldsrum</td>
     <td>rdf:langString</td>
   </tr>
+ </table>
+
+##### _Profil-restriktioner og annotationer_
+<table>
+    <tr>
+    <td>Domæne</td>
+    <td>ovx:QualifiedContactInformation</td>
+  </tr>
+ <tr>
+    <td>Udfaldsrum</td>
+    <td>rdf:langString</td>
+  </tr
   <tr>
     <td>Multiplicitet</td>
     <td>0 - *</td>
@@ -496,47 +490,6 @@ Kvalificeret kontaktinformation
     <td>1 - 1</td>
   </tr>
 </table>
-
-### adgangsrettighed
-##### _Vokabular-definition og beskrivelser_
-<table>
-  <tr>
-    <td>URI</td>
-    <td>http://purl.org/dc/terms/accessRights</td>
-  </tr>
-  <tr>
-    <td>Term</td>
-    <td>adgangsrettighed</td>
-  </tr>
-  <tr>
-    <td>Beskrivelse</td>
-    <td>Adgangsrettigheder kan omfatte oplysninger om adgang eller begrænsninger baseret på privatliv, sikkerhed eller andre politikker.</td>
-  </tr>
-  <tr>
-    <td>Kommentar</td>
-    <td>Oplysninger om, hvem der kan få adgang til ressourcen eller en indikation af dens sikkerhedsstatus.</td>
-  </tr>
-  <tr>
-    <td>Udfaldsrum</td>
-    <td>dct:RightsStatement</td>
-  </tr>
-  <tr>
-    <td>Underegenskab af</td>
-    <td>dct:rights</td>
-  </tr>
-</table>
-
-
-##### _Adgangsrettighed (klasse)_
-Autoritetstabellen for adgangsrettigheder er et kontrolleret ordforråd, der viser adgangsrettigheder eller begrænsninger til ressourcer. Det er designet til, men ikke begrænset til, DCAT-beskrivelser af datasæt. Denne myndighedstabel vedligeholdes af Publications Office of the European Union på EU Vocabularies-webstedet.
-
-http://publications.europa.eu/resource/authority/access-right 
-
-##### _Vokabular-definition og beskrivelser_
-URI	http://purl.org/dc/terms/RightsStatement
-Term	Rettighedserklæring
-Kommentar	En erklæring om de intellektuelle ejendomsrettigheder (IPR) i eller over en ressource, et juridisk dokument, der giver officiel tilladelse til at gøre noget med en ressource, eller en erklæring om adgangsrettigheder.
-##### _Profil-restriktioner og annotationer_
 
 ### Kontaktform (klasse)
 ##### _Vokabular-definition og beskrivelser_
