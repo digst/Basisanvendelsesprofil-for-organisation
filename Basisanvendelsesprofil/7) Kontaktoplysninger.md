@@ -308,11 +308,16 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
 <table>
   <tr>
     <td>Anvendelsesnote</td>
-    <td>Værdien eller indholdet af den specifikke kontaktform.</td>
+    <td>Det konkrete indhold for den specifikke kontaktform kontaktinformationen har.</td>
+  </tr>
+ 
+  <tr>
+    <td>Anvendelsesnote</td>
+    <td>Udfaldsrummet er defineret bredt som 'rdfs:Literal'. Udfaldsrummet omfatter altså blandt andet xsd:string, rdf:langString og xsd:anyURI.</td>
   </tr>
   <tr>
     <td>Eksempel</td>
-    <td>Hvis det valgte emne fra ’ovx:ContactForm’ er valgt til ’Telefon’ kan værdien være ’12 34 56 78’.</td>
+    <td>Hvis den valgte kontaktform, det vil sige det valgte emne fra ’ovx:ContactForm’, er ’Telefon’ så kunne værdien eksempelvis være ’12 34 56 78’.</td>
   </tr>
   <tr>
     <td>Domæne</td>
