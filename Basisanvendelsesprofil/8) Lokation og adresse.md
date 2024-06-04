@@ -415,32 +415,48 @@ Adresse-ID'et er en del af INSPIRE-retningslinjerne og giver en hook, der kan br
 #### positionsindikator
 ##### _Vokabular-definition og beskrivelser_
 <table>
+    <tr>
+    <td>URI</td>
+    <td>http://www.w3.org/ns/locn#locatorDesignator/td>
+  </tr>
   <tr>
-    <th>Term</th>
+    <td>Term</td>
     <td>positionsindikator</td>
   </tr>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>Et antal eller en sekvens af tegn, der entydigt identificerer lokalisatoren inden for det relevante omfang.</td>
   </tr>
   <tr>
-    <th>Kommentar</th>
+    <td>Kommentar</td>
     <td>I enklere vendinger er dette bygningsnummer, lejlighedsnummer osv. For en adresse som "Lejlighed 3, 17 Bridge Street", er lokalisatoren "lejlighed 3, 17".</td>
   </tr>
   <tr>
-    <th>Anvendelsesnote</th>
+    <td>Anvendelsesnote</td>
     <td>Bruges til at angive husnummer, dørbetegnelse, etagebetegnelse og lignende.</td>
+  </tr>
+  <tr>
+    <t>Domæne</td>
+    <td>locn:Address</td>
+  </tr>
+  <tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string</td>
   </tr>
 </table>
 
 ##### _Profil-restriktioner og annotationer_ 
 <table>
+<tr>
+    <t>Domæne</td>
+    <td>locn:Address</td>
+  </tr>
   <tr>
-    <th>Udfaldsrum</th>
+    <td>Udfaldsrum</td>
     <td>xsd:string</td>
   </tr>
   <tr>
-    <th>Multiplicitet</th>
+    <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
 </table>
