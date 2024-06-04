@@ -236,7 +236,7 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
 
 
 > [!NOTE]  
-> Kontaktformen adresse beskrives i kapitlet _Lokation og adresse_. 
+> Egenskaben locn:address (adresse) beskrives i kapitlet _Lokation og adresse_. 
 
 
 ## Kvalificeret kontaktinformation (klasse)
