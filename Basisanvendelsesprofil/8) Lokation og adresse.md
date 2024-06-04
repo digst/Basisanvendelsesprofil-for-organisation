@@ -515,6 +515,10 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 ##### _Vokabular-definition og beskrivelser_
 <table>
   <tr>
+    <td>URI</td>
+    <td>[Mangler endelig fastlæggelse]</td>
+  </tr>
+  <tr>
     <td>Term</td>
     <td>dørbetegnelse</td>
   </tr>
@@ -524,23 +528,35 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
   </tr>
   <tr>
     <td>Domæne</td>
-    <td>locn:Address</td>
+    <td>[Mangler endelig fastlæggelse]</td>
   </tr>
   <tr>
     <th>Udfaldsrum</th>
     <td>xsd:string</td>
   </tr>
+</table>
+
+##### _Profil-restriktioner og annotationer_ 
+<table>
   <tr>
-    <td>Definition [fra Grunddatamodel, objekttype: Adresse]</td>
-    <td>betegnelse, som angiver den adgangsdør e.l. som adressen identificerer</td>
+    <td>Definition </td>
+    <td>[fra Grunddatamodel, objekttype: Adresse] </br> betegnelse, som angiver den adgangsdør e.l. som adressen identificerer</td>
   </tr>
   <tr>
-    <td>Kommentar [fra Grunddatamodel, objekttype: Adresse]</td>
-    <td>dørbetegnelsen angives normalt med udgangspunkt i det fælles adgangsareal på den pågældende etage (fx trappeafsats e.l.) som døren er placeret i. Reglerne for dørbetegnelsen, herunder værdisæt, fremgår af adressebekendtgørelsen.</td>
+    <td>Kommentar</td>
+    <td>[fra Grunddatamodel, objekttype: Adresse] </br> dørbetegnelsen angives normalt med udgangspunkt i det fælles adgangsareal på den pågældende etage (fx trappeafsats e.l.) som døren er placeret i. Reglerne for dørbetegnelsen, herunder værdisæt, fremgår af adressebekendtgørelsen.</td>
   </tr>
   <tr>
-    <td>Eksempel [fra Grunddatamodel, objekttype: Adresse]</td>
-    <td>”th”, ”a109”</td>
+    <td>Eksempel</td>
+    <td>[fra Grunddatamodel, objekttype: Adresse]</br> ”th”, ”a109”</td>
+  </tr>
+    <tr>
+    <td>Domæne</td>
+    <td>locn:Address</td>
+  </tr>
+  <tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string</td>
   </tr>
   <tr>
     <td>Multiplicitet</td>
@@ -585,7 +601,7 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>”st”</td>
   </tr>
   <tr>
-    <th>Multiplicitet</th>
+    <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
 </table>
@@ -608,7 +624,7 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>locn:Address</td>
   </tr>
   <tr>
-    <th>Udfaldsrum</th>
+    <td>Udfaldsrum</td>
     <td>rdf:langString</td>
   </tr>
   <tr>
@@ -776,5 +792,3 @@ For at give maksimal fleksibilitet i Core Vocabulary, mens den forbliver interop
     <td>0 - 1</td>
   </tr>
 </table>
-
-(indsæt billede) 
