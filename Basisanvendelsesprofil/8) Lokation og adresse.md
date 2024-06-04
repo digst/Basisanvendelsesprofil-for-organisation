@@ -335,28 +335,32 @@ Adresse-ID'et er en del af INSPIRE-retningslinjerne og giver en hook, der kan br
 ##### _Profilens kontekstrestriktioner og annotationer_ 
 <table>
   <tr>
-    <td>Definition (1)</td>
-    <td>Et sted hvor man kan finde virksomheden, udtrykt som en traditionel adresse</td>
+    <td>Definition</td>
+    <td>[fra Grunddatamodel, objekttype: Adresse]</br> En struktureret betegnelse som angiver en særskilt adgang til et areal, en bygning eller en del af en bygning, efter reglerne i adressebekendtgørelsen.</td>
   </tr>
   <tr>
-    <td>Definition (2)</td>
-    <td>En struktureret betegnelse som angiver en særskilt adgang til et areal, en bygning eller en del af en bygning, efter reglerne i adressebekendtgørelsen.</td>
+    <td>Definition</td>
+    <td>[fra informationsmodel, klassen Adresse (1)]</br>Et sted hvor man kan finde virksomheden, udtrykt som en traditionel adresse</td>
   </tr>
   <tr>
-    <td>Kommentar (Grunddatamodel)</td>
-    <td>en sammensat betegnelse, som udpeger og benævner en bestemt adgangsvej til et ubebygget areal, en bygning, en del af en bygning, et teknisk anlæg eller lignende. Reglerne for fastsættelse af adresser findes i adressebekendtgørelsen. BEK nr 271 af 13/04/2018.</td>
+    <td>Definition</td>
+    <td>[fra informationsmodel, klassen Adresse (2)]</br>En struktureret betegnelse som angiver en særskilt adgang til et areal, en bygning eller en del af en bygning, efter reglerne i adressebekendtgørelsen.</td>
   </tr>
   <tr>
-    <td>Kommentar (Adresse (1))</td>
-    <td>Kan være dels en dansk adresse udtrykt ved enten et DAR-objekt eller en Cpr-adresse eller det kan være en udenlandsk/simpel adresse udtrykt ved 5 linjers fritekst.</td>
+    <td>Kommentar</td>
+    <td>[fra Grunddatamodel, objekttype: Adresse]</br> en sammensat betegnelse, som udpeger og benævner en bestemt adgangsvej til et ubebygget areal, en bygning, en del af en bygning, et teknisk anlæg eller lignende. Reglerne for fastsættelse af adresser findes i adressebekendtgørelsen. BEK nr 271 af 13/04/2018.</td>
   </tr>
   <tr>
-    <td>Kommentar (Adresse (2))</td>
-    <td>En adresse fastsættes for at angive en bestemt adgang til et areal, fx. en byggegrund, en bygning eller en del af en bygning, fx en bolig- eller erhvervsenhed i en bygning. Reglerne for fastsættelse af adresser findes i adressebekendtgørelsen.</td>
+    <td>Kommentar</td>
+    <td>[fra informationsmodel (klassen Adresse (1))] </br> Kan være dels en dansk adresse udtrykt ved enten et DAR-objekt eller en Cpr-adresse eller det kan være en udenlandsk/simpel adresse udtrykt ved 5 linjers fritekst.</td>
+  </tr>
+  <tr>
+    <td>Kommentar</td>
+    <td>[fra informationsmodel (klassen Adresse (2))]</br> En adresse fastsættes for at angive en bestemt adgang til et areal, fx. en byggegrund, en bygning eller en del af en bygning, fx en bolig- eller erhvervsenhed i en bygning. Reglerne for fastsættelse af adresser findes i adressebekendtgørelsen.</td>
   </tr>
   <tr>
     <td>Eksempel</td>
-    <td>adressebetegnelse: Gimles Allé 14, 2300 København S adressebetegnelse: Vestergade 4B, st. th, Strib, 5500 Middelfart</td>
+    <td>[fra Grunddatamodel, objekttype: Adresse] </br> adressebetegnelse: Gimles Allé 14, 2300 København S adressebetegnelse: Vestergade 4B, st. th, Strib, 5500 Middelfart</td>
   </tr>
 </table>
 
