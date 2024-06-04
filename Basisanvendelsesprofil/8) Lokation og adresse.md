@@ -156,33 +156,6 @@ Placeringen kan fx angives med en adresse.
 </table>
 
 #### geografisk navn
-<table>
-  <tr>
-    <td>URI</td>
-    <td>http://www.w3.org/ns/locn#geographicName</td>
-  </tr>
-  <tr>
-    <td>Betegnelse (EN)</td>
-    <td>geographic name</td>
-  </tr>
-  <tr>
-    <td>Definition (EN)</td>
-    <td>A textual description for a Location.</td>
-  </tr>
-  <tr>
-    <td>Anvendelsesnote (EN)</td>
-    <td>The INSPIRE Data Specification on Geographical Names provides a detailed model for describing a 'named place', including methods for providing multiple names in multiple scripts. INSPIRE's definition is the following: Names of areas, regions, localities, cities, suburbs, towns or settlements, or any geographical or topographical feature of public or historical interest. This is beyond what is necessary for the Core Location Vocabulary but, importantly, the concept of a geographic name used here is consistent.<br><br>A geographic name is a proper noun applied to a spatial object. Taking the example used in the INSPIRE document (page 18), the following are all valid geographic names for the Greek capital:<br>- "Aθnνa"@gr-Grek (the Greek endonym written in the Greek script)<br>- "Athína"@gr-Latn (the standard Romanisation of the endonym)<br>- "Athens"@en (the English language exonym)<br><br>INSPIRE has a detailed (XML-based) method of providing metadata about a geographic name and in XML-data sets that may be the most appropriate method to follow. When using the Core Location Vocabulary in data sets that are not focussed on environmental/geographical data (the use case for INSPIRE), the Code datatype or a simple language identifier may be used to provide such metadata.<br><br>The country codes defined in ISO 3166 may be used as geographic names and these are generally preferred over either the long form or short form of a country's name (as they are less error prone). The Publications Office of the European Union recommends the use of ISO 3166-1 codes for countries in all cases except two:<br>- use 'UK' in preference to the ISO 3166 code GB for the United Kingdom;<br>- use 'EL' in preference to the ISO 3166 code GR for Greece.<br>Where a country has changed its name or no longer exists (such as Czechoslovakia, Yugoslavia etc.) use the ISO 3166-3 code.</td>
-  </tr>
-  <tr>
-    <td>Udfaldsrum</td>
-    <td>rdf:langString</td>
-  </tr>
-  <tr>
-    <td>Multiplicitet</td>
-    <td>0 - *</td>
-  </tr>
-</table>
-
 ##### _Vokabular-definition og beskrivelser_
 <table>
   <tr>
@@ -220,39 +193,6 @@ Placeringen kan fx angives med en adresse.
   <tr>
     <td>Udfaldsrum</td>
     <td>rdf:langString</td>
-  </tr>
-  <tr>
-    <td>Multiplicitet</td>
-    <td>0 - *</td>
-  </tr>
-</table>
-
-#### p-nummer
-##### _Vokabular-definition og beskrivelser_
-<table>
-  <tr>
-    <td>URI</td>
-    <td>https://data.gov.dk/model/core/registered-business/productionUnitCode</td>
-  </tr>
-  <tr>
-    <td>Term</td>
-    <td>p-nummer</td>
-  </tr>
-  <tr>
-    <td>Definition</td>
-    <td>Et entydigt identifikationsnummer for en lokation hvor en juridisk enhed har aktivitet.</td>
-  </tr>
-  <tr>
-    <td>Ækvivalent egenskab</td>
-    <td></td>
-  </tr>
-</table>
-
-##### _Profil-restriktioner og annotationer_ 
-<table>
-  <tr>
-    <td>Udfaldsrum</td>
-    <td>xsd:string</td>
   </tr>
   <tr>
     <td>Multiplicitet</td>
@@ -436,7 +376,7 @@ Adresse-ID'et er en del af INSPIRE-retningslinjerne og giver en hook, der kan br
     <td>Bruges til at angive husnummer, dørbetegnelse, etagebetegnelse og lignende.</td>
   </tr>
   <tr>
-    <t>Domæne</td>
+    <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
   <tr>
@@ -448,7 +388,7 @@ Adresse-ID'et er en del af INSPIRE-retningslinjerne og giver en hook, der kan br
 ##### _Profil-restriktioner og annotationer_ 
 <table>
 <tr>
-    <t>Domæne</td>
+    <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
   <tr>
@@ -469,6 +409,10 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 #### husnummertekst
 ##### _Vokabular-definition og beskrivelser_
 <table>
+    <tr>
+    <td>URI</td>
+    <td>[Mangler endelig fastlæggelse]</td>
+  </tr>
   <tr>
     <td>Term</td>
     <td>husnummertekst</td>
@@ -478,11 +422,11 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>husnummer</td>
   </tr>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>husnummeret til adressen inklusive evt. bogstav</td>
   </tr>
   <tr>
-    <th>Domæne</th>
+    <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
   <tr>
@@ -495,15 +439,23 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 <table>
   <tr>
     <td>Definition</td>
-    <td>husnummeret til adressen inklusive evt. bogstav</td>
+    <td>[fra Grunddatamodel, objekttype: Adresse] </br> husnummeret til adressen inklusive evt. bogstav</td>
   </tr>
   <tr>
     <td>Kommentar</td>
-    <td>et husnummer består af et tal 1-999 eventuelt efterfulgt af et stort bogstav. Reglerne for udformning af husnummer herunder hvilke bogstaver der kan anvendes, fremgår af adressebekendtgørelsen</td>
+    <td>[fra Grunddatamodel, objekttype: Adresse] </br> et husnummer består af et tal 1-999 eventuelt efterfulgt af et stort bogstav. Reglerne for udformning af husnummer herunder hvilke bogstaver der kan anvendes, fremgår af adressebekendtgørelsen</td>
   </tr>
   <tr>
     <td>Eksempel</td>
-    <td>”12”, ”12A”, ”158C”</td>
+    <td>[fra Grunddatamodel, objekttype: Adresse] </br> ”12”, ”12A”, ”158C”</td>
+  </tr>
+    <tr>
+    <td>Domæne</td>
+    <td>locn:Address</td>
+  </tr>
+  <tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string</td>
   </tr>
   <tr>
     <td>Multiplicitet</td>
@@ -531,7 +483,7 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>[Mangler endelig fastlæggelse]</td>
   </tr>
   <tr>
-    <th>Udfaldsrum</th>
+    <td>Udfaldsrum</td>
     <td>xsd:string</td>
   </tr>
 </table>
@@ -594,15 +546,23 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 <table>
   <tr>
     <td>Definition</td>
-    <td>betegnelse, som angiver hvilken etage den del af bygningen som adressen identificerer, er beliggende på</td>
+    <td>[fra Grunddatamodel, objekttype: Adresse] </br> betegnelse, som angiver hvilken etage den del af bygningen som adressen identificerer, er beliggende på</td>
   </tr>
   <tr>
     <td>Kommentar</td>
-    <td>reglerne for etagebetegnelsen, herunder værdisæt, fremgår af adressebekendtgørelsen. Stueetage angives "st", 1. og 2. sal hhv. "1", "2" osv. Kælderetagen angives "kl", etager herunder "k2", "k3" osv. Betegnelserne 0 eller -1 osv. må ikke anvendes</td>
+    <td>[fra Grunddatamodel, objekttype: Adresse] </br> reglerne for etagebetegnelsen, herunder værdisæt, fremgår af adressebekendtgørelsen. Stueetage angives "st", 1. og 2. sal hhv. "1", "2" osv. Kælderetagen angives "kl", etager herunder "k2", "k3" osv. Betegnelserne 0 eller -1 osv. må ikke anvendes</td>
   </tr>
   <tr>
     <td>Eksempel</td>
-    <td>”st”</td>
+    <td>[fra Grunddatamodel, objekttype: Adresse] </br> ”st”</td>
+  </tr>
+    <tr>
+    <td>Domæne</td>
+    <td>[Mangler endelig fastlæggelse]</td>
+  </tr>
+  <tr>
+    <td>Udfaldsrum</td>
+    <td>xsd:string</td>
   </tr>
   <tr>
     <td>Multiplicitet</td>
