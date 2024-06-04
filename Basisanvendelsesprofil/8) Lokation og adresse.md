@@ -367,19 +367,19 @@ Adresse-ID'et er en del af INSPIRE-retningslinjerne og giver en hook, der kan br
 #### vejnavn
 <table>
   <tr>
-    <th>URI</th>
+    <td>URI</td>
     <td>http://www.w3.org/ns/locn#thoroughfare</td>
   </tr>
   <tr>
-    <th>Term</th>
+    <td>Term</td>
     <td>vejnavn</td>
   </tr>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>Navnet på en passage eller vej igennem fra et sted til et andet.</td>
   </tr>
   <tr>
-    <th>Kommentar</th>
+    <td>Kommentar</td>
     <td>Bruges til at angive den del af adressen som repræsenterer vejens navn.</td>
   </tr>
   <tr>
@@ -387,11 +387,11 @@ Adresse-ID'et er en del af INSPIRE-retningslinjerne og giver en hook, der kan br
     <td>En færdselsåre er normalt en gade, men det kan være en vandvej eller en anden funktion. For eksempel "Avenue des Champs-Élysées".</td>
   </tr>
   <tr>
-    <th>Domæne</th>
+    <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
   <tr>
-    <th>Udfaldsrum</th>
+    <td>Udfaldsrum</td>
     <td>rdf:langString</td>
   </tr>
 </table>
@@ -399,15 +399,15 @@ Adresse-ID'et er en del af INSPIRE-retningslinjerne og giver en hook, der kan br
 ##### _Profil-restriktioner og annotationer_
 <table>
   <tr>
-    <th>Domæne</th>
+    <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
   <tr>
-    <th>Udfaldsrum</th>
+    <td>Udfaldsrum</td>
     <td>rdf:langString</td>
   </tr>
   <tr>
-    <th>Multiplicitet</th>
+    <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
 </table>
@@ -470,11 +470,11 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 ##### _Vokabular-definition og beskrivelser_
 <table>
   <tr>
-    <th>Term</th>
+    <td>Term</td>
     <td>husnummertekst</td>
   </tr>
   <tr>
-    <th>Alternativ term</th>
+    <td>Alternativ term</td>
     <td>husnummer</td>
   </tr>
   <tr>
@@ -486,7 +486,7 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>locn:Address</td>
   </tr>
   <tr>
-    <th>Udfaldsrum</th>
+    <td>Udfaldsrum</td>
     <td>xsd:string</td>
   </tr>
 </table>
@@ -494,19 +494,19 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 ##### _Profil-restriktioner og annotationer_ 
 <table>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>husnummeret til adressen inklusive evt. bogstav</td>
   </tr>
   <tr>
-    <th>Kommentar</th>
+    <td>Kommentar</td>
     <td>et husnummer består af et tal 1-999 eventuelt efterfulgt af et stort bogstav. Reglerne for udformning af husnummer herunder hvilke bogstaver der kan anvendes, fremgår af adressebekendtgørelsen</td>
   </tr>
   <tr>
-    <th>Eksempel</th>
+    <td>Eksempel</td>
     <td>”12”, ”12A”, ”158C”</td>
   </tr>
   <tr>
-    <th>Multiplicitet</th>
+    <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
 </table>
@@ -515,15 +515,15 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 ##### _Vokabular-definition og beskrivelser_
 <table>
   <tr>
-    <th>Term</th>
+    <td>Term</td>
     <td>dørbetegnelse</td>
   </tr>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>Betegnelse, som angiver den adgangsdør e.l. som adressen identificerer</td>
   </tr>
   <tr>
-    <th>Domæne</th>
+    <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
   <tr>
@@ -531,19 +531,19 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>xsd:string</td>
   </tr>
   <tr>
-    <th>Definition [fra Grunddatamodel, objekttype: Adresse]</th>
+    <td>Definition [fra Grunddatamodel, objekttype: Adresse]</td>
     <td>betegnelse, som angiver den adgangsdør e.l. som adressen identificerer</td>
   </tr>
   <tr>
-    <th>Kommentar [fra Grunddatamodel, objekttype: Adresse]</th>
+    <td>Kommentar [fra Grunddatamodel, objekttype: Adresse]</td>
     <td>dørbetegnelsen angives normalt med udgangspunkt i det fælles adgangsareal på den pågældende etage (fx trappeafsats e.l.) som døren er placeret i. Reglerne for dørbetegnelsen, herunder værdisæt, fremgår af adressebekendtgørelsen.</td>
   </tr>
   <tr>
-    <th>Eksempel [fra Grunddatamodel, objekttype: Adresse]</th>
+    <td>Eksempel [fra Grunddatamodel, objekttype: Adresse]</td>
     <td>”th”, ”a109”</td>
   </tr>
   <tr>
-    <th>Multiplicitet</th>
+    <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
 </table>
@@ -553,19 +553,19 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 ##### _Vokabular-definition og beskrivelser_
 <table>
   <tr>
-    <th>Term</th>
+    <td>Term</td>
     <td>etagebetegnelse</td>
   </tr>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>Betegnelse, som angiver hvilken etage den del af bygningen som adressen identificerer, er beliggende på</td>
   </tr>
   <tr>
-    <th>Domæne</th>
+    <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
   <tr>
-    <th>Udfaldsrum</th>
+    <td>Udfaldsrum</td>
     <td>xsd:string</td>
   </tr>
 </table>
@@ -573,15 +573,15 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 ##### _Profil-restriktioner og annotationer_ 
 <table>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>betegnelse, som angiver hvilken etage den del af bygningen som adressen identificerer, er beliggende på</td>
   </tr>
   <tr>
-    <th>Kommentar</th>
+    <td>Kommentar</td>
     <td>reglerne for etagebetegnelsen, herunder værdisæt, fremgår af adressebekendtgørelsen. Stueetage angives "st", 1. og 2. sal hhv. "1", "2" osv. Kælderetagen angives "kl", etager herunder "k2", "k3" osv. Betegnelserne 0 eller -1 osv. må ikke anvendes</td>
   </tr>
   <tr>
-    <th>Eksempel</th>
+    <td>Eksempel</td>
     <td>”st”</td>
   </tr>
   <tr>
@@ -596,15 +596,15 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 ##### _Vokabular-definition og beskrivelser_
 <table>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>Navnet på et geografisk område, der grupperer adresser.</td>
   </tr>
   <tr>
-    <th>Anvendelsesnote</th>
+    <td>Anvendelsesnote</td>
     <td>Dette vil typisk være en del af en by, et kvarter eller en landsby, f.eks. Montmartre. Adresseområdet er ikke en administrativ enhed.</td>
   </tr>
   <tr>
-    <th>Domæne</th>
+    <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
   <tr>
@@ -612,7 +612,7 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>rdf:langString</td>
   </tr>
   <tr>
-    <th>Multiplicitet</th>
+    <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
 </table>
@@ -621,23 +621,23 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 ##### _Vokabular-definition og beskrivelser_
 <table>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>En placeringsbetegnelse for et postleveringssted på et postkontor, normalt et nummer.</td>
   </tr>
   <tr>
-    <th>Kommentar</th>
+    <td>Kommentar</td>
     <td>INSPIREs navn for dette er "postalDeliveryIdentifier", som den bruger locator designator-egenskaben til med en type-attribut med det navn. Core Location Vocabulary adskiller postkassen for større uafhængighed af teknologi. Et eksempel på postkassenummer er "9383".</td>
   </tr>
   <tr>
-    <th>Domæne</th>
+    <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
   <tr>
-    <th>Udfaldsrum</th>
+    <td>Udfaldsrum</td>
     <td>xsd:string</td>
   </tr>
   <tr>
-    <th>Multiplicitet</th>
+    <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
 </table>
@@ -646,23 +646,23 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 ##### _Vokabular-definition og beskrivelser_
 <table>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>Koden oprettet og vedligeholdt til postformål for at identificere en underopdeling af adresser og postleveringssteder.</td>
   </tr>
   <tr>
-    <th>Kommentar</th>
+    <td>Kommentar</td>
     <td>Postnumre er almindelige elementer i mange landes postadressesystemer. Et af de mange postnumre i Paris er for eksempel "75000".</td>
   </tr>
   <tr>
-    <th>Domæne</th>
+    <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
   <tr>
-    <th>Udfaldsrum</th>
+    <td>Udfaldsrum</td>
     <td>xsd:string</td>
   </tr>
   <tr>
-    <th>Multiplicitet</th>
+    <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
 </table>
@@ -671,19 +671,19 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 ##### _Vokabular-definition og beskrivelser_
 <table>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>Et navn, der er oprettet og vedligeholdt til postformål for at identificere en underopdeling af adresser og postleveringssteder.</td>
   </tr>
   <tr>
-    <th>Kommentar</th>
+    <td>Kommentar</td>
     <td>Normalt en by, for eksempel "Paris".</td>
   </tr>
   <tr>
-    <th>Domæne</th>
+    <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
   <tr>
-    <th>Udfaldsrum</th>
+    <td>Udfaldsrum</td>
     <td>rdf:langString</td>
   </tr>
 </table>
@@ -691,7 +691,7 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 #### Profil-restriktioner og annotationer 
 <table>
   <tr>
-    <th>Multiplicitet</th>
+    <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
 </table>
@@ -700,23 +700,23 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 ##### _Vokabular-definition og beskrivelser_
 <table>
   <tr>
-    <th>Term</th>
+    <td>Term</td>
     <td>fuld adresse</td>
   </tr>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>Den komplette adresse skrevet som en streng.</td>
   </tr>
   <tr>
-    <th>Kommentar</th>
+    <td>Kommentar</td>
     <td>Det anbefales at bruge denne egenskab, og dermed undgå misforståelser, der ellers kan opstå ved opdelingen af en adresse i dens komponenter. Denne egenskab er analog med vCards label-egenskab, men med to vigtige forskelle: (1) formatering forudsættes ikke, så det i modsætning til en vCard-etiket muligvis ikke er egnet at udskrive som en adresselabel, (2) vCards label-egenskab har et domæne af vCard-adresse; ejendommen fullAddress har ingen tilsvarende begrænsning. Et eksempel på en fuldstændig adresse er "Champ de Mars, 5 Avenue Anatole France, 75007 Paris, France"</td>
   </tr>
   <tr>
-    <th>Domæne</th>
+    <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
   <tr>
-    <th>Udfaldsrum</th>
+    <td>Udfaldsrum</td>
     <td>rdf:langString</td>
   </tr>
 </table>
@@ -724,23 +724,23 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 #####  _Profil-restriktioner og annotationer_ 
 <table>
   <tr>
-    <th>Alternativ term</th>
+    <td>Alternativ term</td>
     <td>adressebetegnelse</td>
   </tr>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>en læsbar struktur, som identificerer adressen fuldstændigt</td>
   </tr>
   <tr>
-    <th>Kommentar</th>
+    <td>Kommentar</td>
     <td>adressebetegnelse er sammensat af betegnelserne: vejnavn, husnummer, evt. etage- og dørbetegnelse, evt. supplerende bynavn samt postnummer og postbynavn. Reglerne for formateringen findes i vejledningen i fastsættelse af vejnavne og adresser. <a href="https://danmarksadresser.dk/om-adresser/saadan-gengives-en-adresse">https://danmarksadresser.dk/om-adresser/saadan-gengives-en-adresse</a></td>
   </tr>
   <tr>
-    <th>Eksempel</th>
+    <td>Eksempel</td>
     <td>”Gimles Allé 14, 2300 København S”, ”Vestergade 4B, st. th, Strib, 5500 Middelfart”</td>
   </tr>
   <tr>
-    <th>Multiplicitet</th>
+    <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
 </table>
@@ -749,22 +749,22 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
 ##### _Vokabular-definition og beskrivelser_
 <table>
   <tr>
-    <th>Term</th>
+    <td>Term</td>
     <td>adresse-id</td>
   </tr>
   <tr>
-    <th>Definition</th>
+    <td>Definition</td>
     <td>En globalt unik identifikator for hver forekomst af en adresse.</td>
   </tr>
   <tr>
-    <th>Kommentar</th>
+    <td>Kommentar</td>
     <td>Konceptet med at tilføje en globalt unik identifikator for hver forekomst af en adresse er en afgørende del af INSPIRE-dataspecifikationen. En række EU-lande har allerede implementeret et ID (et UUID) i deres adresseregister/gazetteer, heriblandt Danmark. OASIS xAL inkluderer også en adresseidentifikator. Det er adresseidentifikatoren, der gør det muligt at repræsentere en adresse i et andet format end INSPIRE, mens den forbliver i overensstemmelse med kernevokabularet.
 INSPIRE-metoden til at repræsentere adresser er meget detaljeret, designet primært til brug i adressedatabaser. Mens data, der er offentliggjort i fuld overensstemmelse med INSPIRE-datastrukturen, kan gøres tilgængelige ved hjælp af Core Location Vocabulary, er det omvendte ikke tilfældet, da Core Vocabulary tillader meget større fleksibilitet.
 Mange datasæt, der inkluderer adressedata som del af information om noget andet, vil sandsynligvis have disse data i enklere formater. Disse kan være udformet til datasættets specifikke behov, følge en national norm eller gøre brug af en standard som vCard.
 For at give maksimal fleksibilitet i Core Vocabulary, mens den forbliver interoperabel med INSPIRE Address Guidelines (som EU-medlemsstaterne er forpligtet til at bruge), giver Core Location Vocabulary den ekstra egenskab med fuld adresse og gør brug af INSPIRE's addressID.</td>
   </tr>
   <tr>
-    <th>Udfaldsrum</th>
+    <td>Udfaldsrum</td>
     <td>xsd:string</td>
   </tr>
 </table>
@@ -772,7 +772,7 @@ For at give maksimal fleksibilitet i Core Vocabulary, mens den forbliver interop
 ##### _Profil-restriktioner og annotationer_ 
 <table>
   <tr>
-    <th>Multiplicitet</th>
+    <td>Multiplicitet</td>
     <td>0 - 1</td>
   </tr>
 </table>
