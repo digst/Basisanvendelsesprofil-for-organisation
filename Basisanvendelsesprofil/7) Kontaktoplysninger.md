@@ -530,7 +530,8 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
           </ul>
         </li>
         <li>Faxnummer</li>
-        <li>Telefon</li>
+        <li>Telefonnummer</li>
+         <ul><li>Hovedtelefonnummer</li></ul>
         <li>Webside</li>
       </ul>
     </td>
