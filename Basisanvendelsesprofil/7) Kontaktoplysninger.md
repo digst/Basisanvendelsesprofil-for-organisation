@@ -315,9 +315,20 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
     <td>Anvendelsesnote</td>
     <td>Udfaldsrummet er defineret bredt som 'rdfs:Literal'. Udfaldsrummet omfatter altså blandt andet xsd:string, rdf:langString og xsd:anyURI.</td>
   </tr>
+    <tr>
+    <td>Anvendelsesnote</td>
+    <td>Telefonnummer (og faxnummer)</br>
+For telefonnumre og faxnumre anbefales det at angive nummeret i overensstemmelse med ITU-Ts anbefaling E.164 ( https://en.wikipedia.org/wiki/E.164 ).</br>  
+E-mailadresse</br>
+Det anbefales at angive mailadresser på en måde der overholder ’mailto’-URI-scheme ( https://www.rfc-editor.org/rfc/rfc6068 ).</br> 
+Web-adresse</br>
+Webadresser bør angives på en måde der overholder ’RFC 9110 HTTP Semantics” ( https://www.rfc-editor.org/rfc/rfc9110.html ).</br> 
+Adresse</br>
+Adresser bør overholde reglerne for formateringen i vejledningen: https://danmarksadresser.dk/om-adresser/saadan-gengives-en-adresse</td>
+  </tr>
   <tr>
     <td>Eksempel</td>
-    <td>Hvis den valgte kontaktform, det vil sige det valgte emne fra ’ovx:ContactForm’, er ’Telefon’ så kunne værdien eksempelvis være ’12 34 56 78’.</td>
+    <td>Hvis den valgte kontaktform, det vil sige det valgte emne fra ’ovx:ContactForm’, er ’Telefon’ så kunne værdien eksempelvis være ’+4512345678’.</td>
   </tr>
   <tr>
     <td>Domæne</td>
