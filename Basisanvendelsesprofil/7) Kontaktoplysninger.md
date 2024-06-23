@@ -552,7 +552,11 @@ Både direkte tilknyttet kontaktinformation og kvalificeret kontaktinformation b
     <td>Kommentar</td>
     <td>[fra informationsmodel (klassen Kontaktinformation)]<br>omhandler fx fysiske steder som adresser, lokaler, men også virtuelle som sociale medier, email, DigitalPost mv.</td>
   </tr>
-  <tr>
+ <tr>
+    <td>Kommentar</td>
+    <td>Kontaktform vil - af den nedsatte redaktionsgruppe - blive vedligeholdt kontinuerligt. Som en del af det arbejde vil koordinering med eksisterende, kendte og aktivt anvendte registres beskrivelse af kontaktformer blive anvendt som input til basisprofilens kontaktformer. Basisprofilens kontaktformer skal kunne dække alle relevante kontaktformer fra og til organisationer.</td>
+  </tr> 
+ <tr>
     <td>Eksempel</td>
     <td>[fra informationsmodel (klassen Kontaktinformation)]<br>- hovedtelefonnummer<br>- emailadresse<br>- digitalPostadresse<br>- vareindlevering<br>- besøgsadresse<br>- fakturaadresse-EAN<br>- fakturaadresse-post<br>- ...</td>
   </tr>
