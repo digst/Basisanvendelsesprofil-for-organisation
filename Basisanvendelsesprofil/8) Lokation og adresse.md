@@ -600,7 +600,8 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>rdf:langString</td>
   </tr>
 </table>
-#### Profil-restriktioner og annotationer 
+
+#### _Profil-restriktioner og annotationer_ 
 <table>
    <tr>
     <td>Domæne</td>
@@ -636,7 +637,8 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>xsd:string</td>
   </tr>
 </table>
-#### Profil-restriktioner og annotationer 
+
+#### _Profil-restriktioner og annotationer_ 
 <table>
    <tr>
     <td>Domæne</td>
@@ -673,7 +675,8 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>xsd:string</td>
   </tr>
 </table>
-#### Profil-restriktioner og annotationer 
+
+#### _Profil-restriktioner og annotationer_ 
 <table>
    <tr>
     <td>Domæne</td>
@@ -709,7 +712,8 @@ Egenskaben `locn:locatorDesignator` (positionsindikator) dækker flere egenskabe
     <td>rdf:langString</td>
   </tr>
 </table>
-#### Profil-restriktioner og annotationer 
+
+#### _Profil-restriktioner og annotationer_ 
 <table>
     <tr>
     <td>Domæne</td>
@@ -809,9 +813,10 @@ For at give maksimal fleksibilitet i Core Vocabulary, mens den forbliver interop
     <td>xsd:string</td>
   </tr>
 </table>
+
 ##### _Profil-restriktioner og annotationer_ 
-<table>
-    <tr>
+<table> 
+  <tr>
     <td>Domæne</td>
     <td>locn:Address</td>
   </tr>
