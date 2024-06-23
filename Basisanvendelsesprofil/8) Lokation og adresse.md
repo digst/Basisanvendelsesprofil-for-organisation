@@ -257,6 +257,14 @@ Placeringen kan fx angives med en adresse.
 ##### _Vokabular-definition og beskrivelser_
 <table>
   <tr>
+    <td>URI</td>
+    <td>http://www.w3.org/ns/locn#Address</td>
+  </tr>  
+  <tr>
+    <td>Term</td>
+    <td>Adresse</td>
+  </tr>
+  <tr>
     <td>Definition</td>
     <td>Et spatialt objekt, der på en menneskelig læsbar måde identificerer en fast placering.</td>
   </tr>
