@@ -151,10 +151,6 @@ Følgende vokabular og det angivne præfiks samt navnerum er oprettet til unders
 </tr>
 </table>
 
-## Vejledning til diagrammer samt definitioner og beskrivelser 
-(Orange kasse)
-Her indsættes kort beskrivelse  +  link til anden side i GitHub.
-
 
  
 [^1]: https://github.com/digst/ORG-AP-DK/blob/main/releases/v.1.0/business/Brugerbehov%20til%20F%C3%A6llesoffentlig%20standard%20for%20Organisation%20%E2%80%93%202022-02-18_KL20221014.docx
