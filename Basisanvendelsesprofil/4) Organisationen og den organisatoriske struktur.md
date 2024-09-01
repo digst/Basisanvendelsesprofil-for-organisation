@@ -268,7 +268,7 @@ I kapitlerne ’Den formelle organisations egenskaber’ og ’Den organisatoris
 </tr>
 </table>
  	
-_Profil-restriktioner og annotationer_
+#####_Profil-restriktioner og annotationer_
 <table>
 <tr>
     <td>Definition</td>
