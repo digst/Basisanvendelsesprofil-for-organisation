@@ -558,42 +558,62 @@ Da betegnelsen EAN-nummer er gennemgående på fakturaer, blanketter og i faktur
 
 
 ##### _Profilens kontekstrestriktioner og annotationer_ 
-Definition	[fra informationsmodel (klassen Myndighed)]
-Type af myndighed  
-Kommentar	[fra informationsmodel]
-Typer af myndighed:
-00 = ukendt myndighed
-04 = personregisterfører
-05 = kommuner
-07 = fiktive kommuner (f.eks. ATP)
-10 = domstole
-14 = valgkontoret
-15 = statsforvaltninger m.fl.
-16 = justitsministeriet
-17 = indfødsretskontoret
-18 = udlændingeservice
-20 = anerkendte trossamfund
-25 = sogne
-30 = lande
-35 = politi
-39 = CPR kontoret (kongelige)
-40 = regioner (sygehuse)
-41 = borgere (flytning via venteregisteret)
-42 = borgere (flytning direkte)
-43 = udtrækskunder
-45 = skattecentre
-50 = IT-leverandører samt FORPAS
-55 = værnepligtsregistrerende myndighed
-70 = ministerier
-71 = kirkeministeriet
-75 = landsdel
-80 = stifter
-85 = provstier
-98 = øvre kommune, København 102
+
+<table>
+    <tr>
+        <td>Definition</td>
+        <td>[fra informationsmodel (klassen Myndighed)]</br>
+Type af myndighed </td>
+    </tr>
+    <tr>
+        <td>Kommentar</td>
+        <td>[fra informationsmodel] </br> 
+Typer af myndighed:</br>
+00 = ukendt myndighed</br>
+04 = personregisterfører</br>
+05 = kommuner</br>
+07 = fiktive kommuner (f.eks. ATP)</br>
+10 = domstole</br>
+14 = valgkontoret</br>
+15 = statsforvaltninger m.fl.</br>
+16 = justitsministeriet</br>
+17 = indfødsretskontoret</br>
+18 = udlændingeservice</br>
+20 = anerkendte trossamfund</br>
+25 = sogne</br>
+30 = lande</br>
+35 = politi</br>
+39 = CPR kontoret (kongelige)</br>
+40 = regioner (sygehuse)</br>
+41 = borgere (flytning via venteregisteret)</br>
+42 = borgere (flytning direkte)</br>
+43 = udtrækskunder</br>
+45 = skattecentre</br>
+50 = IT-leverandører samt FORPAS</br>
+55 = værnepligtsregistrerende myndighed</br>
+70 = ministerier</br>
+71 = kirkeministeriet</br>
+75 = landsdel</br>
+80 = stifter</br>
+85 = provstier</br>
+98 = øvre kommune, København 102</br>
 99 = maskinel myndighedskode
-Domæne	org:FormalOrganization
-Udfaldsrum	ovx:FormalOrganizationType
-Multiplicitet	0 - *
+</td>
+    </tr>
+    <tr>
+        <td>Domæne</td>
+        <td>org:FormalOrganization</td>
+    </tr>
+    <tr>
+        <td>Udfaldsrum</td>
+        <td>ovx:FormalOrganizationType</td>
+    </tr>
+    <tr>
+        <td>Multiplicitet</td>
+        <td>0 - *</td>
+    </tr>
+</table>
+
 
 ### Type af formel organisation (klasse)
 [Vi bør nok også anvende en underklasse af ConceptScheme til at indholde det samlede udvalg af organisationstyper. Vi bør måske kunne inddrage decentrale organisationsklassifikationer] (farve, gul farve her)
