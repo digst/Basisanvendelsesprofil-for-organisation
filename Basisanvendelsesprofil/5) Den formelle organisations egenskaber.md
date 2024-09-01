@@ -701,10 +701,20 @@ Typer af myndighed:</br>
 </table>
 
 ##### _Profilens kontekstrestriktioner og annotationer_
-Domæne	ovx:FormalOrganizationType
-Udfaldsrum	rdf:langString
-
-Multiplicitet	1 - *
+<table>
+    <tr>
+     <td>Domæne</td>
+    <td>ovx:FormalOrganizationType</td>
+</tr>    
+    <tr>
+     <td>Udfaldsrum</td>
+    <td>rdf:langString</td>
+	</tr> 
+    <tr>
+     <td>Multiplicitet</td>
+    <td>1 - *</td>
+</tr> 
+</table>
 
 #### alternativ betegnelse
 ##### _Vokabular-definition og beskrivelser_
